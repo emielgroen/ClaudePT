@@ -1,0 +1,237 @@
+# 02 Symptom & Activity Log
+
+## Daily Check-In Questions
+
+> **1. Activity:** What did you do today? (type, duration, surface)
+> **2. Left Knee (0–10):** Any tingling, buzzing, or numbness? When — during activity, after, or baseline?
+> **3. Right Knee (0–10):** Any pinching, soreness, or puffiness? When — during activity, after, or baseline?
+> **4. Daily Habits:**
+>    - Soft knees when standing idle? (yes / no / forgot)
+>    - Footwear today? (supportive / flat / barefoot)
+>    - Sleep position pillow used? (yes / no)
+>    - Sitting posture — feet tucked back or flat/forward?
+> **5. Sleep & Restless Legs (0–5):** How was last night? Any restlessness or buzzing?
+> **6. Rehab & Relief:** PT exercises done? Magnesium? Taping used today?
+> **7. Anything Else:** Anything notable — stress, travel, new shoes, skipped rest day, etc.
+
+---
+
+## Log Entries
+
+<!--
+Log Instructions for Antigravity:
+1. Identify the pain archetype: Is the Left knee behaving like nerve irritation (burning/tingling radiating)? Is the Right knee behaving like fat pad pinching (pinching on extension, puffiness, pain after standing)?
+2. Calculate the 72-hour window: Trace backward to see if a flare-up correlates with a city walk, running, padel, or long standing session from 2-3 days ago.
+3. Log recovery parameters: Ensure magnesium intake and sleep-disrupting restless leg scores are updated.
+4. Log behavioral adjustments: Note if the user maintained "soft knees" during standing, wore supportive footwear, or used sleep positioning pillows, and track how those behaviors correlate with symptoms.
+-->
+
+### Monday 2026-08-11
+
+1. **Activity:** Rest day — no exercise or significant walking.
+2. **Left Knee (3/10):** Mild tingling. Baseline.
+3. **Right Knee (3/10):** Mild tingling. Baseline.
+4. **Leg Fatigue:** 2/5.
+5. **Daily Habits:**
+   - Soft knees: No (not yet aware)
+   - Footwear: Good sneakers ✓
+   - Sleep pillow: No
+   - Sitting posture: Did not pay attention
+   - Standing desk: Used, but did not watch for hyperextension
+6. **Sleep & Restless Legs:** 1.5/5 — Sunday night was fine overall, mild restless legs.
+7. **Rehab & Relief:** No PT exercises. No magnesium.
+8. **Notes:** General uneasiness in legs, but less than the days prior. Both knees presenting with similar tingling sensation.
+
+> ⚠️ *Antigravity Note: Both knees showing identical tingling at 3/10 on a rest day — worth monitoring whether the sensation profile stays similar or diverges under load. No 72-hour correlation to check yet (log starts here).*
+
+---
+
+### Tuesday 2026-08-12
+
+1. **Activity:** Short ruck — 6kg backpack, 2km total, morning.
+2. **Left Knee (2/10):** Mild tingling. Baseline.
+3. **Right Knee (2/10):** Mild tingling/soreness. Baseline.
+4. **Leg Fatigue:** 1/5.
+5. **Daily Habits:**
+   - Soft knees: No
+   - Footwear: Good sneakers ✓
+   - Sleep pillow: No
+   - Sitting posture: Did not pay attention
+6. **Sleep & Restless Legs:** 0/5 — Monday night was fine, went to bed late but no restless legs.
+7. **Rehab & Relief:** No PT exercises. Some magnesium ✓.
+8. **Notes:** —
+
+> ✅ *Antigravity Note: Improvement from Monday (3/10 → 2/10 both knees, fatigue 2 → 1). Short 6kg ruck did not aggravate — consistent with rucking being well-tolerated when knees aren't already flaring. Magnesium taken, restless legs dropped to 0 (from 1.5 on Sunday night without Mg). Early signal worth tracking.*
+
+---
+
+### Wednesday 2026-08-13
+
+1. **Activity:** Morning SUP (15 min) + swim (5 min). Evening short racebike ride (20 min).
+2. **Left Knee (0/10):** No symptoms.
+3. **Right Knee (0/10):** No symptoms.
+4. **Leg Fatigue:** 0/5.
+5. **Daily Habits:**
+   - Soft knees: N/A — on the move most of the day, minimal static standing
+   - Footwear: Good sneakers ✓
+   - Sleep pillow: No
+   - Sitting posture: Mostly moving, not much seated time
+6. **Sleep & Restless Legs:** 0/5 — Slept well despite going to bed late. Woke up fine.
+7. **Rehab & Relief:** No PT exercises. No magnesium.
+8. **Notes:** —
+
+> 🟢 *Antigravity Note: First pain-free day (0/10 both knees, 0/5 fatigue). All activities were dynamic and multi-planar (SUP, swimming, short cycling) — exactly the profile that the master context predicts as well-tolerated. Key insight: being on the move throughout the day with varied movement may be more protective than a sedentary day with poor standing posture (compare Monday: rest day, 3/10 pain vs. Wednesday: active day, 0/10 pain). No 72-hour flare risk from these activities expected, but we will verify on Saturday.*
+
+---
+
+### Thursday 2026-08-13
+
+1. **Activity:** Rest day — sat most of the day. ~45 min total walking split across 3 short walks.
+2. **Left Knee (3/10):** Tingling soreness at the front of the knee / below the knee on the front.
+3. **Right Knee (2/10):** Mild soreness in front of the knee, just below the kneecap.
+4. **Leg Fatigue:** 1/5.
+5. **Daily Habits:**
+   - Soft knees: Did not practice
+   - Footwear: Non-supportive shoes ✗
+   - Sleep pillow: No
+   - Sitting posture: Sat most of the day
+6. **Sleep & Restless Legs:** 0/5 — Slept well, woke before alarm. No restless legs.
+7. **Rehab & Relief:** No PT exercises. No magnesium.
+8. **Notes:** —
+
+> ⚠️ *Antigravity Note: Pain returned on another sedentary day (0/10 → 3/10 L, 0/10 → 2/10 R). Pattern strengthening: sedentary days with flat/non-supportive footwear correlate with higher symptoms than active days with varied movement.*
+
+---
+
+### Friday 2026-08-14
+
+1. **Activity:** Road bike ride (18 km, 45 mins, morning) + Evening out with friends including ~3 hours of dancing (wore good sneakers).
+2. **Left Knee (2/10):** Mild soreness/tingling around front and sides of kneecap. Not painful.
+3. **Right Knee (2/10):** Mild soreness on the sides of the knee. Not painful.
+4. **Leg Fatigue:** 2/5.
+5. **Daily Habits:**
+   - Soft knees: Mindful throughout the day ✓
+   - Footwear: Good sneakers for all walking & dancing ✓
+   - Sleep pillow: Used pillow trick Thursday night ✓
+   - Sitting posture: Consciously avoided cross-legged sitting & tucked feet; focused on proper knee angles ✓
+6. **Sleep & Restless Legs:** 0/5 — Slept well (~7.5 hrs), used pillow trick, no restless legs.
+7. **Rehab & Relief:** No PT exercises. Magnesium taken in evening ✓.
+8. **Notes:** First day actively integrating multiple postural adjustments. High overall movement day (45m cycling + 3h dancing). Wore good sneakers for dancing. Knees remained stable without sharp pain.
+
+> 🟢 *Antigravity Note: High cumulative volume day (cycling + 3h dancing on feet). Crucially, wearing good sneakers buffered the joint impact during dancing. The 72-hour observation window for this combined load peaks on Sunday/Monday — manage Saturday load carefully to avoid stacking.*
+
+---
+
+### Saturday 2026-08-15
+
+1. **Activity:** Gym session — PT strength circuit (3x15 TKE, 3x6 VMO Squats @ 6kg, 3x8 Lateral Box Step-ups bodyweight) + Upper body workout.
+2. **Left Knee (2/10):** Mild soreness on the front just below kneecap and slightly on the sides.
+3. **Right Knee (2/10):** Mild soreness mostly on the sides of the knee.
+4. **Leg Fatigue:** 2/5 (both legs feel slightly sore/worked).
+5. **Daily Habits:**
+   - Soft knees: Actively practiced when standing & walking (takes conscious effort/feels new) ✓
+   - Footwear: Birkenstocks (felt supportive due to arch/heel cup) ✓
+   - Sleep pillow: Normal night sleep
+   - Sitting posture: Mindful of knee angles ✓
+6. **Sleep & Restless Legs:** 0/5 — Slept well despite late night after party, no restless legs.
+7. **Rehab & Relief:** PT exercises completed! (TKE, VMO squats, Step-ups). Magnesium taken in afternoon ✓.
+8. **Notes:** First day actively maintaining "soft knees" throughout the day during standing and walking. User noted it feels like it takes more effort because quads and glutes are actively working rather than passively hanging on joint ligaments.
+
+> 🟢 *Antigravity Note: Excellent execution. First full gym PT circuit performed (6kg VMO squats, step-ups, TKEs) without triggering sharp pain (steady at 2/10 mild workout soreness). The "extra effort" felt during soft-knee standing confirms muscular activation is replacing passive hyperextension. 72-hour window from Friday's cycling/dancing + Saturday's gym will peak Sunday through Tuesday — watch for any delayed reaction.*
+
+---
+
+### Sunday 2026-08-16
+
+1. **Activity:** Rest day.
+2. **Left Knee (4/10):** Soreness.
+3. **Right Knee (4/10):** Soreness.
+4. **Daily Habits:**
+   - Soft knees: Mindful
+   - Footwear: Inside/casual
+   - Sleep pillow: Used Saturday night ✓
+   - Sitting posture: Standard
+5. **Sleep & Restless Legs:** 2/5 — Restless sleep, did not wake fully refreshed despite plenty of hours.
+6. **Rehab & Relief:** Tried taping (trouble sticking due to leg hair). A few banded crab walks. No magnesium.
+7. **Notes:** —
+
+> ⚠️ *Antigravity Note: Day 2 post-Friday (cycling + 3h dancing) and Day 1 post-Saturday (gym PT circuit). Soreness spiked from 2/10 to 4/10 bilaterally with restless sleep returning (2/5). Classic cumulative volume latency response after two back-to-back loaded days.*
+
+---
+
+### Monday 2026-08-17
+
+1. **Activity:** Road bike ride (18 km @ 24 km/h).
+2. **Left Knee (2/10 before ride):** Felt relatively quiet before setting off.
+3. **Right Knee (2/10 before ride):** Felt relatively quiet before setting off.
+4. **Daily Habits:**
+   - Soft knees: Mindful
+   - Footwear: Okay shoes ✓
+   - Sleep pillow: Used Sunday night ✓
+5. **Sleep & Restless Legs:** 2/5 — Decent hours but did not wake refreshed, slightly restless legs.
+6. **Rehab & Relief:** No PT exercises. No magnesium.
+7. **Notes:** Bike ride felt noticeably heavier/more strenuous than expected.
+
+> ⚠️ *Antigravity Note: Riding 18km at 24 km/h while legs were still carrying Saturday's PT fatigue + Friday's dancing fatigue resulted in a heavy ride. Cycling loaded on top of unresolved cumulative fatigue tends to trigger delayed anterior knee pressure.*
+
+---
+
+### Tuesday 2026-08-18 (Midday Update)
+
+1. **Activity:** Rest day / working from home indoors.
+2. **Left Knee (4/10):** Soreness, tingling around the front of the kneecap.
+3. **Right Knee (4/10):** Soreness mostly around the sides of the kneecap.
+4. **Daily Habits:**
+   - Soft knees: Mindful
+   - Sleep pillow: Used Monday night ✓
+   - Sitting posture: Working inside most of the day
+5. **Sleep & Restless Legs:** 2/5 — Restless sleep.
+6. **Rehab & Relief:** No PT exercises yet. No magnesium yet.
+7. **Notes:** Day 4 post-dancing/gym and Day 1 post-Monday bike ride. Classic Day 3 / cumulative latency peak.
+
+> ⚠️ *Antigravity Note: Both knees sitting at 4/10 today with front tingling (L) and side soreness (R). This is the cumulative peak of: Fri (dancing) + Sat (gym PT) + Mon (18km fast ride). Action for today: prioritize active recovery, quad tension release, avoiding static deep sitting, and taking magnesium tonight.*
+
+---
+
+### Wednesday 2026-08-19 – Sunday 2026-08-23 (Festival Weekend)
+
+1. **Activity:** Multi-day festival — extensive standing, walking, dancing, and jumping.
+2. **Left Knee:** Knees had a rough time overall; occasional brief sharp pain a few times during the weekend that never lingered.
+3. **Right Knee:** Tired and worked, but pain was surprisingly lower during free, natural dancing and jumping compared to hyper-focusing on guarding.
+4. **Secondary Symptoms:** Lower back bore significant strain and hurt the most from sustained standing/posture.
+5. **Daily Habits:**
+   - Soft knees: Focused a lot on keeping knees in a soft bend while standing.
+   - Rest positions: Consciously extended knees whenever getting a chance to sit/rest.
+6. **Sleep & Restless Legs:** Controlled throughout most of the weekend with heavy magnesium supplementation, but spiked to severe restlessness on the final night (cumulative neural/muscular fatigue).
+7. **Rehab & Relief:** High dose magnesium taken consistently throughout the weekend ✓.
+8. **Key Notes & Breakthrough Insight:** Hyper-focusing and guarding the knees produced *more* discomfort (protective muscle bracing/tension), whereas intuitive, relaxed dancing and jumping felt better.
+
+> 💡 *Antigravity Note: Crucial clinical takeaway regarding movement psychology and motor control. Conscious hyper-vigilance/guarding causes co-contraction and stiffening of the quadriceps, which spikes patellofemoral contact pressure. Free, uninhibited dynamic movement engages elastic recoil and distributes load naturally across the ankles, hips, and spine. Occasional brief sharp twinges in the operated left knee under multi-directional jump loading without sustained irritation suggest transient tendon/scar stress rather than structural re-injury.*
+
+---
+
+### Monday 2026-08-24
+
+1. **Activity:** Travel day home + carrying heavy bags.
+2. **Left Knee (1–2/10):** Tired, but minimal pain.
+3. **Right Knee (1–2/10):** Tired, but minimal pain.
+4. **Secondary Symptoms:** Residual lower back fatigue from festival standing.
+5. **Sleep & Restless Legs (2/5):** Restless night, primarily driven by general sleep debt and festival exhaustion rather than knee-specific nerve buzzing.
+6. **Rehab & Relief:** Magnesium taken ✓. No PT exercises (recovery day).
+7. **Notes:** Knees held up surprisingly well post-travel and bag carrying.
+
+> 🟢 *Antigravity Note: Day 1 post-festival. Remarkable lack of severe knee flare-up despite heavy festival mileage, dancing, and lugging bags. The combination of soft-knee standing, dynamic jumping mechanics, and regular magnesium buffered the joints effectively.*
+
+---
+
+### Tuesday 2026-08-25
+
+1. **Activity:** Short walking + short city bike ride (felt quite strenuous due to overall body fatigue).
+2. **Left Knee (1–2/10):** Tired, but little actual pain.
+3. **Right Knee (1–2/10):** Tired, but little actual pain.
+4. **Secondary Symptoms:** Leftover lower back pain made walking slightly uncomfortable.
+5. **Sleep & Restless Legs (0/5):** Slept well, restful recovery night.
+6. **Rehab & Relief:** Magnesium taken ✓. No PT exercises.
+7. **Notes:** General full-body tiredness dominating sensation over knee pain.
+
+> 🟢 *Antigravity Note: Day 2 post-festival. Knees remain stable at low pain (1–2/10) with only residual muscular fatigue. Sleep quality rebounded fully to 0/5 restlessness. The primary remaining issue is lower back stiffness from pelvic compensation during prolonged festival standing. As full-body energy restores, gentle mobility (cat-cow, hip flexor stretch) and resuming light PT activation will transition you back into your baseline rehab routine.*
