@@ -235,3 +235,17 @@ Log Instructions for Antigravity:
 7. **Notes:** General full-body tiredness dominating sensation over knee pain.
 
 > 🟢 *Antigravity Note: Day 2 post-festival. Knees remain stable at low pain (1–2/10) with only residual muscular fatigue. Sleep quality rebounded fully to 0/5 restlessness. The primary remaining issue is lower back stiffness from pelvic compensation during prolonged festival standing. As full-body energy restores, gentle mobility (cat-cow, hip flexor stretch) and resuming light PT activation will transition you back into your baseline rehab routine.*
+
+---
+
+### Thursday 2026-08-27
+
+1. **Activity:** First full PT routine done at home (evening). Clamshells 2x10/side; banded crab walks 3x6 each direction (upsized from planned 2x8); Poliquin step-downs on yoga block 2x6/leg; heel-elevated bodyweight squats; lateral step-ups on a low step; pogohops skipped intentionally. Cooldown stretches (Figure-4, half-kneeling hip flexor) completed.
+2. **Left Knee:** No pain reported. Clicking noted twice — ascending on step-downs (left leg working) and descending on lateral step-ups. Painless both times.
+3. **Right Knee:** —
+4. **Daily Habits:** —
+5. **Sleep & Restless Legs:** —
+6. **Rehab & Relief:** Full home routine completed (minus pogohops). Cooldown reported as "awesome."
+7. **Anything Else:** Noticed right outer hip (glute medius) fatiguing/struggling during banded work. Noticed left knee/quad strength giving some balance difficulty during single-leg step work.
+
+> 💡 *Antigravity Note: First home-adapted session, useful diagnostic day. Right-hip fatigue during crab walks directly confirms the Postural Hyperextension / right-side overcompensation mechanism — that's precisely why Exercise B is in the plan. Left knee/quad balance difficulty on single-leg work plus painless clicking on step-downs and step-ups fits expected post-TTT quad inhibition (a common lingering effect years after surgery) rather than a new problem — no pain or swelling reported alongside it. Worth keeping an eye on whether clicking stays painless as reps/depth increase over coming sessions.*
