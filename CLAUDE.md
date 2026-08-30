@@ -16,7 +16,10 @@ capacity so he can eventually stay pain-free even when exercising as much as he 
   restriction.
 - **`02_Symptom_Log.MD`** — The daily check-in log. This is the primary place you write to.
 
-At the start of a session, read all three files for context before responding.
+At the start of a session, read all three files for context before responding. Since Emiel
+switches between devices/sessions, also `git fetch`/check against `origin/main` and pull any
+commits you don't have locally before relying on the log's contents — a stale local checkout can
+otherwise look like a missing entry that was actually already logged elsewhere.
 
 ## Daily Check-In Questions (for reference)
 
@@ -36,6 +39,13 @@ entries (heading with the date, numbered fields, then an italic "Note:" callout 
 matching the entry's overall trend — 🟢 good day, ⚠️ flare/latency concern, 💡 notable insight).
 Fill in only what he actually told you; leave a field as "—" if he didn't mention it rather than
 guessing. Don't ask him to repeat what he already said in free-form text — parse it yourself.
+Always print the 7 daily check-in questions when asking him to log a day, even as a reminder
+alongside a free-form prompt — don't just ask him to "describe" the day.
+
+After writing to `02_Symptom_Log.MD` (or either of the other two files), commit and push to
+`origin/main` immediately, without waiting to be asked. Since Emiel moves between devices/
+sessions, an uncommitted or unpushed change only exists on this machine — pushing right away is
+what lets the next session (on any device) see it via a pull.
 
 ## Date & Logging-Gap Awareness
 
