@@ -249,3 +249,45 @@ Log Instructions for Antigravity:
 7. **Anything Else:** Noticed right outer hip (glute medius) fatiguing/struggling during banded work. Noticed left knee/quad strength giving some balance difficulty during single-leg step work.
 
 > 💡 *Antigravity Note: First home-adapted session, useful diagnostic day. Right-hip fatigue during crab walks directly confirms the Postural Hyperextension / right-side overcompensation mechanism — that's precisely why Exercise B is in the plan. Left knee/quad balance difficulty on single-leg work plus painless clicking on step-downs and step-ups fits expected post-TTT quad inhibition (a common lingering effect years after surgery) rather than a new problem — no pain or swelling reported alongside it. Worth keeping an eye on whether clicking stays painless as reps/depth increase over coming sessions.*
+
+---
+
+### Friday 2026-08-28
+
+1. **Activity:** Rest day — nothing done.
+2. **Left Knee (3/10):** Sore, attributed to Thursday's home PT session.
+3. **Right Knee (3/10):** Same soreness as left, also attributed to Thursday's workout.
+4. **Daily Habits:** Not as consistent with soft-knee standing today.
+5. **Sleep & Restless Legs (2/5):** Night after the workout — noticeably more restless than surrounding nights.
+6. **Rehab & Relief:** Magnesium taken before bed. No PT exercises (rest day).
+7. **Anything Else:** Came down with a sinus infection today — headaches and lower energy, onset this morning.
+
+> 💡 *Antigravity Note: Day 1 post-first-home-PT-session. 3/10 bilateral soreness plus a notably more restless night (2/5 vs. the usual 0–1/5) fits standard post-training muscular soreness/DOMS rather than a joint flare — expected after the first loaded session in a while. Sinus infection onset today is a confound to watch over the coming days: illness-related fatigue and reduced soft-knee vigilance could compound with training soreness rather than being a true 72-hour flare signal.*
+
+---
+
+### Saturday 2026-08-29
+
+1. **Activity:** Rest day — nothing done.
+2. **Left Knee (2/10):** Mild soreness, possibly related to being sick rather than the joint itself.
+3. **Right Knee (2/10):** Same as left.
+4. **Daily Habits:** Soft-knee standing less consistent — low energy from sickness likely a factor.
+5. **Sleep & Restless Legs (~1/5):** Settled back down from Thursday night's spike; roughly in the usual 0–1/5 range.
+6. **Rehab & Relief:** Magnesium taken before bed. No PT exercises.
+7. **Anything Else:** Sinus infection a bit worse than Friday — headaches, low energy continuing.
+
+> ⚠️ *Antigravity Note: Day 2 post-workout / Day 2 of sinus infection. Soreness eased from 3/10 to 2/10 as expected post-DOMS, but sickness is trending worse rather than better. Reduced soft-knee compliance while run-down is worth flagging — general fatigue tends to erode postural discipline first, which could let baseline symptoms creep up if the illness drags on.*
+
+---
+
+### Sunday 2026-08-30
+
+1. **Activity:** Rest day — nothing done.
+2. **Left Knee (2/10):** Mild soreness, possibly sickness-related.
+3. **Right Knee (2/10):** Same as left.
+4. **Daily Habits:** Soft-knee standing still less consistent — lowest energy of the three days.
+5. **Sleep & Restless Legs (~1/5):** Similar to Saturday, within the usual 0–1/5 range.
+6. **Rehab & Relief:** Magnesium taken before bed. No PT exercises.
+7. **Anything Else:** Sinus infection worse again — most headache/fatigue of the three days.
+
+> ⚠️ *Antigravity Note: Day 3 post-workout / Day 3 of sinus infection, and the illness is still escalating rather than resolving. Knee soreness itself has been stable and mild (2/10, unchanged from Saturday) — reassuring that this isn't an independent knee flare, just a low-grade ache riding along with general illness and inconsistent soft-knee habits. Priority for now is recovering from the sinus infection; hold off resuming the full PT circuit until energy and headaches improve, and just keep magnesium and passive habits going in the meantime.*
