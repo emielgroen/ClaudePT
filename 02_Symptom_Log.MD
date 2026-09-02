@@ -291,3 +291,23 @@ Log Instructions for Antigravity:
 7. **Anything Else:** Sinus infection worse again — most headache/fatigue of the three days.
 
 > ⚠️ *Antigravity Note: Day 3 post-workout / Day 3 of sinus infection, and the illness is still escalating rather than resolving. Knee soreness itself has been stable and mild (2/10, unchanged from Saturday) — reassuring that this isn't an independent knee flare, just a low-grade ache riding along with general illness and inconsistent soft-knee habits. Priority for now is recovering from the sinus infection; hold off resuming the full PT circuit until energy and headaches improve, and just keep magnesium and passive habits going in the meantime.*
+
+---
+
+*(Mon 2026-08-31 – Tue 2026-09-01 not logged — tail end of the sinus infection, not considered representative.)*
+
+---
+
+### Wednesday 2026-09-02
+
+1. **Activity:** Full home PT session — clamshells, banded crab walks, Poliquin step-downs, heel-elevated VMO squats, lateral step-ups (2x8), pogohops skipped, cooldown stretches done. First full session since Thu 8/27.
+2. **Left Knee (2/10):** Mild ache, attributed to locking knees out a lot the last few days rather than the workout itself.
+3. **Right Knee (2/10):** Same as left.
+4. **Daily Habits:**
+   - Soft knees: Was locking out a lot recently; consciously corrected today — felt good, though it immediately shifted noticeable fatigue/tension to the hips.
+   - Sleep pillow: Used ✓ — "really helps them feel comfortable."
+5. **Sleep & Restless Legs (~1/5):** Good night, not too restless.
+6. **Rehab & Relief:** Full PT circuit completed (see Activity). Magnesium — not mentioned. No taping.
+7. **Anything Else:** Movement itself felt fine, no issues — the 2/10 ache reads as joint/postural (from hyperextending/locking out) rather than workout-induced soreness. Hip fatigue showed up as soon as soft-knee posture was corrected, consistent with hips being the current limiting link. Sick days (Mon/Tue) not logged individually per Emiel's note above. Plan: next session Friday 2026-09-04, add a small overload if pain stays okay through Thursday, keep hip-focused exercises (clamshells, crab walks) as the priority.
+
+> 💡 *Antigravity Note: Illness-driven layoff (Fri 8/28–Tue 9/1) plus recent knee-locking is the likely source of today's mild 2/10 ache — not a training flare, since movement itself felt clean and pain didn't change during exercise. Notable insight: correcting soft-knee posture immediately surfaced hip fatigue, reinforcing that the hips (glute medius, right-side overcompensation) are the current bottleneck rather than the knees themselves — good justification for keeping Exercises A/B (clamshells, crab walks) as the priority as load increases. First full session back at pre-illness volume, tolerated well; cleared to progress toward Friday pending Thursday's response.*
