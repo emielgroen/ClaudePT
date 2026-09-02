@@ -12,7 +12,7 @@ All strength and activation exercises should be performed at the gym (or with ap
     *   **Execution Cues:** Hips at 45°, knees at 90°. Stack your pelvis and roll your top hip slightly *forward*. Keep heels glued; lift top knee solely using your upper-outer glute. Do not let your lower back or pelvis rotate backward.
 
 *   **Exercise B: Banded Lateral Crab Walks (6kg Decathlon Mini-Band)**
-    *   **Dose:** 2 sets x 8 steps left, 8 steps right.
+    *   **Dose:** 3 sets x 8 steps left, 8 steps right. *(Progressed from 3x6 on 2026-09-02 — hip focus is the priority as load increases.)*
     *   **Clinical Rationale (Dynamic Pelvic Endurance):** Trains the endurance of the hip abductors under standing, soft-knee conditions—building the fatigue resistance needed for long standing and walking without triggering lower back compensation.
     *   **Execution Cues:** Place your 6 kg band just above the knees. Set a slight hip hinge with soft knees. Keep feet parallel (toes pointing dead straight ahead). Push knees out against the band as you step sideways, never letting the knees cave inward.
 
@@ -33,6 +33,7 @@ All strength and activation exercises should be performed at the gym (or with ap
     *   **Execution Cues:** Stand sideways to a bottom stair or sturdy low surface (~15–25 cm). Place working foot on the step. Drive through the heel to stand tall. Lower down very slowly over 3 full seconds without letting the knee collapse inward.
 
 ### 3. Plyometrics & Impact Conditioning
+*   **Currently paused (as of 2026-09-02):** Holding off on pogohops until Exercises A–E are progressing well without issue.
 *   **Exercise F: Double-Leg Pogohops (Bodyweight on Yoga Mat / Carpet)**
     *   **Setup:** Stand on your **yoga mat** (folded in half if needed) for joint cushioning.
     *   **Dose:** 1–2 sets of 20–30 quick continuous hops.
