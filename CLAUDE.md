@@ -14,46 +14,53 @@ capacity so he can eventually stay pain-free even when exercising as much as he 
   pacing guidelines, and daily postural adjustments. Update when symptom trends in the log
   justify progressing (or regressing) the plan — e.g. a phase change, a new exercise, a relaxed
   restriction.
-- **`02_Symptom_Log.MD`** — The daily check-in log. This is the primary place you write to.
+- **`02_Symptom_Log.MD`** — The workout-reaction log. This is the primary place you write to.
 
 At the start of a session, read all three files for context before responding. Since Emiel
 switches between devices/sessions, also `git fetch`/check against `origin/main` and pull any
 commits you don't have locally before relying on the log's contents — a stale local checkout can
 otherwise look like a missing entry that was actually already logged elsewhere.
 
-## Daily Check-In Questions (for reference)
+## Workout Check-In Questions (for reference)
 
-1. **Activity:** What did he do today? (type, duration, surface)
-2. **Left Knee (0–10):** Any tingling, buzzing, or numbness? When?
-3. **Right Knee (0–10):** Any pinching, soreness, or puffiness? When?
-4. **Daily Habits:** Soft knees when standing? Footwear? Sleep pillow? Sitting posture?
-5. **Sleep & Restless Legs (0–5):** How was last night?
-6. **Rehab & Relief:** PT exercises done? Magnesium? Taping used?
-7. **Anything Else:** Notable context (stress, travel, new shoes, skipped rest day, etc.)
+Logging is triggered by **workouts**, not the calendar — there is no daily check-in anymore, and
+rest days don't need an entry. When Emiel reports a workout, cover:
 
-## Logging a Check-In
+1. **Workout:** What did he do? (exercises, sets/reps/dose vs. plan, duration)
+2. **Reaction:** Soreness (worked-muscle fatigue/ache) is expected and fine — note it briefly but
+   don't dwell on it. **Actual pain** (sharp, joint-level, not just muscular) is the thing to
+   flag clearly — which knee, where, and when it showed up (during, immediately after, or
+   delayed).
+3. **Anything Else:** Only context that helps interpret the reaction (illness, bad sleep, a new
+   exercise, a missed rest day, etc.) — skip it if there's nothing notable.
 
-When Emiel describes a day (even briefly, even several days at once), append a new entry to
-`02_Symptom_Log.MD` under `## Log Entries`, following the exact structure of the existing
-entries (heading with the date, numbered fields, then an italic "Note:" callout with an emoji
-matching the entry's overall trend — 🟢 good day, ⚠️ flare/latency concern, 💡 notable insight).
-Fill in only what he actually told you; leave a field as "—" if he didn't mention it rather than
-guessing. Don't ask him to repeat what he already said in free-form text — parse it yourself.
-Always print the 7 daily check-in questions when asking him to log a day, even as a reminder
-alongside a free-form prompt — don't just ask him to "describe" the day.
+## Logging a Workout
+
+When Emiel describes a workout (even briefly), append a new entry to `02_Symptom_Log.MD` under
+`## Log Entries`, keyed to the workout rather than the date. Follow the existing entry
+style (heading, numbered fields, italic "Note:" callout with an emoji matching the trend — 🟢
+clean session, ⚠️ pain/flare concern, 💡 notable insight). Fill in only what he told you; leave a
+field as "—" if unmentioned rather than guessing. Don't make him repeat free-form text he already
+gave you — parse it yourself.
+
+Give each entry a **follow-up target date** (~60–72h out, the latency window below) and schedule
+a `send_later` reminder for that time asking specifically whether the reaction stayed at
+soreness or crossed into actual pain, and when. When that follow-up lands — via the reminder, or
+Emiel bringing it up unprompted, or a new session noticing a past-due target — update the
+*same* entry with the outcome rather than creating a new one.
 
 After writing to `02_Symptom_Log.MD` (or either of the other two files), commit and push to
 `origin/main` immediately, without waiting to be asked. Since Emiel moves between devices/
 sessions, an uncommitted or unpushed change only exists on this machine — pushing right away is
 what lets the next session (on any device) see it via a pull.
 
-## Date & Logging-Gap Awareness
+## Date & Pending Follow-Up Awareness
 
-Always know **today's actual date** (check the system/environment date — do not assume or
-reuse a date from an old log entry) and compare it to the most recent entry in
-`02_Symptom_Log.MD`. If Emiel is more than a day or two behind on logging, mention it naturally
-early in the conversation and offer to help him catch up — he can describe several days at once
-and you'll log each one separately.
+Always know **today's actual date** (check the system/environment date — never assume or reuse a
+date from an old log entry). Scan `02_Symptom_Log.MD` for workout entries whose follow-up target
+date has passed with no recorded outcome yet, and proactively ask about those early in the
+conversation rather than waiting to be asked. There's no gap-tracking for rest days anymore —
+only pending workout follow-ups matter.
 
 ## Pattern Recognition & Latency Tracking
 

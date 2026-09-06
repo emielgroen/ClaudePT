@@ -1,18 +1,14 @@
 # 02 Symptom & Activity Log
 
-## Daily Check-In Questions
+## Workout Check-In Questions
 
-> **1. Activity:** What did you do today? (type, duration, surface)
-> **2. Left Knee (0–10):** Any tingling, buzzing, or numbness? When — during activity, after, or baseline?
-> **3. Right Knee (0–10):** Any pinching, soreness, or puffiness? When — during activity, after, or baseline?
-> **4. Daily Habits:**
->    - Soft knees when standing idle? (yes / no / forgot)
->    - Footwear today? (supportive / flat / barefoot)
->    - Sleep position pillow used? (yes / no)
->    - Sitting posture — feet tucked back or flat/forward?
-> **5. Sleep & Restless Legs (0–5):** How was last night? Any restlessness or buzzing?
-> **6. Rehab & Relief:** PT exercises done? Magnesium? Taping used today?
-> **7. Anything Else:** Anything notable — stress, travel, new shoes, skipped rest day, etc.
+> Logging is triggered by **workouts**, not the calendar — no daily entries, no rest-day entries.
+>
+> **1. Workout:** What did you do? (exercises, sets/reps vs. plan, duration)
+> **2. Reaction:** Soreness is expected and fine. Actual pain (sharp, joint-level) is what to flag — which knee, where, and when (during / immediately after / delayed).
+> **3. Anything Else:** Only if relevant to interpreting the reaction (illness, bad sleep, a new exercise, etc.)
+>
+> Each entry gets a **follow-up target** (~60–72h out) for the delayed-onset window — tracked via a scheduled reminder, then folded into the same entry once the outcome is known.
 
 ---
 
@@ -24,6 +20,7 @@ Log Instructions for Antigravity:
 2. Calculate the 72-hour window: Trace backward to see if a flare-up correlates with a city walk, running, padel, or long standing session from 2-3 days ago.
 3. Log recovery parameters: Ensure magnesium intake and sleep-disrupting restless leg scores are updated.
 4. Log behavioral adjustments: Note if the user maintained "soft knees" during standing, wore supportive footwear, or used sleep positioning pillows, and track how those behaviors correlate with symptoms.
+5. Distinguish soreness (expected, not flagged) from actual pain (the signal to watch) in every entry going forward, and track each entry's follow-up target date against today's date.
 -->
 
 ### Monday 2026-08-11
