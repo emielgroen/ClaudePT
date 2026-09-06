@@ -316,17 +316,21 @@ Log Instructions for Antigravity:
 ### Saturday 2026-09-05 — Hike
 
 1. **Activity:** Hike, 13km, ~250m elevation gain / ~250m descent.
-2. **Reaction:** *Follow-up pending — not yet reported.*
+2. **Reaction:** *(Reported Sun 2026-09-06)* Irritation **above** both kneecaps — a constant buzz, most noticeable on the **outsides** of the upper knee but felt across the whole knee. **Right worse than left.** No sharp or joint-level pain reported. Timing relative to Sunday's PT session not yet established — see note.
 3. **Anything Else:** —
 
-> *Antigravity Note: Planned Friday PT session (2026-09-04) was skipped — no workout logged for that date. Reaction not yet known; do not assume outcome until Emiel reports it.*
+> ⚠️ *Antigravity Note: Planned Friday PT session (2026-09-04) was skipped — no workout logged for that date. The Sunday-reported buzz is logged identically on this entry and on the Sun 9/6 PT session: **both are equally possible contributors** (plus the new standing lateral leg raises within that session), and no single cause is being assigned. This hike's ~250m of descent is a sustained eccentric quad load, which is a plausible route to distal-quad/upper-knee irritation — but so is Sunday's quad circuit. Open question for Emiel: did the buzz start **before or after** Sunday's session? That is what separates the two.*
 
 ---
 
 ### Sunday 2026-09-06 — PT Session (Crab Walks Substituted)
 
 1. **Workout:** Clamshells 2x10/side, Standing Lateral Leg Raises 2x15/side (substituted for banded crab walks — no band available), Poliquin step-downs 2x6/leg, Heel-elevated VMO squats 3x10, Lateral step-ups 2x8/leg.
-2. **Reaction:** *Follow-up pending — not yet reported.*
+2. **Reaction:** *(Reported same day, Sun 2026-09-06)* Irritation **above** both kneecaps — a constant buzz, most noticeable on the **outsides** of the upper knee but felt across the whole knee. **Right worse than left.** No sharp or joint-level pain reported. Whether the buzz began before or after this session is not yet established — still open.
 3. **Anything Else:** First session using the bodyweight lateral leg raise swap for Exercise B.
 
-> *Antigravity Note: Reaction not yet known; do not assume outcome until Emiel reports it. If/when pain is reported on a later day, treat this session, the Sat 9/5 hike, and any other unresolved activity in the preceding days as equally possible contributors rather than assuming which one caused it.*
+> 💡 *Antigravity Note: New symptom **location** worth flagging. Everything logged to date sits at or below the kneecap (front and sides); this is **suprapatellar and lateral** — the distal vastus lateralis / lateral retinaculum region. Sensation quality (constant buzz/tingle, not sharp) and the right>left asymmetry both match the established profile in `00_Master_Context.MD`; only the address is new.*
+>
+> *Differential fit: **(1) PFPS / lateral tracking imbalance is the best fit** — upper-outer knee is exactly where lateral quad and retinacular pull concentrate. **(2) Postural hyperextension** is a plausible background contributor but doesn't localize suprapatellarly. **(3) Fat pad is unlikely** — wrong location, that structure sits below the patella. **(4) Scar/cutaneous nerve is unlikely** — that's left-sided and infrapatellar, whereas this is bilateral and right-dominant.*
+>
+> *Cause: **not attributed to any single activity.** Equally possible contributors are this session (Poliquin step-downs + heel-elevated VMO squats, both direct quad loading), the **new standing lateral leg raises** performed here for the first time, and the **Sat 9/5 13km hike with ~250m descent**. Diffuse bilateral upper-knee buzz without sharpness, swelling, or joint-line pain reads more like worked-quad irritation than a joint flare, but the 72h window from both the hike and this session is still open — watch through Tue 9/8.*
