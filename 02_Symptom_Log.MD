@@ -316,18 +316,17 @@ Log Instructions for Antigravity:
 ### Saturday 2026-09-05 — Hike
 
 1. **Activity:** Hike, 13km, ~250m elevation gain / ~250m descent.
-2. **Reaction:** No pain reported.
+2. **Reaction:** *Follow-up pending — not yet reported.*
 3. **Anything Else:** —
 
-> 🟢 *Antigravity Note: Fits the master-context pattern — dynamic, varied-terrain activity like hiking has consistently been high-tolerance for both knees, and that held true here despite meaningful distance and elevation. Planned Friday PT session (2026-09-04) was skipped — no workout logged for that date.*
+> *Antigravity Note: Planned Friday PT session (2026-09-04) was skipped — no workout logged for that date. Reaction not yet known; do not assume outcome until Emiel reports it.*
 
 ---
 
 ### Sunday 2026-09-06 — PT Session (Crab Walks Substituted)
 
 1. **Workout:** Clamshells 2x10/side, Standing Lateral Leg Raises 2x15/side (substituted for banded crab walks — no band available), Poliquin step-downs 2x6/leg, Heel-elevated VMO squats 3x10, Lateral step-ups 2x8/leg.
-2. **Reaction:** No pain. Soreness only.
+2. **Reaction:** *Follow-up pending — not yet reported.*
 3. **Anything Else:** First session using the bodyweight lateral leg raise swap for Exercise B.
 
-> 🟢 *Antigravity Note: Clean session, no pain — good early signal that the lateral-leg-raise substitute is a viable stand-in for the band when needed. Worth comparing hip fatigue between this and the banded version over the next few sessions to confirm it's hitting the same endurance stimulus.*
-> **Follow-up target: ~Wed 2026-09-09 (72h)** — check whether soreness stayed put or anything crossed into pain.
+> *Antigravity Note: Reaction not yet known; do not assume outcome until Emiel reports it. If/when pain is reported on a later day, treat this session, the Sat 9/5 hike, and any other unresolved activity in the preceding days as equally possible contributors rather than assuming which one caused it.*
