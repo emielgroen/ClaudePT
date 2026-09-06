@@ -49,10 +49,11 @@ soreness or crossed into actual pain, and when. When that follow-up lands — vi
 Emiel bringing it up unprompted, or a new session noticing a past-due target — update the
 *same* entry with the outcome rather than creating a new one.
 
-After writing to `02_Symptom_Log.MD` (or either of the other two files), commit and push to
-`origin/main` immediately, without waiting to be asked. Since Emiel moves between devices/
-sessions, an uncommitted or unpushed change only exists on this machine — pushing right away is
-what lets the next session (on any device) see it via a pull.
+After writing to `02_Symptom_Log.MD` (or either of the other two files), commit, push to the
+working branch, and **merge straight into `origin/main`** (fast-forward when possible) —
+immediately, without waiting to be asked each time. Since Emiel moves between devices/sessions,
+an uncommitted or unmerged change only exists on this machine/branch — merging to `main` right
+away is what lets the next session (on any device) see it via a pull.
 
 ## Date & Pending Follow-Up Awareness
 

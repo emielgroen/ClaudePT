@@ -308,3 +308,26 @@ Log Instructions for Antigravity:
 7. **Anything Else:** Movement itself felt fine, no issues — the 2/10 ache reads as joint/postural (from hyperextending/locking out) rather than workout-induced soreness. Hip fatigue showed up as soon as soft-knee posture was corrected, consistent with hips being the current limiting link. Sick days (Mon/Tue) not logged individually per Emiel's note above. Plan: next session Friday 2026-09-04, add a small overload if pain stays okay through Thursday, keep hip-focused exercises (clamshells, crab walks) as the priority.
 
 > 💡 *Antigravity Note: Illness-driven layoff (Fri 8/28–Tue 9/1) plus recent knee-locking is the likely source of today's mild 2/10 ache — not a training flare, since movement itself felt clean and pain didn't change during exercise. Notable insight: correcting soft-knee posture immediately surfaced hip fatigue, reinforcing that the hips (glute medius, right-side overcompensation) are the current bottleneck rather than the knees themselves — good justification for keeping Exercises A/B (clamshells, crab walks) as the priority as load increases. First full session back at pre-illness volume, tolerated well; cleared to progress toward Friday pending Thursday's response.*
+
+> **Follow-up (reported Sun 2026-09-06):** No pain — soreness only. Clean outcome through the 72h window.
+
+---
+
+### Saturday 2026-09-05 — Hike
+
+1. **Activity:** Hike, 13km, ~250m elevation gain / ~250m descent.
+2. **Reaction:** No pain reported.
+3. **Anything Else:** —
+
+> 🟢 *Antigravity Note: Fits the master-context pattern — dynamic, varied-terrain activity like hiking has consistently been high-tolerance for both knees, and that held true here despite meaningful distance and elevation. Planned Friday PT session (2026-09-04) was skipped — no workout logged for that date.*
+
+---
+
+### Sunday 2026-09-06 — PT Session (Crab Walks Substituted)
+
+1. **Workout:** Clamshells 2x10/side, Standing Lateral Leg Raises 2x15/side (substituted for banded crab walks — no band available), Poliquin step-downs 2x6/leg, Heel-elevated VMO squats 3x10, Lateral step-ups 2x8/leg.
+2. **Reaction:** No pain. Soreness only.
+3. **Anything Else:** First session using the bodyweight lateral leg raise swap for Exercise B.
+
+> 🟢 *Antigravity Note: Clean session, no pain — good early signal that the lateral-leg-raise substitute is a viable stand-in for the band when needed. Worth comparing hip fatigue between this and the banded version over the next few sessions to confirm it's hitting the same endurance stimulus.*
+> **Follow-up target: ~Wed 2026-09-09 (72h)** — check whether soreness stayed put or anything crossed into pain.
