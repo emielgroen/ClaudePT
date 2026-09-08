@@ -22,10 +22,11 @@ All strength and activation exercises should be performed at the gym (or with ap
     *   **Clinical Rationale (VMO Terminal Lockout & Tendon Capacity):** Replaces machine TKEs. By elevating the heel and letting the working knee travel forward over the toes, this isolates the *Vastus Medialis Oblique (VMO)* in terminal knee extension while safely loading the patellar tendon.
     *   **Execution Cues:** Stand on a yoga block or bottom stair with the working leg. Keep torso perfectly upright. Lower the opposite heel straight down toward the floor by pushing the working knee forward over the 2nd toe (heel can lift slightly). Lightly tap the floor with the free heel (no bouncing!) and push back up, squeezing the VMO hard at lockout.
 
-*   **Exercise D: Heel-Elevated VMO Squats (Bodyweight or 6kg Backpack)**
-    *   **Dose:** 3 sets x 10 reps.
+*   **Exercise D: Heel-Elevated VMO Squats (Bodyweight)**
+    *   **Dose:** 3 sets x 10 reps. *(Bodyweight only, by preference as of 2026-09-08 — Emiel doesn't always have a backpack/weight on hand, so external loading was dropped rather than relying on inconsistent equipment.)*
     *   **Clinical Rationale (Patellofemoral Tracking & Anterior Unloading):** Elevating heels (on yoga blocks angled against wall or a 2–3 cm book/plank) allows the knees to travel forward without leaning the torso forward, maximizing quad engagement while removing lumbar strain.
     *   **Execution Cues:** Place heels on elevation, feet hip-width. Stay upright. Descend under control (3 seconds down) keeping knees aligned over 2nd toes. Actively push knees outward to prevent valgus collapse.
+    *   **Future progression (no added weight needed):** increase reps/sets, slow the descent further (4–5 seconds), add a 2–3 second pause at the bottom, or add a deliberate hard quad squeeze/hold at lockout — all load the VMO harder without depending on having a weight available.
 
 *   **Exercise E: Lateral Box / Stair Step-Ups (Bodyweight)**
     *   **Dose:** 2–3 sets x 8–10 reps per leg.
