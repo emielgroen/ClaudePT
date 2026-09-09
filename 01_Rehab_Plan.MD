@@ -16,6 +16,11 @@ All strength and activation exercises should be performed at the gym (or with ap
     *   **Clinical Rationale (Dynamic Pelvic Endurance):** Trains the endurance of the hip abductors under standing, soft-knee conditions—building the fatigue resistance needed for long standing and walking without triggering lower back compensation.
     *   **Execution Cues:** Place your 6 kg band just above the knees. Set a slight hip hinge with soft knees. Keep feet parallel (toes pointing dead straight ahead). Push knees out against the band as you step sideways, never letting the knees cave inward.
 
+*   **Suggested Addition (not PT-prescribed — added 2026-09-09, do before Exercises A/B):** Glute Bridges (Bodyweight)
+    *   **Dose:** 2 sets x 12 reps, 2-second squeeze at the top.
+    *   **Rationale:** Added after anterior left hip pain (pinch-quality) surfaced on 2026-09-09. Firing the glutes first (reciprocal inhibition) reduces reliance on the hip flexors, which have likely been overworking since correcting soft-knee standing posture shifted load to the hips (per the 2026-09-02 entry). Chosen deliberately over deeper hip flexor stretching, since a joint-level pinch (vs. a muscular ache) can mean anterior hip impingement — driving into a deep static stretch may aggravate rather than help, whereas bridges unload the hip flexor without putting the joint into deep flexion.
+    *   **Execution Cues:** Lie on your back on the yoga mat, feet flat, knees bent. Drive through your heels to lift hips, squeezing glutes hard at the top. Keep ribs down — don't arch the lower back to gain height.
+
 ### 2. Main Quad & Knee Strength Circuit (Bodyweight & Home Gear)
 *   **Exercise C: Poliquin Step-Downs (Bodyweight on Yoga Block or Bottom Stair)**
     *   **Dose:** 2–3 sets x 8–10 reps per leg (slow and controlled).
