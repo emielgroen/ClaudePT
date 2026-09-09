@@ -348,3 +348,23 @@ Log Instructions for Antigravity:
 > *Antigravity Note: All other exercises (clamshells, crab walks, step-downs, step-ups) did receive a genuine overload today and should be read against the previous session on that basis. VMO squats are the exception — treat that exercise as roughly unchanged in effective load.*
 >
 > *Immediate post-session onset points to today's session as the proximate trigger (rather than a delayed 48–72h load from prior days), and today's genuinely overloaded exercises are the most direct candidates — clamshells, banded crab walks, step-downs, and step-ups all load the quad/hip complex, so no single one of those is being singled out either. Location note: this is the **second** time a suprapatellar ache has been logged (also Sun 9/6, bilateral, buzzing rather than dull ache, right > left). Two data points isn't a confirmed pattern, but both sit in the same distal-quad/lateral-retinaculum region rather than the more typical at-or-below-kneecap spot — worth continuing to watch whether this location recurs specifically on overloaded quad-training days. Mild, dull, immediately post-exercise, no swelling or sharpness — reads as expected worked-muscle response, not a flare; standard 24h settle check applies (green ≤3/10 settling within 24h).*
+
+---
+
+### Wednesday 2026-09-09 — PT Session (Tempo Progression on VMO Squats)
+
+1. **Workout:** Session run as prescribed. Clamshells 2x12/side (2-sec hold). Banded Lateral Crab Walks 3x8 steps each direction @ 6kg band. Poliquin step-downs 2x8/leg (held, no rep increase). Heel-elevated VMO squats 3x10 **bodyweight** with 4-sec descent + 2-sec bottom pause (the session's only progression — water bottle dropped). Lateral step-ups 3x8/leg. Pogohops still paused. No deviations reported.
+2. **Reaction:** *(Reported same day, post-session)* Session **felt fine** overall. **Left knee:** slight pain after the hip activators (clamshells / crab walks) that **went away quickly**. **Right knee:** —. Left knee **struggling for balance** during the final exercise (lateral step-ups). No sharpness, swelling, or joint-level pain reported.
+3. **Anything Else:** **New symptom — slight pain in the front of the left hip.** Onset timing within the day not specified. Also note: session was run **24h after** the Tue 9/8 session rather than the suggested 48h spacing.
+
+> 💡 *Antigravity Note: New location again — **anterior left hip**. This is the third consecutive session to surface a symptom in a **new** address (Sun 9/6 suprapatellar buzz, Tue 9/8 right suprapatellar ache, now left anterior hip), which is itself the pattern worth tracking, more than any single spot.*
+>
+> *Cause: **not attributed to a single activity.** Every exercise in this session loads the hip flexor/quad complex, and three sit in the ≤72h window as equally possible contributors — this session, the **Tue 9/8 overload session** (only 24h prior, so recovery was compressed relative to the 48h that was planned), and the cumulative hip load since soft-knee posture was corrected on 9/02. The 9/02 entry already recorded that correcting knee lockout **immediately shifted fatigue to the hips**; anterior hip pain is a plausible downstream expression of that same shift, but that is one candidate among several, not a conclusion.*
+>
+> *Differential fit: anterior hip pain most likely reflects **hip flexor (iliopsoas / rectus femoris) overwork or overactivity**, which ties back to mechanism 2 (Postural Hyperextension & Overcompensation) — hip flexors picking up work the glutes should be doing. **Rectus femoris is the crossover structure to watch**: it spans hip and knee, so a single irritated muscle could plausibly account for both the anterior hip pain and the suprapatellar knee symptoms of the last three sessions. Not established, but it is the one explanation that unifies both locations and deserves testing over the coming sessions.*
+>
+> *Left-knee findings both read as expected rather than alarming: transient post-activation pain that resolved quickly, and single-leg balance difficulty on step-ups — the latter is a **recurrence of the Thu 8/27 finding** (left knee/quad strength giving balance difficulty on single-leg work), consistent with long-standing post-TTT quad inhibition rather than anything new.*
+>
+> *Screened against overload markers — sharp joint-level pain, pain rising during exercise, swelling, giving way, session-on-session worsening: **none present**. Standard 24h settle check applies to the anterior hip.*
+>
+> *Outstanding: the 24h settle outcome for the Tue 9/8 right suprapatellar ache was **never reported** and is not inferred from this session's "felt fine" — still open.*
