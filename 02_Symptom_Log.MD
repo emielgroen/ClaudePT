@@ -349,6 +349,8 @@ Log Instructions for Antigravity:
 >
 > *Immediate post-session onset points to today's session as the proximate trigger (rather than a delayed 48–72h load from prior days), and today's genuinely overloaded exercises are the most direct candidates — clamshells, banded crab walks, step-downs, and step-ups all load the quad/hip complex, so no single one of those is being singled out either. Location note: this is the **second** time a suprapatellar ache has been logged (also Sun 9/6, bilateral, buzzing rather than dull ache, right > left). Two data points isn't a confirmed pattern, but both sit in the same distal-quad/lateral-retinaculum region rather than the more typical at-or-below-kneecap spot — worth continuing to watch whether this location recurs specifically on overloaded quad-training days. Mild, dull, immediately post-exercise, no swelling or sharpness — reads as expected worked-muscle response, not a flare; standard 24h settle check applies (green ≤3/10 settling within 24h).*
 
+> **Follow-up (reported Sat 2026-09-12):** Recovered well — no pain. Clean outcome.
+
 ---
 
 ### Wednesday 2026-09-09 — PT Session (Tempo Progression on VMO Squats)
@@ -367,4 +369,15 @@ Log Instructions for Antigravity:
 >
 > *Screened against overload markers — sharp joint-level pain, pain rising during exercise, swelling, giving way, session-on-session worsening: **none present**. Standard 24h settle check applies to the anterior hip.*
 >
-> *Outstanding: the 24h settle outcome for the Tue 9/8 right suprapatellar ache was **never reported** and is not inferred from this session's "felt fine" — still open.*
+> *Outstanding: the 24h settle outcome for the Tue 9/8 right suprapatellar ache was **never reported** and is not inferred from this session's "felt fine" — still open. **Resolved 2026-09-12: recovered well, no pain.***
+
+
+---
+
+### Saturday 2026-09-12 — Walk
+
+1. **Activity:** Walk, extent not specified ("walked quite a bit"). Three days since last PT session (Wed 9/9).
+2. **Reaction:** *(Reported same day)* Knees aching after a while. Side not specified, severity not specified, no sharpness/swelling/joint-line pain mentioned.
+3. **Anything Else:** Emiel notes workouts are visibly affecting his overall body/energy levels lately. He wants to train today with continued progressive overload.
+
+> ⚠️ *Antigravity Note: Cause not attributed to a single factor — this walk itself is a plausible direct trigger, but it also lands on top of the cumulative loading from the Mon 9/8 and Wed 9/9 sessions (both within the last 72h) and the general fatigue Emiel is reporting. Diffuse aching from walking, without sharpness or swelling, fits general joint fatigue/overuse load rather than a new mechanism — but stacking a same-day progressive-overload PT session on top of already-achy knees runs against the plan's own pacing guidance (space high-impact/loaded days by 48–72h). Flagged to Emiel directly; his call on how to proceed.*
