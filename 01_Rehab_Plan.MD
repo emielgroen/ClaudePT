@@ -4,6 +4,45 @@
 
 All strength and activation exercises should be performed at the gym (or with appropriate resistance bands/equipment) **3 sets x 10–15 repetitions**, unless specified otherwise. Focus on control, alignment, and specific quad engagement cues.
 
+---
+
+## Session Structure (Hip/Quad Supersets) — *adopted 2026-09-12*
+
+> The exercises below are grouped into blocks rather than run straight down the list. This changes
+> **order only — no exercise, dose or progression is altered by it.** Sections 0–4 remain the
+> reference for what each exercise is and how to perform it.
+
+**Block A — Prime** *(low fatigue, always first)*
+1. **Z1** Tibialis Raise
+2. **Z2** KOT Calf Raise
+3. **Glute Bridges**
+
+**Block B — Superset × 3 rounds**
+*   **B** Banded Crab Walks ↔ **C** Poliquin Step-Downs
+
+**Block C — Superset × 3 rounds**
+*   **A** Clamshells ↔ **D** Heel-Elevated VMO Squats
+
+**Block D — Finish**
+*   **3B** L-Sit Level 1 (while the experiment runs)
+*   Section 4 cooldown: Figure-4, half-kneeling hip flexor
+
+*(**E** Lateral Step-Ups swaps in for **C** on alternating sessions — see the alternation note in Section 2.)*
+
+### Why this order
+
+1.  **Hip immediately before knee, not hip-block then knee-block.** Pairing a hip exercise directly before a knee exercise means the glutes are **freshly activated while the knee is loaded** — which is the entire mechanism the hip work exists for (controlling femoral rotation so the patella tracks properly, mechanism 1 in `00_Master_Context.MD`). Running all hip work first lets that activation decay before the knee loading it was meant to support.
+2.  **Longer local recovery at zero time cost.** Previously A→B ran two glute-medius exercises back-to-back, and C→D ran two quad/VMO exercises back-to-back. Alternating tissue gives each group a full exercise's worth of rest between its own sets — relevant to the systemic fatigue/energy drain reported on 2026-09-12, and to form quality on single-leg work where knee tracking matters most.
+3.  **Block A stays fixed at the front.** Z1/Z2 implement the ground-up sequencing (ankle → lower leg → knee → hip). Glute bridges must come before everything else for the reciprocal-inhibition effect they were added for on 2026-09-09 — that only works if the glutes fire *first*.
+4.  **Splits the glute-medius double-dip** — clamshells and crab walks now sit in different blocks.
+
+> **⚠️ Execution caveat:** the benefit is **local muscle rest, not reduced total work**. Take a genuine
+> breath between the two exercises in a superset. Compressing a superset into a continuous circuit
+> turns this into conditioning, and systemic fatigue will break form on the step-downs — precisely
+> where knee tracking matters most.
+
+---
+
 ### 0. Ground-Up Warm-Up (Ankle & Lower Leg) — *suggested, not PT-prescribed*
 
 *Added 2026-09-12 from the Knees Over Toes "Knee Ability Zero" program (see reference section at the
