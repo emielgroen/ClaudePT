@@ -6,6 +6,35 @@ All strength and activation exercises should be performed at the gym (or with ap
 
 ---
 
+## Progression Budget — *adopted 2026-09-13*
+
+> **The problem this solves:** between 2026-09-09 and 2026-09-12, *every* exercise progressed in a
+> single session — clamshells 2x12→3x12 (**+50%**), step-downs 2x8→3x8 (**+50%**), crab walks and
+> step-ups both +25%, plus a new lockout-squeeze intensity on VMO squats. No pain resulted, but Emiel
+> reported general soreness, stiffness and fatigue at 24h, and that workouts were "feeling heavy."
+> The issue is the **rate** of increase, not the absolute load. Keep progressing — just take smaller,
+> fewer steps.
+
+**The rule: at most 2 exercises progress per session. Everything else repeats its last dose exactly.**
+
+1.  **Smallest increment first.** Add **1–2 reps per set**. Do not jump straight to adding a set.
+2.  **Adding a set spends the entire session's budget.** A set added to a 2-set exercise is +50%, to a 3-set exercise +33% — that is a large step, so it is the *only* thing that progresses that session.
+3.  **Tempo or intensity changes count as a full progression slot** (e.g. the lockout squeeze, a longer pause, a slower descent). They are not "free" just because reps and sets stayed the same.
+4.  **Reps before sets.** Climb to the exercise's rep ceiling, then convert: drop back to the lower rep count and add a set. Ceilings: clamshells 15/side · crab walks 12 steps · step-downs 10/leg · VMO squats 12 · step-ups 12/leg · tibialis raise and KOT calf raise stay at 25 and progress by difficulty (wall distance / single-leg) instead.
+5.  **Rotate.** Track which exercises progressed last session and pick different ones. Each exercise should advance roughly **every third session**, not every session.
+6.  **A new exercise counts against the budget.** For its first two sessions, nothing else progresses — adding a movement *is* the increase.
+
+### Gate: progress only if the last session settled
+
+*   **Settled to baseline within 24h, no pain** → progress up to 2 exercises.
+*   **No pain, but still sore / stiff / fatigued at 24h** → **hold everything at the same dose.** Holding is not lost progress; repeating a dose while it becomes comfortable is what consolidates it.
+*   **Any pain ≥4/10, or pain still rising at 48h** → regress per the traffic-light rule (cut volume ~30%), don't just hold.
+
+*Note: this budget governs **session-to-session load**. It does not restrict adding an exercise that
+fills a genuine gap (as Section 0 did), but per rule 6 such an addition consumes the budget.*
+
+---
+
 ## Session Structure (Hip/Quad Supersets) — *adopted 2026-09-12*
 
 > The exercises below are grouped into blocks rather than run straight down the list. This changes
