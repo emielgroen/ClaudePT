@@ -35,6 +35,57 @@ fills a genuine gap (as Section 0 did), but per rule 6 such an addition consumes
 
 ---
 
+## Training Breaks & Holidays — *adopted 2026-09-13*
+
+### A week off does not cost you strength
+
+Measurable strength loss from complete inactivity does not meaningfully begin until roughly **2–3
+weeks**. At one week, essentially nothing is lost, and the slow connective-tissue/tendon adaptations
+this plan is actually building are more durable still. Expect to feel slightly rusty for a single
+session — that is neural re-familiarisation, not lost capacity.
+
+**Therefore: do not reduce doses after a one-week break. Resume at the same load.** Per the
+Progression Budget's gate, simply do not *progress* on the first session back.
+
+### What actually matters during the break
+
+The exercises are not the main variable — **the holiday's own activity profile is.**
+`02_Symptom_Log.MD` shows sedentary days scoring *worse* than active ones (e.g. rest day 3/10 vs.
+active varied-movement day 0/10). Cross-reference the tolerance lists in `00_Master_Context.MD`:
+
+*   **Varied, dynamic, multi-planar trips** (hiking, SUP, surfing, snowboarding, yoga) — generally protective. May return in better shape than on departure.
+*   **City trips / long flat pavement walking / prolonged standing** — a genuine trigger. **Pack the McConnell tape** (see the taping protocol below) and use supportive footwear.
+
+**The daily postural habits are the highest-value thing on a break** and cost zero energy: soft knees
+when standing idle, supportive footwear (never flat/barefoot on hard surfaces), pillow under or
+between the knees, and breaking up prolonged sitting. The log correlates these with symptoms more
+consistently than any single exercise does.
+
+### Optional morning micro-dose (~4 minutes)
+
+Entirely optional — its value is habit continuity, not preventing strength loss. In priority order:
+
+1.  **Tibialis Raise — 25 reps.** Best value by far: no equipment, no knee load, ~90 seconds, and *more* relevant than usual if the trip involves extra walking.
+2.  **Glute Bridges — 2 × 12.** Two minutes, no equipment, and the primary tool for the anterior hip pinch.
+3.  **Figure-4 Glute Stretch — 1 min per side.**
+
+**Deliberately skip step-downs, VMO squats and step-ups.** These are the fatiguing exercises, and
+avoiding that energy cost is the point of the break.
+
+### The break is a free diagnostic
+
+A week with no PT exercises is a clean washout period. **Any symptom that persists through it is not
+caused by the training.** Particularly informative for the anterior hip pinch (Section 3B): if it
+settles during the break and returns on resuming, that supports a training-load cause; if it persists
+unchanged, it does not. Report what happens.
+
+### Loading the week before a break
+
+*   **Do not cram extra volume before leaving.** The break *is* a well-timed deload — there is nothing to compensate for, and banking extra work only means departing with sore legs.
+*   **No novel stimulus in the final session before travel.** `00_Master_Context.MD` documents a **Day-3 latency window** on flare-ups, so a new overload 48h before departure peaks on travel day or day one of the trip. Make the last session a straight repeat of the previous one.
+
+---
+
 ## Session Structure (Hip/Quad Supersets) — *adopted 2026-09-12*
 
 > The exercises below are grouped into blocks rather than run straight down the list. This changes
@@ -143,7 +194,10 @@ the ground-up sequencing (ankle → lower leg → knee → hip) is the core orga
 
 ### 3B. Active Experiment: Hip Flexor Strength (L-Sit Level 1) — *time-boxed, suggested*
 
-> **Status: running experiment, started 2026-09-12. Review date: 2026-09-26 (2 weeks).**
+> **Status: running experiment, started 2026-09-12. Review date: 2026-10-03.**
+> *(Pushed out from 2026-09-26 on 2026-09-13: a holiday week with no PT sessions falls inside the
+> original window, so the review was extended to give the experiment roughly two genuine training
+> weeks rather than one week plus a break.)*
 > This is **not** a permanent fixture — it exists to settle a specific open question and must be
 > resolved on the review date, not left running indefinitely.
 
@@ -151,7 +205,7 @@ the ground-up sequencing (ankle → lower leg → knee → hip) is the core orga
 *   **The question being tested:** Emiel developed **new anterior left hip pain (pinch-quality) on 2026-09-09**, after ~3 weeks of steadily escalating quad/glute overload. Two competing explanations:
     1.  **Hip flexor under-strength relative to newly-built extensor strength.** This is the Knee Ability Zero prediction — Ben Patrick explicitly warns that strengthening ankles/knees/glutes without matching hip flexor strength produces hip flexor strain. Notably, this model *predicted Emiel's exact symptom before it appeared*. If true → **loading the hip flexor should help**.
     2.  **Anterior hip impingement-type mechanism** (femur contacting socket/labrum edge at flexion). If true → **loading and deep-stretching the hip flexor should aggravate**.
-*   **Stop conditions (decide on or before 2026-09-26):**
+*   **Stop conditions (decide on or before 2026-10-03):**
     *   Pinch **improves or resolves** → hypothesis 1 supported. Keep the L-Sit, consider progressing toward Level 2.
     *   Pinch **worsens, or sharp pain during the hold** → hypothesis 2 supported. **Stop immediately**, remove from the plan, stop loading that tissue, and reduce hip flexor stretch depth further.
     *   **No change** → inconclusive; drop it rather than leaving it running, and revisit only if the pinch escalates.
