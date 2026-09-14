@@ -194,7 +194,10 @@ the ground-up sequencing (ankle → lower leg → knee → hip) is the core orga
 
 ### 3B. Active Experiment: Hip Flexor Strength (L-Sit Level 1) — *time-boxed, suggested*
 
-> **Status: running experiment, started 2026-09-12. Review date: 2026-10-03.**
+> **Status: NOT YET STARTED (as of 2026-09-14). Review date: 2026-10-03.**
+> *(The 2026-09-12 date previously recorded here was when the experiment was written into the plan, not
+> when it was first performed. Its first prescription was 2026-09-14 and it was skipped for time, so
+> zero sessions of data exist. Start the clock at the first session it is actually done.)*
 > *(Pushed out from 2026-09-26 on 2026-09-13: a holiday week with no PT sessions falls inside the
 > original window, so the review was extended to give the experiment roughly two genuine training
 > weeks rather than one week plus a break.)*
