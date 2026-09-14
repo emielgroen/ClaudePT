@@ -131,12 +131,12 @@ place **zero patellofemoral load** and take ~3 minutes combined. Do these **firs
 the ground-up sequencing (ankle → lower leg → knee → hip) is the core organising principle of that program.*
 
 *   **Exercise Z1: Tibialis Raise (Bodyweight, Wall-Supported)**
-    *   **Dose:** 25 reps — 2-second hold at the top, 2-second hold at the bottom.
+    *   **Dose:** **2 sets x 25 reps** — 2-second hold at the top, 2-second hold at the bottom. *(Raised from 1 set on 2026-09-14, recording what was actually performed. Matches the source protocol, which runs the tibialis raise twice per session — its Steps 1 and 2B.)*
     *   **Clinical Rationale (Heel-Strike Deceleration):** The tibialis anterior decelerates the foot on every heel strike. Whatever force it fails to absorb travels up to the knee. Directly relevant to Emiel's two top triggers in `00_Master_Context.MD` — **hard/flat surface walking and prolonged standing** — and to mechanism 3 (infrapatellar fat pad sensitivity to repetitive heel strike).
     *   **Execution Cues:** Butt against a wall, feet out a comfortable distance, **legs straight — knees do not bend**. Flex toes up, hold 2 sec, lower under control, hold 2 sec. Scale difficulty by foot distance from the wall: **closer = easier, farther = harder**. Higher-heeled shoes make it harder; flat shoes make it easier. Adjust mid-set as the muscle burns out.
 
 *   **Exercise Z2: KOT (Knees Over Toes) Calf Raise (Bodyweight, Wall-Supported)**
-    *   **Dose:** 25 reps. Long-term goal is 25 single-leg reps per side.
+    *   **Dose:** **2 sets x 25 reps**. *(Raised from 1 set on 2026-09-14, recording what was actually performed.)* Long-term goal is 25 single-leg reps per side.
     *   **Clinical Rationale (Soleus + Graded Isometric Quad Hold):** Chosen deliberately over the program's FHL Calf Raise. Bending the knee slackens the gastrocnemius and shifts work to the **soleus**, which is more tied to Achilles health and relevant to Emiel's calf-radiating symptoms. Critically, the knee holds a static bent position throughout — making this a **graded isometric quad contraction at a self-selected depth**, and `00_Master_Context.MD` lists *"Isometric Loading & Soft Surfaces"* as a **confirmed relief factor**.
     *   **Execution Cues:** Stand about an arm's length from the wall, hands on wall. Reach knees forward over the toes to a **pain-free** level, then hold that knee angle completely still. Knees, hips and shoulders stay in a straight line. Only the ankles move — flex up, lower down. **Depth is fully self-dosed**: start shallow. Per the program's "strength radiates 15°" principle, even a minimal knee bend builds capacity, so there is never a need to chase depth.
 
