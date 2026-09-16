@@ -399,7 +399,7 @@ Log Instructions for Antigravity:
 ### Monday 2026-09-14 — PT Session (First Ground-Up Warm-Up, Hold Session)
 
 1. **Workout:** First session using the new block structure and Section 0 warm-up. **Z1 Tibialis Raise 2x25** and **Z2 KOT Calf Raise 2x25** *(confirmed 2026-09-14: both warm-up exercises were done twice; 1 set each was prescribed)*. Glute Bridges 2x12. Block B superset ×3: Banded Crab Walks 10 steps each way @ 6kg ↔ Poliquin Step-Downs 8/leg (left first). Block C superset ×3: Clamshells 12/side ↔ Heel-elevated VMO Squats 3x10 with 4-sec descent + 2-sec pause + lockout squeeze. Cooldown completed. **L-Sit skipped — time constraints.** Lateral step-ups not scheduled (alternation). Pogohops still paused. No progression on any existing exercise, per the Progression Budget.
-2. **Reaction:** ⏳ **PENDING** — not yet reported. *(Nothing about how the session felt has been stated; explicitly not inferred from the clean Sat 9/12 outcome.)*
+2. **Reaction:** *(Reported Wed 2026-09-16, ~2 days post-session)* **Good.** Exercises were definitely felt, but **no pain beyond 3/10** — within the green band. No sharpness, swelling or joint-level pain reported.
 3. **Anything Else:** First outing for the tibialis raise, the KOT calf raise, the hip/quad superset ordering and the left-leg-first cue — four structural changes at once, though none of them raise load on an existing exercise.
 
 > 💡 *Antigravity Note: **The L-Sit experiment (Section 3B) has now not been performed at all.** The plan recorded it as "started 2026-09-12," but that was the date the experiment was written into the plan — today was its first actual prescription, and it was skipped. **Zero sessions of data exist.** With a holiday week coming, this experiment is at real risk of never getting a fair run, which matters because it is the only structured test separating the two competing explanations for the anterior hip pinch (hip flexor under-strength vs. impingement-type mechanism). Plan start date corrected to "not yet started."*
@@ -407,3 +407,23 @@ Log Instructions for Antigravity:
 > *Warm-up volume ran above prescription — 2 sets of each rather than 1 — on a session that was deliberately a hold. The absolute amount is trivial (ankle work, ~3 extra minutes, no patellofemoral load), and it is consistent with the source protocol, which runs the tibialis raise twice per session (Steps 1 and 2B). **2x25 has been adopted as the standing dose for both Z1 and Z2** in `01_Rehab_Plan.MD` — recording what is actually being done rather than carrying a prescription nobody follows.*
 >
 > *Everything else held exactly at the Sat 9/12 dose, as intended — this was the first session governed by the Progression Budget.*
+
+---
+
+### Wednesday 2026-09-16 — PT Session (Step-Ups Rotation, L-Sit First Data Point)
+
+1. **Workout:** Completed in full, no progression anywhere (deliberate hold). Z1 Tibialis Raise 2x25, Z2 KOT Calf Raise 2x25, Glute Bridges 2x12. Block B superset ×3: Banded Crab Walks 10 steps each way @ 6kg ↔ **Lateral Step-Ups 10/leg** (rotated in for step-downs, left leg first). Block C superset ×3: Clamshells 12/side ↔ Heel-elevated VMO Squats 3x10 (4-sec descent, 2-sec pause, lockout squeeze). **L-Sit Level 1, 60 s — first time actually performed.** Cooldown completed.
+2. **Reaction:** *(Reported same day, post-session)* **Slight form breakdown on the later reps** — exercise not specified. No pain reported from either knee. **L-Sit:** felt **both** front hips working, described as "a normal way" — **no pain**, some tightness, and a clear sense of the muscle being worked.
+3. **Anything Else:** **Left front hip tightness persists between sessions** — present through the day, provoked by "certain movements, mostly **walking after sitting/sleeping**." Explicitly **"not really painful."** Emiel asked to hold load where it is for now on the basis of the form breakdown.
+
+> 💡 *Antigravity Note: **First data point for the Section 3B experiment, and it leans toward hypothesis 1 (hip flexor under-strength) over hypothesis 2 (impingement) — but it is one session and does not settle anything.** Three things point that way:*
+>
+> *1. **No aggravation.** The impingement hypothesis predicted that actively loading the hip flexor would provoke symptoms. It didn't — no pain during or reported after.*
+> *2. **Bilateral and symmetrical.** Both front hips felt worked "in a normal way." A joint-level pathology would be expected to make the symptomatic left side feel distinctly different from the right, not matched.*
+> *3. **The daily pattern fits shortened hip flexors, not joint impingement.** "Walking after sitting/sleeping" is a **start-up stiffness** pattern: sitting and lying hold the hip flexed and the flexors short, and the first hip extension of walking pulls on them. Impingement is provoked by specific end-range positions (typically deep flexion with rotation), not by first movement after rest.*
+>
+> *⚠️ **Descriptor change worth flagging:** on 2026-09-09 this was reported as a **pinch**, which is what drove the impingement caution and the "mild pull only" limit on the hip flexor stretch. It is now described as **tightness, not really painful**. Either the symptom has genuinely changed character, or the original "pinch" label was imprecise. **The stretch depth caution stays in place for now** — one session is not enough to relax it, and the holiday will provide a cleaner read.*
+>
+> *Form breakdown on later reps is itself a useful signal: it indicates the current dose sits at the edge of controlled capacity, which makes holding the correct call rather than a cautious one. Which exercise it occurred on was not specified.*
+>
+> *Monday's pending reaction resolved on this date — good, ≤3/10, no concerns. Both sessions this week were clean at held load.*

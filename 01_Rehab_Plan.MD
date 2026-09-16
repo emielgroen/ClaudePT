@@ -194,7 +194,11 @@ the ground-up sequencing (ankle → lower leg → knee → hip) is the core orga
 
 ### 3B. Active Experiment: Hip Flexor Strength (L-Sit Level 1) — *time-boxed, suggested*
 
-> **Status: NOT YET STARTED (as of 2026-09-14). Review date: 2026-10-03.**
+> **Status: RUNNING — 1 session logged (first performed 2026-09-16). Review date: 2026-10-03.**
+> *Session 1 read: no aggravation, bilateral/symmetrical "worked" sensation, no pain. **Leans hypothesis 1
+> (hip flexor under-strength), does not confirm it.** Between-session symptom now described as tightness
+> rather than a pinch, provoked by walking after sitting/sleeping — a start-up stiffness pattern that
+> fits shortened hip flexors better than impingement. Keep the stretch-depth caution until more data.*
 > *(The 2026-09-12 date previously recorded here was when the experiment was written into the plan, not
 > when it was first performed. Its first prescription was 2026-09-14 and it was skipped for time, so
 > zero sessions of data exist. Start the clock at the first session it is actually done.)*
