@@ -66,7 +66,7 @@ consistently than any single exercise does.
 Entirely optional — its value is habit continuity, not preventing strength loss. In priority order:
 
 1.  **Tibialis Raise — 25 reps.** Best value by far: no equipment, no knee load, ~90 seconds, and *more* relevant than usual if the trip involves extra walking.
-2.  **Glute Bridges — 2 × 12.** Two minutes, no equipment, and the primary tool for the anterior hip pinch.
+2.  **Glute Bridges — 2 × 12.** Two minutes, no equipment, and the primary tool for the anterior hip tightness.
 3.  **Figure-4 Glute Stretch — 1 min per side.**
 
 **Deliberately skip step-downs, VMO squats and step-ups.** These are the fatiguing exercises, and
@@ -75,7 +75,7 @@ avoiding that energy cost is the point of the break.
 ### The break is a free diagnostic
 
 A week with no PT exercises is a clean washout period. **Any symptom that persists through it is not
-caused by the training.** Particularly informative for the anterior hip pinch (Section 3B): if it
+caused by the training.** Particularly informative for the anterior hip tightness (Section 3B): if it
 settles during the break and returns on resuming, that supports a training-load cause; if it persists
 unchanged, it does not. Report what happens.
 
