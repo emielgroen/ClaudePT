@@ -156,7 +156,7 @@ the ground-up sequencing (ankle → lower leg → knee → hip) is the core orga
 
 *   **Suggested Addition (not PT-prescribed — added 2026-09-09, do before Exercises A/B):** Glute Bridges (Bodyweight)
     *   **Dose:** 2 sets x 12 reps, 2-second squeeze at the top.
-    *   **Rationale:** Added after anterior left hip pain (pinch-quality) surfaced on 2026-09-09. Firing the glutes first (reciprocal inhibition) reduces reliance on the hip flexors, which have likely been overworking since correcting soft-knee standing posture shifted load to the hips (per the 2026-09-02 entry). Chosen deliberately over deeper hip flexor stretching, since a joint-level pinch (vs. a muscular ache) can mean anterior hip impingement — driving into a deep static stretch may aggravate rather than help, whereas bridges unload the hip flexor without putting the joint into deep flexion.
+    *   **Rationale:** Added after anterior left hip tightness surfaced on 2026-09-09. Firing the glutes first (reciprocal inhibition) reduces reliance on the hip flexors, which have likely been overworking since correcting soft-knee standing posture shifted load to the hips (per the 2026-09-02 entry). Keep it regardless of how the Section 3B experiment resolves — it is sound hip work on its own merits.
     *   **Execution Cues:** Lie on your back on the yoga mat, feet flat, knees bent. Drive through your heels to lift hips, squeezing glutes hard at the top. Keep ribs down — don't arch the lower back to gain height.
 
 ### 2. Main Quad & Knee Strength Circuit (Bodyweight & Home Gear)
@@ -209,14 +209,13 @@ the ground-up sequencing (ankle → lower leg → knee → hip) is the core orga
 > resolved on the review date, not left running indefinitely.
 
 *   **Dose:** Level 1 only — 60 seconds total, alternating. Seated on the floor, hands down, lift one leg off the ground for a 2-count, switch, repeat for 60 s. **Lean back to reduce difficulty.** Do not progress to Level 2 (butt off floor) or Level 3 (full L-sit) during the experiment window.
-*   **The question being tested:** Emiel developed **new anterior left hip pain (pinch-quality) on 2026-09-09**, after ~3 weeks of steadily escalating quad/glute overload. Two competing explanations:
-    1.  **Hip flexor under-strength relative to newly-built extensor strength.** This is the Knee Ability Zero prediction — Ben Patrick explicitly warns that strengthening ankles/knees/glutes without matching hip flexor strength produces hip flexor strain. Notably, this model *predicted Emiel's exact symptom before it appeared*. If true → **loading the hip flexor should help**.
-    2.  **Anterior hip impingement-type mechanism** (femur contacting socket/labrum edge at flexion). If true → **loading and deep-stretching the hip flexor should aggravate**.
+*   **The question being tested:** Emiel developed **anterior left hip tightness around 2026-09-09**, after ~3 weeks of steadily escalating quad/glute overload. The working explanation is **hip flexor under-strength relative to newly-built extensor strength** — the Knee Ability Zero prediction, where strengthening ankles/knees/glutes without matching hip flexor strength produces hip flexor strain. That model *predicted this symptom before it appeared*. If correct → **loading the hip flexor should help**. The experiment simply tests whether it does.
+    *   **A competing impingement hypothesis was retired on 2026-09-16.** It rested entirely on the symptom being described as a "pinch," which Emiel confirmed was the wrong word. Session 1 of the experiment also produced no aggravation and a symmetrical bilateral working sensation. **Do not reintroduce this concern** — it has been settled.
 *   **Stop conditions (decide on or before 2026-10-03):**
-    *   Pinch **improves or resolves** → hypothesis 1 supported. Keep the L-Sit, consider progressing toward Level 2.
-    *   Pinch **worsens, or sharp pain during the hold** → hypothesis 2 supported. **Stop immediately**, remove from the plan, stop loading that tissue, and reduce hip flexor stretch depth further.
-    *   **No change** → inconclusive; drop it rather than leaving it running, and revisit only if the pinch escalates.
-*   **Note:** In the meantime the **half-kneeling hip flexor stretch stays gentle, not end-range** (see Section 4) — that caution is unchanged until this experiment resolves.
+    *   Tightness **improves or resolves** → working explanation supported. Keep the L-Sit, consider progressing toward Level 2.
+    *   Tightness **worsens, or actual pain appears during the hold** → stop the L-Sit and reassess from scratch.
+    *   **No change** → inconclusive; drop it rather than leaving it running, and revisit only if symptoms escalate.
+*   **Note:** The half-kneeling hip flexor stretch is back to **normal depth** as of 2026-09-16 (see Section 4).
 
 ---
 
@@ -224,7 +223,7 @@ the ground-up sequencing (ankle → lower leg → knee → hip) is the core orga
 *   **Figure-4 Glute Stretch:** 1–2 minutes per side on the yoga mat (releases outer glute/piriformis tension).
     *   *Added rationale (2026-09-12):* Knee Ability Zero's final step is a piriformis stretch, with this reasoning — **a tight piriformis keeps the outside of the knee tight, which makes the VMO harder to contract**. That is mechanism 1 in `00_Master_Context.MD` (VMO vs. lateral quad/IT band imbalance) described from the other direction. This stretch is already well-placed; it is doing more work than a generic cooldown stretch. That program uses a heavier dose (2 × 90 s per side) — worth drifting toward the upper end of the 1–2 min range.
 *   **Half-Kneeling Hip Flexor Stretch (Tuck Pelvis):** 1 minute per side with the back knee comfortably cushioned on the **folded yoga mat** (decompresses the hip flexors and lower back).
-    *   **⚠️ Depth caution (since 2026-09-09):** Go only to a **mild pull, never end-range**, and back off immediately if the *pinch* (as opposed to a stretch sensation) appears. Reason: a joint-level pinch can indicate anterior hip impingement, where driving into a deep static stretch aggravates rather than helps. Glute bridges are the primary tool for that problem, not this stretch. Revisit once the Section 3B experiment resolves.
+    *   *Depth caution lifted 2026-09-16.* A depth limit applied here from 2026-09-09 was based on the symptom being reported as a "pinch." **Emiel has since confirmed that was the wrong word** — the sensation is tightness, not a pinch. The impingement concern it rested on is retired. **Stretch normally**, to a comfortable end-range.
 
 ---
 

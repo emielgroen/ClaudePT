@@ -427,3 +427,14 @@ Log Instructions for Antigravity:
 > *Form breakdown on later reps is itself a useful signal: it indicates the current dose sits at the edge of controlled capacity, which makes holding the correct call rather than a cautious one. Which exercise it occurred on was not specified.*
 >
 > *Monday's pending reaction resolved on this date — good, ≤3/10, no concerns. Both sessions this week were clean at held load.*
+
+---
+
+> 📌 **Correction (2026-09-16) — applies retrospectively to every entry from 2026-09-09 onward.**
+> The anterior left hip symptom was originally reported as a **"pinch"**, and that single word drove an
+> impingement hypothesis, a depth limit on the half-kneeling hip flexor stretch, and a two-way framing
+> of the Section 3B experiment. **Emiel has confirmed "pinch" was the wrong word** — the sensation is
+> **tightness**. The impingement concern is **retired**, the stretch depth caution is **lifted**, and
+> the experiment now simply tests whether hip flexor strengthening relieves the tightness.
+> **Earlier entries are left as written** (they record what was said at the time), but the impingement
+> reasoning in them is superseded and should not be revived.
