@@ -412,7 +412,7 @@ Log Instructions for Antigravity:
 
 ### Wednesday 2026-09-16 — PT Session (Step-Ups Rotation, L-Sit First Data Point)
 
-1. **Workout:** Completed in full, no progression anywhere (deliberate hold). Z1 Tibialis Raise 2x25, Z2 KOT Calf Raise 2x25, Glute Bridges 2x12. Block B superset ×3: Banded Crab Walks 10 steps each way @ 6kg ↔ **Lateral Step-Ups 10/leg** (rotated in for step-downs, left leg first). Block C superset ×3: Clamshells 12/side ↔ Heel-elevated VMO Squats 3x10 (4-sec descent, 2-sec pause, lockout squeeze). **L-Sit Level 1, 60 s — first time actually performed.** Cooldown completed.
+1. **Workout:** Completed in full, no progression anywhere (deliberate hold). Z1 Tibialis Raise 2x25, Z2 KOT Calf Raise 2x25, **Glute Bridges 1x12** *(corrected 2026-09-18: actually done as 1 set, not the 2x12 originally logged here — Emiel had not mentioned the change at the time)*. Block B superset ×3: Banded Crab Walks 10 steps each way @ 6kg ↔ **Lateral Step-Ups 10/leg** (rotated in for step-downs, left leg first). Block C superset ×3: Clamshells 12/side ↔ Heel-elevated VMO Squats 3x10 (4-sec descent, 2-sec pause, lockout squeeze). **L-Sit Level 1, 60 s — first time actually performed.** Cooldown completed.
 2. **Reaction:** *(Reported same day, post-session)* **Slight form breakdown on the later reps** — exercise not specified. No pain reported from either knee. **L-Sit:** felt **both** front hips working, described as "a normal way" — **no pain**, some tightness, and a clear sense of the muscle being worked.
 3. **Anything Else:** **Left front hip tightness persists between sessions** — present through the day, provoked by "certain movements, mostly **walking after sitting/sleeping**." Explicitly **"not really painful."** Emiel asked to hold load where it is for now on the basis of the form breakdown.
 
@@ -438,3 +438,10 @@ Log Instructions for Antigravity:
 > the experiment now simply tests whether hip flexor strengthening relieves the tightness.
 > **Earlier entries are left as written** (they record what was said at the time), but the impingement
 > reasoning in them is superseded and should not be revived.
+
+---
+
+> 📌 **New finding (reported 2026-09-18, timing of onset unclear):** Glute Bridges have been causing
+> **mild left knee discomfort** — Emiel's word is "uncomfortable," not painful. This is why he had
+> already quietly dropped to 1 set without mentioning it. Session(s) it started in are not established;
+> flagging from today rather than guessing backward onto a specific past entry.

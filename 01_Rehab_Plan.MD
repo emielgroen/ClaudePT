@@ -95,7 +95,7 @@ unchanged, it does not. Report what happens.
 **Block A — Prime** *(low fatigue, always first)*
 1. **Z1** Tibialis Raise
 2. **Z2** KOT Calf Raise
-3. **Glute Bridges**
+3. **Glute Bridges** *(1x8 as of 2026-09-18 — see Section 1 for why)*
 
 **Block B — Superset × 3 rounds**
 *   **B** Banded Crab Walks ↔ **C** Poliquin Step-Downs
@@ -155,7 +155,8 @@ the ground-up sequencing (ankle → lower leg → knee → hip) is the core orga
     *   **Execution Cues:** Place your 6 kg band just above the knees. Set a slight hip hinge with soft knees. Keep feet parallel (toes pointing dead straight ahead). Push knees out against the band as you step sideways, never letting the knees cave inward.
 
 *   **Suggested Addition (not PT-prescribed — added 2026-09-09, do before Exercises A/B):** Glute Bridges (Bodyweight)
-    *   **Dose:** 2 sets x 12 reps, 2-second squeeze at the top.
+    *   **Dose:** **1 set x 8 reps**, 2-second squeeze at the top. *(Reduced from 2x12 on 2026-09-18 — Emiel reports mild left knee discomfort, not pain, during this exercise. He had already been running 1 set without flagging it; the rep count is newly lowered too.)*
+    *   **⚠️ Watch this:** knee discomfort during a hip-dominant hinge is unusual and worth understanding rather than just quietly under-dosing around it. Two things to check: (1) **foot placement** — feet too close to the hips increases knee flexion angle and can transmit load through the knee; try feet a little farther out, closer to a ~90° knee angle at the top. (2) The **sustained knee flexion** a bridge holds throughout the rep is mechanistically closer to the sitting/"theatre sign" pattern already logged as a PFPS trigger (mechanism 1) than to any bridge-specific fault — worth tracking whether it tracks with that pattern.
     *   **Rationale:** Added after anterior left hip tightness surfaced on 2026-09-09. Firing the glutes first (reciprocal inhibition) reduces reliance on the hip flexors, which have likely been overworking since correcting soft-knee standing posture shifted load to the hips (per the 2026-09-02 entry). Keep it regardless of how the Section 3B experiment resolves — it is sound hip work on its own merits.
     *   **Execution Cues:** Lie on your back on the yoga mat, feet flat, knees bent. Drive through your heels to lift hips, squeezing glutes hard at the top. Keep ribs down — don't arch the lower back to gain height.
 
