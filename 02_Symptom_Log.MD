@@ -445,3 +445,19 @@ Log Instructions for Antigravity:
 > **mild left knee discomfort** — Emiel's word is "uncomfortable," not painful. This is why he had
 > already quietly dropped to 1 set without mentioning it. Session(s) it started in are not established;
 > flagging from today rather than guessing backward onto a specific past entry.
+
+---
+
+### Friday 2026-09-18 — PT Session (Shortened, Pre-Holiday, Quad-Light)
+
+1. **Workout:** Deliberately shortened for low energy, cut heaviest on the quad side. Z1 Tibialis Raise 1x25, Z2 KOT Calf Raise 1x25, **Glute Bridges 1x8** (reduced dose, feet moved farther out per the new cue). Block B superset ×2: Banded Crab Walks 8 steps each way @ 6kg ↔ Poliquin Step-Downs 6/leg. Block C superset ×2: Clamshells 12/side ↔ Heel-elevated VMO Squats 6 reps, normal tempo, **lockout squeeze skipped**. **L-Sit Level 1, 60s — second data point**, kept in full despite the general cutback. Cooldown completed, stretch depth caution lifted (see 2026-09-16 correction).
+2. **Reaction:** *(Reported same day, post-session)* **Felt good.** No pain, no discomfort flagged from either knee or the hip. Glute bridge foot-placement adjustment (feet farther from hips, aiming closer to 90° knee angle) was **helpful** — no left knee discomfort this session.
+3. **Anything Else:** This was intentionally the lightest of the three sessions this week, both by design (no novel stimulus before travel, per the holiday protocol) and by further request given low energy. Last PT session before the holiday break — next one resumes after.
+
+> 🟢 *Antigravity Note: Clean close to the pre-holiday week. Two findings worth carrying into the break:*
+>
+> *1. **Glute bridge knee discomfort looks like a technique fix, not an exercise problem.** One session with the foot-placement cue and it resolved. Worth rechecking on return in case it was partly coincidental, but promising.*
+>
+> *2. **Second L-Sit data point, still no aggravation.** Two sessions in (2026-09-16, 2026-09-18), the hip flexor strengthening approach has produced zero adverse reaction and the anterior hip tightness has not been specifically re-tested for change yet — that comparison is better made after the washout week, per the holiday protocol's diagnostic note. Sessions 1-2 continue to support the working hypothesis without confirming it. Experiment remains on track for its 2026-10-03 review.*
+>
+> *Week summary: Mon (hold, new exercises), Wed (hold, step-ups rotation), Fri (deliberately reduced) — all three clean, no pain, one real technique fix identified. Good week to head into a break on.*
