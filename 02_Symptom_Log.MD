@@ -461,3 +461,15 @@ Log Instructions for Antigravity:
 > *2. **Second L-Sit data point, still no aggravation.** Two sessions in (2026-09-16, 2026-09-18), the hip flexor strengthening approach has produced zero adverse reaction and the anterior hip tightness has not been specifically re-tested for change yet — that comparison is better made after the washout week, per the holiday protocol's diagnostic note. Sessions 1-2 continue to support the working hypothesis without confirming it. Experiment remains on track for its 2026-10-03 review.*
 >
 > *Week summary: Mon (hold, new exercises), Wed (hold, step-ups rotation), Fri (deliberately reduced) — all three clean, no pain, one real technique fix identified. Good week to head into a break on.*
+
+---
+
+### Holiday Break — through Saturday 2026-09-26 (travel day home)
+
+1. **Workout:** No PT exercises since the last session (Fri 2026-09-18). Surfed 5 times total over the trip. Mornings: stretching + swimming, 5–10 min.
+2. **Reaction:** Pending — not yet reported.
+3. **Anything Else:** Traveling home today. Plans to resume PT exercises Tuesday 2026-09-29.
+
+> 💡 *Antigravity Note: This is the exact trip the Training Breaks & Holidays section of `01_Rehab_Plan.MD` was written for. Surfing and swimming both sit on the "High Tolerance" list in `00_Master_Context.MD` — dynamic, multi-planar, soft-surface activity that's generally protective rather than a trigger — so a fully clean reaction here would be consistent with what the plan predicts, not a surprise. It also doubles as the diagnostic washout week flagged for the Section 3B L-Sit experiment (review date 2026-10-03, one week out): whether the anterior left hip tightness persisted, eased, or resolved with zero training and zero hip-flexor loading is a direct data point for that review. Reaction and hip-tightness status are both still open — see reply.*
+
+---
