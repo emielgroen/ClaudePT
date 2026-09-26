@@ -467,9 +467,14 @@ Log Instructions for Antigravity:
 ### Holiday Break — through Saturday 2026-09-26 (travel day home)
 
 1. **Workout:** No PT exercises since the last session (Fri 2026-09-18). Surfed 5 times total over the trip. Mornings: stretching + swimming, 5–10 min.
-2. **Reaction:** Pending — not yet reported.
-3. **Anything Else:** Traveling home today. Plans to resume PT exercises Tuesday 2026-09-29.
+2. **Reaction:** *(Reported Sat 2026-09-26)* **No knee pain** — fatigue only, expected muscular response to surf volume, not flagged as a concern.
+3. **Anterior Left Hip Tightness:** *(Reported Sat 2026-09-26)* Less prevalent than before the break. Still occurred sometimes, but surfing **consistently and completely resolved it** each time it did.
+4. **Anything Else:** Traveling home today. Plans to resume PT exercises Tuesday 2026-09-29.
 
-> 💡 *Antigravity Note: This is the exact trip the Training Breaks & Holidays section of `01_Rehab_Plan.MD` was written for. Surfing and swimming both sit on the "High Tolerance" list in `00_Master_Context.MD` — dynamic, multi-planar, soft-surface activity that's generally protective rather than a trigger — so a fully clean reaction here would be consistent with what the plan predicts, not a surprise. It also doubles as the diagnostic washout week flagged for the Section 3B L-Sit experiment (review date 2026-10-03, one week out): whether the anterior left hip tightness persisted, eased, or resolved with zero training and zero hip-flexor loading is a direct data point for that review. Reaction and hip-tightness status are both still open — see reply.*
+> 💡 *Antigravity Note: This is the exact trip the Training Breaks & Holidays section of `01_Rehab_Plan.MD` was written for, and the knee side landed exactly as predicted — surfing and swimming both sit on the "High Tolerance" list in `00_Master_Context.MD`, and the week was clean.*
+>
+> *The hip tightness result is more nuanced than a flat "resolved" or "unchanged," and it's genuinely informative for the Section 3B review (2026-10-03, one week out) — but not as a direct test of the L-Sit itself, since **zero L-Sit sessions happened this week**. Two things worth separating: **(1) reduced frequency** — fewer provocations plausibly fits the already-established start-up-stiffness pattern (2026-09-16: tightness triggered by walking after sitting/sleeping), and an active holiday means much less static sitting than a normal week. **(2) Complete acute relief from surfing specifically** — surfing is heavy on sustained hip *extension* (paddling prone), which would directly counteract a shortened/tight hip flexor. That's mechanically consistent with hypothesis 1 (hip flexor under-strength/tightness), just via stretch-under-movement rather than the strengthening the L-Sit targets. Not ruling out a non-specific effect (general movement/warm-up, or the Aug 19–23 finding that relaxed dynamic movement outperforms guarding) — listing both as possible, not picking one.*
+>
+> *Practical takeaway: this week tests "does removing sitting/training help" (partially yes) more than it tests "does hip flexor strengthening help" (untested this week, zero sessions). Worth watching closely once L-Sit resumes Tuesday — if tightness frequency creeps back up as sitting/routine normalizes, that's a cleaner read on the sitting-frequency link; the 10/03 review should weigh this week's partial improvement alongside whatever the next 1–2 L-Sit sessions show.*
 
 ---
