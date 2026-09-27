@@ -54,7 +54,7 @@ The exercises are not the main variable — **the holiday's own activity profile
 active varied-movement day 0/10). Cross-reference the tolerance lists in `00_Master_Context.MD`:
 
 *   **Varied, dynamic, multi-planar trips** (hiking, SUP, surfing, snowboarding, yoga) — generally protective. May return in better shape than on departure.
-*   **City trips / long flat pavement walking / prolonged standing** — a genuine trigger. **Pack the McConnell tape** (see the taping protocol below) and use supportive footwear.
+*   **City trips / long flat pavement walking / prolonged standing** — a genuine trigger. Use supportive footwear, keep soft knees when standing, and break up long walks. *(Taping dropped 2026-09-27 — see the taping section.)*
 
 **The daily postural habits are the highest-value thing on a break** and cost zero energy: soft knees
 when standing idle, supportive footwear (never flat/barefoot on hard surfaces), pillow under or
@@ -230,7 +230,12 @@ the ground-up sequencing (ankle → lower leg → knee → hip) is the core orga
 
 ---
 
-## Tactical Protection: McConnell Taping Protocol
+## Tactical Protection: McConnell Taping Protocol — *DROPPED 2026-09-27*
+
+> **Not in use — do not recommend taping.** Tape won't stick without shaving the leg (adhesion
+> failed on 2026-08-16), and Emiel won't shave for it. Taping is off the table as an option; high-demand
+> days rely on supportive footwear, soft-knee standing and pacing instead. Protocol kept below for
+> reference only.
 
 Use this as your **"external armor"** for high-demand days (city trips, festivals, long walking tours, or future padel/running sessions) while your muscular strength builds:
 
@@ -251,7 +256,7 @@ Integrate these activities according to your baseline symptoms. If you are exper
     *   **Rucking:** Keep backpack weight at 6kg max. Do not ruck if the knees are already in a flare-up.
     *   **Cycling (Racebike):** Keep intensity moderate. Aim for **high cadence (85–95 RPM)** in lighter gears to reduce joint compression per stroke. Avoid cycling when legs are heavily pre-fatigued.
 *   **High Risk (Avoid or tightly limit during Phase 1):**
-    *   Running, Padel, long flat city walking tours, and prolonged standing (unless using McConnell tape + supportive footwear).
+    *   Running, Padel, long flat city walking tours, and prolonged standing (limit duration; supportive footwear + soft knees).
 
 ---
 
