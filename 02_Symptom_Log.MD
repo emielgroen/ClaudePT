@@ -482,9 +482,11 @@ Log Instructions for Antigravity:
 ### Friday 2026-10-09 — Light Return Session (Post-Illness, New Equipment)
 
 1. **Workout:** First session back after an extended illness layoff (no PT sessions since the holiday break; exact last session not stated). Deliberately small. Z1 Tibialis Raise 1 set, Z2 KOT Calf Raise 1 set (reps not stated). **Clamshells 3x12.** **Banded Terminal Knee Extensions (TKEs) 3x15** — new exercise, new 15 kg band. **VMO Squats 1x6 on the new squat wedges** (first time on wedges; tempo not stated). **Leg raises 60s** (assumed to be L-Sit Level 1 — not confirmed). Finished with 1 set of hip flexor stretching (front of hips).
-2. **Reaction:** **Pending** — outcome not yet reported.
+2. **Reaction:** *(Reported Sun 2026-10-11, ~2 days post-session)* **No pain.** Muscle soreness in the quads only (expected worked-muscle soreness).
 3. **Anything Else:** Just recovered from illness. Three new pieces of equipment in play: 8 kg kettlebell (not used this session), 15 kg resistance band (used for TKEs), squat wedges (used for VMO squats). TKEs and the wedge squats are both new stimuli, done at low volume.
 
-> 💡 *Antigravity Note: Sensible re-entry — low volume after a layoff, with the only novelty being low-dose. The TKEs are a new loaded terminal-extension exercise (the position flagged as sensitive in `00_Master_Context.MD`), so the 24–72h reaction is worth watching specifically. Reaction pending.*
+> 💡 *Antigravity Note: Sensible re-entry — low volume after a layoff, with the only novelty being low-dose. The TKEs are a new loaded terminal-extension exercise (the position flagged as sensitive in `00_Master_Context.MD`), so the 24–72h reaction is worth watching specifically. Reaction resolved: no pain, quad soreness only — new TKEs and wedge squats tolerated at low dose.*
+
+> 📌 *L-Sit experiment review (originally 2026-10-03) deferred by Emiel to roughly 2026-10-25, to allow ~2 weeks of regular training after the illness/holiday gap.*
 
 ---
