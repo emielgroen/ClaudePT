@@ -490,3 +490,37 @@ Log Instructions for Antigravity:
 > 📌 *L-Sit experiment review (originally 2026-10-03) deferred by Emiel to roughly 2026-10-25, to allow ~2 weeks of regular training after the illness/holiday gap.*
 
 ---
+
+### Monday 2026-10-12 — PT Session (Half Session)
+
+1. **Workout:** About **half of a normal session**. **Full set of Banded TKEs and Clamshells** (exact sets/reps not stated). VMO Squats were also done (dose and wedge use not stated). Rest of the circuit not done.
+2. **Reaction:** *(Reported Wed 2026-10-21, retrospectively)* **Extremely sore quads**, first noticed after the VMO squats. Soreness only — actual pain: not mentioned.
+3. **Anything Else:** Second session back after the illness layoff (first: Fri 2026-10-09). Wedge VMO squats were later described as more intense than before (see 2026-10-21 note below).
+
+> 💡 *Antigravity Note: Half a session produced "extreme" quad soreness, and the VMO squats were the named trigger. Quad-dominant load is out of proportion to the hip work in this plan, which matches Emiel's own read that the quads are being worked far more than the hips. Not a pain signal, but it is the clearest input for rebalancing the session.*
+
+---
+
+### Wednesday 2026-10-14 — Long Bike Ride
+
+1. **Activity:** Road bike, **31 km in 70 minutes** (~26.6 km/h) — longest and fastest logged ride so far. Two days after the Mon 10/12 session.
+2. **Reaction:** *(Reported Wed 2026-10-21, retrospectively)* **Extremely sore quads — "way more" than after the VMO squats.** Soreness only — actual pain: not mentioned.
+3. **Anything Else:** Rode on legs still sore from the Mon 10/12 session (cycling is on the Conditional list: avoid when pre-fatigued).
+
+> ⚠️ *Antigravity Note: Cycling is quad-dominant, so this stacked onto already-sore quads — the same pattern as Mon 2026-08-17. The quad soreness sits in the same tissue the plan is already loading hardest, which supports giving the quads a lighter dose until the hips catch up.*
+
+---
+
+### Monday 2026-10-19 — Padel (~1 hour)
+
+1. **Activity:** Padel, about 1 hour (High Risk list). Five days after the long bike ride.
+2. **Reaction:**
+   - *During (Mon):* **Right knee hurt a bit; eased once warmed up.** Severity not stated.
+   - *Tue 2026-10-20:* **Okay** — mostly sore in the glutes.
+   - *Wed 2026-10-21 (Day 2):* **Okay**, still a bit sore, **increased tingling in both knees but not really pain.**
+   - *Day-3 window (Thu 2026-10-22):* **pending.**
+3. **Anything Else:** Padel wasn't preceded by a PT session since Mon 10/12 as far as reported.
+
+> ⚠️ *Antigravity Note: Tingling is the established baseline sensation (`00_Master_Context.MD`), now trending up on Day 2 of a High Risk activity — consistent with the Day-3 latency window but not proof of it. Equally possible contributors to today's tingling: **the padel on Mon 10/19** (the only activity logged inside 72h), and any unlogged loading on Tue/Wed; the 10/14 ride and 10/12 session sit outside the window but are not ruled out as background load. Right knee hurting during padel and settling with warm-up fits mechanism 1 (PFPS) or 3 (fat pad), and the glute soreness suggests the hips did take load. No sharp, swelling, giving way — green on the traffic light so far. **Follow-up due Thu 2026-10-22.***
+
+---
