@@ -132,7 +132,7 @@ unchanged, it does not. Report what happens.
 *   **A** Clamshells ↔ **D** Heel-Elevated VMO Squats
 
 **Block D — Finish**
-*   **3B** L-Sit Level 1 (while the experiment runs)
+*   **3B** L-Sit Level 1
 *   Section 4 cooldown: Figure-4, half-kneeling hip flexor
 
 *(**E** Lateral Step-Ups swaps in for **C** on alternating sessions — see the alternation note in Section 2.)*
@@ -222,9 +222,9 @@ the ground-up sequencing (ankle → lower leg → knee → hip) is the core orga
     *   **Clinical Rationale (Elastic Recoil & Tendon Stiffness):** Reconditions the Achilles and patellar tendons to absorb ground impact smoothly, restoring the natural spring mechanism experienced during festival dancing.
     *   **Execution Cues:** Bounce quickly off the balls of your feet with ankles stiff and knees soft. Minimize ground contact time.
 
-### 3B. Active Experiment: Hip Flexor Strength (L-Sit Level 1) — *time-boxed, suggested*
+### 3B. Hip Flexor Strength (L-Sit Level 1) — *former experiment, now a regular exercise*
 
-> **Status: RUNNING — review deferred to ~2026-10-25.** *Data to date: Wed 9/16 and Fri 9/18 confirmed; Fri 10/9 "leg raises 60s" assumed to be the L-Sit; Mon 10/12 not done. Rule from Emiel: if an L-Sit isn't mentioned in a session report, it wasn't done.* *(Original header: 1 session logged, first performed 2026-09-16, review date 2026-10-03.)*
+> **Status: ENDED 2026-10-21 by Emiel — no conclusion drawn; L-Sit stays as a regular Block D finisher (Level 1, 60 s), no review date, no stop conditions.** *(Previously: review deferred to ~2026-10-25.)* *Data to date: Wed 9/16 and Fri 9/18 confirmed; Fri 10/9 "leg raises 60s" assumed to be the L-Sit; Mon 10/12 not done. Rule from Emiel: if an L-Sit isn't mentioned in a session report, it wasn't done.* *(Original header: 1 session logged, first performed 2026-09-16, review date 2026-10-03.)*
 > *Session 1 read: no aggravation, bilateral/symmetrical "worked" sensation, no pain. **Leans hypothesis 1
 > (hip flexor under-strength), does not confirm it.** Between-session symptom now described as tightness
 > rather than a pinch, provoked by walking after sitting/sleeping — a start-up stiffness pattern that
