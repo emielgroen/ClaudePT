@@ -35,6 +35,34 @@ fills a genuine gap (as Section 0 did), but per rule 6 such an addition consumes
 
 ---
 
+## Quad/Hip Rebalance & Pogohop Start — *adopted 2026-10-21, temporary*
+
+> **Why:** Mon 2026-10-12 (half session) and Wed 2026-10-14 (31 km ride) left the quads "extremely sore,"
+> and Emiel reports the quads are being worked far more than the hips. Padel on Mon 2026-10-19 then brought
+> increased bilateral knee tingling by Day 2 (no pain). By the Progression Budget gate — no pain but not
+> settled — **nothing progresses.** The rebalance is done by *cutting quad volume*, not by adding hip volume.
+
+**Session dose until the quads settle** *(overrides the standing doses below for these exercises only)*:
+
+| Exercise | Tonight's dose | Standing dose |
+|---|---|---|
+| Z1 Tibialis Raise | 2x25 | 2x25 |
+| Z2 KOT Calf Raise | 1x25 | 2x25 |
+| Glute Bridges | 1x8, feet farther out | 1x8 |
+| B Banded Crab Walks | 3x10 steps each way (held) | 3x10 |
+| A Clamshells | 3x12/side (held) | 3x12 |
+| **D VMO Squats (on wedges)** | **2x6, normal tempo, no lockout squeeze** | 3x10 with tempo + squeeze |
+| **E Lateral Step-Ups** *(rotation)* | **2x8/leg — skip if quads still heavy** | 3x10/leg |
+| Banded TKEs (15 kg band) | 2x15 | 3x15 |
+| **F Pogohops (NEW)** | **2x10, low amplitude, see Section 3** | — |
+| L-Sit Level 1 | 60 s | 60 s |
+
+*   **Resume rule:** return quad exercises to their standing doses one at a time (at most 2 per session, reps before sets) once a session settles to baseline within 24h with no increase in tingling. Hip exercises stay at held dose throughout.
+*   **Wedge note:** VMO squats on the squat wedges are a harder stimulus than the heel-elevated version used earlier — treat the wedge dose as its own exercise and build it up from 2x6, not from the old 3x10.
+*   **Pogohops count as the session's new exercise** (Progression Budget rule 6): nothing else progresses while they are being introduced.
+
+---
+
 ## Training Breaks & Holidays — *adopted 2026-09-13*
 
 ### A week off does not cost you strength
@@ -186,16 +214,17 @@ the ground-up sequencing (ankle → lower leg → knee → hip) is the core orga
     *   **Execution Cues:** Stand sideways to a bottom stair or sturdy low surface (~15–25 cm). Place working foot on the step. Drive through the heel to stand tall. Lower down very slowly over 3 full seconds without letting the knee collapse inward.
 
 ### 3. Plyometrics & Impact Conditioning
-*   **Currently paused (as of 2026-09-02):** Holding off on pogohops until Exercises A–E are progressing well without issue.
+*   **Resumed 2026-10-21** (previously paused since 2026-09-02) — Emiel asked to start rebuilding impact tolerance.
 *   **Exercise F: Double-Leg Pogohops (Bodyweight on Yoga Mat / Carpet)**
-    *   **Setup:** Stand on your **yoga mat** (folded in half if needed) for joint cushioning.
-    *   **Dose:** 1–2 sets of 20–30 quick continuous hops.
+    *   **Setup:** Stand on your **yoga mat** (folded in half if needed) for joint cushioning. Do them **after Block A, while fresh** — not at the end of a fatigued session.
+    *   **Dose (starting):** **2 sets x 10 quick hops, low amplitude.** Repeat this dose for the first two sessions, then add **5 hops per set** at a time up to the long-term target of 1–2 sets of 20–30 continuous hops.
+    *   **Stop / skip rules:** Skip on any day tingling is climbing or the knees are in a flare. Stop the set on any sharp or joint-level pain.
     *   **Clinical Rationale (Elastic Recoil & Tendon Stiffness):** Reconditions the Achilles and patellar tendons to absorb ground impact smoothly, restoring the natural spring mechanism experienced during festival dancing.
     *   **Execution Cues:** Bounce quickly off the balls of your feet with ankles stiff and knees soft. Minimize ground contact time.
 
 ### 3B. Active Experiment: Hip Flexor Strength (L-Sit Level 1) — *time-boxed, suggested*
 
-> **Status: RUNNING — 1 session logged (first performed 2026-09-16). Review date: 2026-10-03.**
+> **Status: RUNNING — review deferred to ~2026-10-25.** *Data to date: Wed 9/16 and Fri 9/18 confirmed; Fri 10/9 "leg raises 60s" assumed to be the L-Sit; Mon 10/12 not done. Rule from Emiel: if an L-Sit isn't mentioned in a session report, it wasn't done.* *(Original header: 1 session logged, first performed 2026-09-16, review date 2026-10-03.)*
 > *Session 1 read: no aggravation, bilateral/symmetrical "worked" sensation, no pain. **Leans hypothesis 1
 > (hip flexor under-strength), does not confirm it.** Between-session symptom now described as tightness
 > rather than a pinch, provoked by walking after sitting/sleeping — a start-up stiffness pattern that

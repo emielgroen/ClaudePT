@@ -493,7 +493,7 @@ Log Instructions for Antigravity:
 
 ### Monday 2026-10-12 — PT Session (Half Session)
 
-1. **Workout:** About **half of a normal session**. **Full set of Banded TKEs and Clamshells** (exact sets/reps not stated). VMO Squats were also done (dose and wedge use not stated). Rest of the circuit not done.
+1. **Workout:** About **half of a normal session**. **Full set of Banded TKEs and Clamshells** (exact sets/reps not stated). VMO Squats were also done (dose and wedge use not stated). Rest of the circuit not done. **L-Sit / leg raises not done** *(confirmed 2026-10-21: if not mentioned, not done).*
 2. **Reaction:** *(Reported Wed 2026-10-21, retrospectively)* **Extremely sore quads**, first noticed after the VMO squats. Soreness only — actual pain: not mentioned.
 3. **Anything Else:** Second session back after the illness layoff (first: Fri 2026-10-09). Wedge VMO squats were later described as more intense than before (see 2026-10-21 note below).
 
