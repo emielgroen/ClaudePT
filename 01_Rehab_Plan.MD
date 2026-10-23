@@ -6,32 +6,18 @@ All strength and activation exercises should be performed at the gym (or with ap
 
 ---
 
-## Progression Budget — *adopted 2026-09-13*
+## Progression Rule — *replaced 2026-10-23 (Emiel's call)*
 
-> **The problem this solves:** between 2026-09-09 and 2026-09-12, *every* exercise progressed in a
-> single session — clamshells 2x12→3x12 (**+50%**), step-downs 2x8→3x8 (**+50%**), crab walks and
-> step-ups both +25%, plus a new lockout-squeeze intensity on VMO squats. No pain resulted, but Emiel
-> reported general soreness, stiffness and fatigue at 24h, and that workouts were "feeling heavy."
-> The issue is the **rate** of increase, not the absolute load. Keep progressing — just take smaller,
-> fewer steps.
+> **Replaces:** the Progression Budget adopted 2026-09-13 (max 2 exercises per session, one added set per session, hold when still sore at 24h, pogohop freeze). Emiel replaced it on 2026-10-23 and asked for more room to progress. The pain gate and the regression trigger stay.
+>
+> **Why the budget existed:** between 2026-09-09 and 2026-09-12 every exercise progressed in one session, and the next day workouts felt "heavy." The rate of increase was the problem, so pace the changes even without the cap.
 
-**The rule: at most 2 exercises progress per session. Everything else repeats its last dose exactly.**
+**Rule: progress when pain is not above 3/10. Hold only when Emiel says hold.**
 
-1.  **Smallest increment first.** Add **1–2 reps per set**. Do not jump straight to adding a set.
-2.  **Adding a set spends the entire session's budget.** A set added to a 2-set exercise is +50%, to a 3-set exercise +33% — that is a large step, so it is the *only* thing that progresses that session.
-3.  **Tempo or intensity changes count as a full progression slot** (e.g. the lockout squeeze, a longer pause, a slower descent). They are not "free" just because reps and sets stayed the same.
-4.  **Reps before sets.** Climb to the exercise's rep ceiling, then convert: drop back to the lower rep count and add a set. Ceilings: clamshells 15/side · crab walks 12 steps · step-downs 10/leg · VMO squats 12 · step-ups 12/leg · tibialis raise and KOT calf raise stay at 25 and progress by difficulty (wall distance / single-leg) instead.
-5.  **Rotate.** Track which exercises progressed last session and pick different ones. Each exercise should advance roughly **every third session**, not every session.
-6.  **A new exercise counts against the budget.** For its first two sessions, nothing else progresses — adding a movement *is* the increase.
-
-### Gate: progress only if the last session settled
-
-*   **Settled to baseline within 24h, no pain** → progress up to 2 exercises.
-*   **No pain, but still sore / stiff / fatigued at 24h** → **hold everything at the same dose.** Holding is not lost progress; repeating a dose while it becomes comfortable is what consolidates it.
-*   **Any pain ≥4/10, or pain still rising at 48h** → regress per the traffic-light rule (cut volume ~30%), don't just hold.
-
-*Note: this budget governs **session-to-session load**. It does not restrict adding an exercise that
-fills a genuine gap (as Section 0 did), but per rule 6 such an addition consumes the budget.*
+1.  **Pain gate.** Pain 3/10 or under → progress. Pain **≥4/10**, or still rising at 48h → regress per the traffic-light rule (cut volume ~30%), don't just hold.
+2.  **Reps before sets.** Climb to the exercise's rep ceiling, then drop back to the lower rep count and add a set. Ceilings: clamshells 15/side · crab walks 12 steps · step-downs 10/leg · VMO squats 12 · step-ups 12/leg · tibialis raise and KOT calf raise stay at 25 and progress by difficulty (wall distance / single-leg) instead.
+3.  **Tempo or intensity changes** (lockout squeeze, longer pause, slower descent) count as progressions in their own right.
+4.  **Pogohops** follow their own dose steps in Section 3 (2×10 for the first two sessions, then +5 hops per set).
 
 ---
 
@@ -39,7 +25,7 @@ fills a genuine gap (as Section 0 did), but per rule 6 such an addition consumes
 
 > **Why:** Mon 2026-10-12 (half session) and Wed 2026-10-14 (31 km ride) left the quads "extremely sore,"
 > and Emiel reports the quads are being worked far more than the hips. Padel on Mon 2026-10-19 then brought
-> increased bilateral knee tingling by Day 2 (no pain). By the Progression Budget gate — no pain but not
+> increased bilateral knee tingling by Day 2 (no pain). By the progression gate in force at the time — no pain but not
 > settled — **nothing progresses.** The rebalance is done by *cutting quad volume*, not by adding hip volume.
 
 **Session dose until the quads settle** *(overrides the standing doses below for these exercises only)*:
@@ -57,9 +43,9 @@ fills a genuine gap (as Section 0 did), but per rule 6 such an addition consumes
 | **F Pogohops (NEW)** | **2x10, low amplitude, see Section 3** | — |
 | L-Sit Level 1 | 60 s | 60 s |
 
-*   **Resume rule:** return quad exercises to their standing doses one at a time (at most 2 per session, reps before sets) once a session settles to baseline within 24h with no increase in tingling. Hip exercises stay at held dose throughout.
+*   **Resume rule:** return quad exercises to their standing doses one at a time (reps before sets) once a session settles to baseline within 24h with no increase in tingling. Hip exercises stay at held dose throughout.
 *   **Wedge note:** VMO squats on the squat wedges are a harder stimulus than the heel-elevated version used earlier — treat the wedge dose as its own exercise and build it up from 2x6, not from the old 3x10.
-*   **Pogohops count as the session's new exercise** (Progression Budget rule 6): nothing else progresses while they are being introduced.
+*   **Pogohops** follow their own dose steps in Section 3 and do not hold other exercises back.
 
 ---
 
@@ -73,7 +59,7 @@ this plan is actually building are more durable still. Expect to feel slightly r
 session — that is neural re-familiarisation, not lost capacity.
 
 **Therefore: do not reduce doses after a one-week break. Resume at the same load.** Per the
-Progression Budget's gate, simply do not *progress* on the first session back.
+progression rule, simply do not *progress* on the first session back.
 
 ### What actually matters during the break
 
