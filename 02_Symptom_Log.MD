@@ -541,3 +541,18 @@ Log Instructions for Antigravity:
 > 🟢 *Antigravity Note: Recovery reported as good, and the session was the rebalance dose, so this is the first session on the new plan and it settled. One session only, and it is not used to clear or explain the Mon 10/19 padel residual.*
 
 ---
+
+### Friday 2026-10-23 — PT Session (Progressed Mid-Session, Padel Residual Still Present)
+
+1. **Workout:**
+   - Warm-up as prescribed (Emiel: "as is"): Z1 Tibialis Raise 2×25, Z2 KOT Calf Raise 1×25, Glute Bridges 1×8, Pogohops 2×10.
+   - Banded Crab Walks 3×10 each way @ 6 kg (as prescribed).
+   - **Banded TKEs 3×12** — added as a superset (partner exercise not stated). Band not stated (plan band: 15 kg). Prescribed today: 1×15.
+   - **Clamshells 3×13** (was 3×12; +1 rep. Side not stated).
+   - **VMO Squats 3×6 with lockout squeeze** (was 2×6, normal tempo, no lockout).
+2. **Reaction:** *(Pending — not yet reported.)*
+3. **Anything Else:** Before the session, the Mon 10/19 padel residual was still an ache in both knees, mostly right, not sharp, tingling not really present (see padel entry). Pain during or after the session not stated.
+
+> ⚠️ *Antigravity Note: Three exercises progressed in one session — TKEs (new set and superset), clamshells (+1 rep), VMO squats (new set and lockout squeeze). Under the Progression Budget that is over the limit: max 2 exercises per session, and an added set spends the whole session's budget. This was also the second pogohop session, which freezes everything else. It ran on top of a padel residual still in the amber band. Same stacking as Sat 9/12, which produced the Sun 9/13 "heavy" report. Reaction pending; the 24h settle check decides what happens next.*
+
+---
