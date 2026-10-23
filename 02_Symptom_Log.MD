@@ -519,14 +519,14 @@ Log Instructions for Antigravity:
    - *Tue 2026-10-20:* **Okay** — mostly sore in the glutes.
    - *Wed 2026-10-21 (Day 2):* **Okay**, still a bit sore, **increased tingling in both knees but not really pain.**
    - *Day-3 window (Thu 2026-10-22):* **pending.**
-   - *Fri 2026-10-23 (Day 4, reported today):* **Residual pain, under 3/10** — "manageable." Later update: described as an ache (not sharp); tingling "not really" present anymore. Knee and location not yet specified.
+   - *Fri 2026-10-23 (Day 4, reported today):* **Residual pain, under 3/10** — "manageable." Later update: described as an ache (not sharp); tingling "not really" present anymore. Both knees, mostly right. Location within the knee not yet specified.
 3. **Anything Else:** Padel wasn't preceded by a PT session since Mon 10/12 as far as reported.
 
 > ⚠️ *Antigravity Note: Tingling is the established baseline sensation (`00_Master_Context.MD`), now trending up on Day 2 of a High Risk activity — consistent with the Day-3 latency window but not proof of it. Equally possible contributors to today's tingling: **the padel on Mon 10/19** (the only activity logged inside 72h), and any unlogged loading on Tue/Wed; the 10/14 ride and 10/12 session sit outside the window but are not ruled out as background load. Right knee hurting during padel and settling with warm-up fits mechanism 1 (PFPS) or 3 (fat pad), and the glute soreness suggests the hips did take load. No sharp, swelling, giving way — green on the traffic light so far. **Follow-up due Thu 2026-10-22.***
 
 > **Follow-up (reported Fri 2026-10-23, Day 4):** Residual pain **under 3/10**, described as "manageable." Still present more than 24h after the session. Knee, location, and sharp-vs-ache not yet specified. Thu 10/22 (Day 3) not reported.
 >
-> **Update (Fri 2026-10-23, later):** Emiel describes it as an **ache**, not sharp. Tingling **not really present anymore** (it was increased on Wed, Day 2). Knee and location still not given; Thu 10/22 still not reported.
+> **Update (Fri 2026-10-23, later):** Emiel describes it as an **ache**, not sharp. Tingling **not really present anymore** (it was increased on Wed, Day 2). **Both knees, mostly right.** Location within the knee and Thu 10/22 still not given.
 >
 > 🟡 *Antigravity Note: Pain still present beyond 24h → amber on the traffic light (cut volume ~30%), even though intensity is under 3/10. Equally possible contributors to the residual: this padel session, the Wed 10/21 session (details not yet logged), and any unlogged activity since. No single cause assigned.*
 
