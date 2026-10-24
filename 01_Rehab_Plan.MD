@@ -151,7 +151,7 @@ unchanged, it does not. Report what happens.
 
 *   **Exercise G: Single-Leg Band Leg Extension [PT]** *(home version of the PT's machine "leg extension één")*
     *   **Dose:** 3×12/leg, 2-second hard squeeze at the end. Progress reps to 15.
-    *   **Setup & cues:** Sit on a chair, 15 kg band looped around the ankle and anchored low behind the chair leg. Straighten the knee against the band; **"focus op hard aanspannen laatste deel beweging"** (PT) — squeeze the quad hard over the last part, but stop at straight. Lower over 2–3 s.
+    *   **Setup & cues:** Sit on a chair, 15 kg band anchored **at or below foot height** behind you (bottom of a chair leg or the base of the door) and hooked **over the shoe, across the laces** — a higher anchor makes the band slide up the shin as the knee straightens (found 2026-10-24). Straighten the knee against the band; **"focus op hard aanspannen laatste deel beweging"** (PT) — squeeze the quad hard over the last part, but stop at straight. Lower over 2–3 s.
 
 *   **Exercise H: Side Plank Ladder [PT goal]** — Emiel found the PT's side plank (top knee pulled up) far too heavy and it caused issues, so it is built up in steps. **Current step: 3** *(confirmed in practice 2026-10-24: bottom knee bent, top leg straight and lifting — "perfect level"; step 4 felt clearly harder)*.
     1. Side-lying hip abduction (top leg slightly behind the body, toes slightly down) — 3×12/side, 2 s hold at top.
@@ -164,7 +164,7 @@ unchanged, it does not. Report what happens.
 
 *   **Exercise I: Single-Leg Pallof Press [PT]**
     *   **Dose:** 3×10/side (PT: 3×10–12, later **with rotation**).
-    *   **Setup & cues:** 15 kg band anchored at chest height to the side. Stand on the inside leg with a soft knee, press the band straight out from the chest and hold 1–2 s without letting the trunk rotate. Anti-rotation trunk and hip control — the base for padel strokes.
+    *   **Setup & cues:** 15 kg band anchored at chest height to the side (above-waist anchor works: press from lower-rib height). **Right stance first** — balance was harder on the right leg (2026-10-24). Stand on the inside leg with a soft knee, press the band straight out from the chest and hold 1–2 s without letting the trunk rotate. Anti-rotation trunk and hip control — the base for padel strokes.
 
 *   **Exercise J: Single-Leg KB Romanian Deadlift [Suggestion — review]**
     *   **Dose:** 3×8/leg, 8 kg kettlebell, fingertip support on a wall or chair. 3 s down, 1 s up.
@@ -178,7 +178,7 @@ unchanged, it does not. Report what happens.
 
 *   **Exercise L: Lateral Lunge [Suggestion — review]**
     *   **Dose:** 3×8/side, bodyweight → later the 8 kg kettlebell held as a goblet. 3 s down, push back.
-    *   **Cues:** Step wide, sit back into the moving hip; the bending knee may travel forward over the toes. Left first. Trains the sideways lunges padel needs.
+    *   **Cues:** Step wide, sit back into the moving hip; the bending knee may travel forward over the toes. Left first. Trains the sideways lunges padel needs. Depth self-chosen (2026-10-24: slight bend, knee just past the toes). If 3×8 is too heavy, hold a doorframe for support rather than cutting sets.
 
 *   **Exercise M: Kettlebell Swing [Suggestion — review]**
     *   **Dose:** 3×12, 8 kg.

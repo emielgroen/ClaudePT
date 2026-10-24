@@ -558,3 +558,20 @@ Log Instructions for Antigravity:
 > ⚠️ *Antigravity Note: Three exercises progressed in one session — TKEs (new set and superset), clamshells (+1 rep), VMO squats (new set and lockout squeeze). Under the Progression Budget that is over the limit: max 2 exercises per session, and an added set spends the whole session's budget. This was also the second pogohop session, which freezes everything else. It ran on top of a padel residual still in the amber band. Same stacking as Sat 9/12, which produced the Sun 9/13 "heavy" report. Reaction pending; the 24h settle check decides what happens next.*
 
 ---
+
+### Saturday 2026-10-24 — Practice Run: New A/B/C Exercises (Recovery Day)
+
+1. **Workout:** First try of the new exercises from the 2026-10-24 plan, 1 easy set each, ~5 reps per side, day after the Fri 10/23 session.
+   - **Side plank ladder:** step 3 (knee side plank, top leg straight and lifting) = "perfect level"; step 4 (full side plank) felt clearly harder.
+   - **SL Pallof press:** 5/side, 15 kg band anchored above waist height (no chest-height anchor). Definitely felt it. **Balance harder standing on the right leg** than on the left.
+   - **SL KB deadlift (8 kg):** form hard to get right → switched to the **kickstand version** going forward.
+   - **KB swing:** "okay", felt it in the hips. Hands cramped a bit (cold hands).
+   - **SL band leg extension (15 kg band):** felt awkward; the band slid up the leg over the last part of the extension. "Felt okay," just awkward.
+   - **Lateral lunge:** very heavy even at a slight bend (knee just past the toes); heart rate spiked immediately.
+   - **SL land-and-hold:** liked it, "felt good," quite heavy. Lost balance once.
+2. **Reaction:** During the practice: no pain reported on any exercise (descriptions were "heavy," "awkward," "felt good"). After-effect: **pending** — via the Knee Day response score.
+3. **Anything Else:** Practice run on a planned recovery day, ~24h after the Fri 10/23 session, which progressed three exercises and is itself still pending.
+
+> 💡 *Antigravity Note: Right-leg balance being harder on the Pallof press matches the 8/27 finding that the right glute med tires first — right side goes first on hip and balance work, and the left matches. Two technique fixes came out of this: kickstand deadlift, and a lower anchor / band over the shoe for the leg extension. The lateral lunge and land-and-hold both read as "heavy" — new frontal-plane and landing load, which is the point of Session C. Any reaction in the next days has three equally possible contributors: this practice run, the Fri 10/23 session, and the padel on Mon 10/19.*
+
+---
