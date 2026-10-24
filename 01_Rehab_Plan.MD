@@ -131,7 +131,7 @@ unchanged, it does not. Report what happens.
 ### Session B — Hip & trunk control (~45–50 min)
 *   Superset ×3: **B** Banded Crab Walks **[plan]** ↔ **C** Poliquin Step-Downs **[plan]**.
 *   Superset ×3: **H** Side Plank Ladder (current step) **[PT goal]** ↔ **I** Single-Leg Pallof Press **[PT]**.
-*   **J** Single-Leg KB Romanian Deadlift **[Suggestion — review]** — 3×8/leg.
+*   **J** Single-Leg KB Romanian Deadlift, kickstand version for now **[Suggestion — review]** — 3×8/leg.
 *   **3B** L-Sit Level 1, 60 s **[KOT]**.
 *   Cooldown stretches (Section 4).
 
@@ -169,6 +169,7 @@ unchanged, it does not. Report what happens.
 *   **Exercise J: Single-Leg KB Romanian Deadlift [Suggestion — review]**
     *   **Dose:** 3×8/leg, 8 kg kettlebell, fingertip support on a wall or chair. 3 s down, 1 s up.
     *   **Cues:** Soft standing knee, hips back, long spine. Right leg first. Hamstring/glute strength and single-leg balance without much knee load.
+    *   **Current level: kickstand version** *(Emiel, 2026-10-24 — full single-leg form was hard in practice)*: back foot stays lightly on the floor (toes down, heel up, ~a foot-length behind), ~80–90% of the weight on the front leg. Kettlebell on the side of the back leg. Progress to the free back leg once the hinge feels natural.
 
 *   **Exercise K: Single-Leg Land-and-Hold [PT]**
     *   **Dose:** 3×5/leg (PT range 5–8).
