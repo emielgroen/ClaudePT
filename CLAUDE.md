@@ -46,7 +46,9 @@ gave you — parse it yourself.
 Mark a fresh entry's reaction as **pending** if he hasn't told you the outcome yet — never assume
 "no pain" or "fine" just because a nearby activity was reported as pain-free; each entry's
 reaction is only ever what he explicitly told you about *that* entry. When he later reports the
-outcome, update the *same* entry rather than creating a new one.
+outcome, update the *same* entry rather than creating a new one. Response scores from the Knee Day
+page count as him reporting it: copy them into the entry with their date (see "Date & Response
+Tracking" below).
 
 After writing to `02_Symptom_Log.MD` (or either of the other two files), commit, push to the
 working branch, and **merge straight into `origin/main`** (fast-forward when possible) —
@@ -54,13 +56,31 @@ immediately, without waiting to be asked each time. Since Emiel moves between de
 an uncommitted or unmerged change only exists on this machine/branch — merging to `main` right
 away is what lets the next session (on any device) see it via a pull.
 
-## Date & Pending Follow-Up Awareness
+## Date & Response Tracking
 
 Always know **today's actual date** (check the system/environment date — never assume or reuse a
-date from an old log entry). Scan `02_Symptom_Log.MD` for any entry marked **pending** that is at
-least a day old, and proactively ask about it early in the conversation rather than waiting to be
-asked. There's no fixed 60–72h window and no gap-tracking for rest days — just: is there a
-pending entry ≥1 day old? If yes, ask.
+date from an old log entry).
+
+**Reactions are measured by the daily response score, not by check-ins** *(Emiel's call,
+2026-10-24)*. Emiel logs one 0–10 "how did my knees respond" score on the Knee Day page (see
+below). Muscle soreness doesn't count toward it. Don't ask him about pending entries; a pending
+entry is resolved by the score(s) logged in the days after it. **Only remind him if no score has
+been logged for 7 days.** If he tells you a reaction in chat anyway, log it as before.
+
+## Daily Page & Morning Run (adopted 2026-10-24)
+
+- **Knee Day page:** https://claude.ai/artifact/Up8CmDYn1xURDfx7N5g1EJ (source:
+  `daily/knee_day.html`). It shows today's plan and has the response score and a Done/Skipped
+  button. Data lives in the artifact's database: `days/<YYYY-MM-DD>` (the day's plan, written by
+  Claude) and `log/<YYYY-MM-DD>` (`score`, `session`, written by Emiel on the page).
+- **Morning run:** a scheduled routine runs every day at 06:12 Europe/Amsterdam and follows
+  `daily/MORNING_RUN.md`. It writes the day's plan before 06:30. No notification; Emiel opens the
+  page himself.
+- **Don't adjust a day's plan based on how he feels that day.** Changes are made on trends, in a
+  weekly proposal that he approves in chat. He adjusts on the day himself.
+- **Independent review (2026-10-24):** `daily/independent_review.md` (blind-designed program) and
+  the comparison page https://claude.ai/artifact/QRzgBe2y8pppDb3tMR6vb2. Nothing from it is in
+  `01_Rehab_Plan.MD` until Emiel decides.
 
 ## Pattern Recognition & Latency Tracking
 

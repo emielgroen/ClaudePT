@@ -1,0 +1,183 @@
+<title>Knee Plan Second Opinion</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@500;600;700&family=Public+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: one reading column. Summary first, then one row per topic: current plan vs. independent review, with a verdict chip. */
+:root {
+  --bg: #f3f5f4; --surface: #ffffff; --ink: #17201d; --muted: #5d6a65; --line: #d8dfdc;
+  --accent: #1f5fbf; --accent-soft: #e3ecfa;
+  --green: #2f7d4f; --green-soft: #e1f1e7; --amber: #a86400; --amber-soft: #fbefd9; --grey-soft: #e7ebe9;
+  --display: "Barlow Semi Condensed", "Arial Narrow", system-ui, sans-serif;
+  --body: "Public Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #101513; --surface: #182019; --ink: #e6ece9; --muted: #98a6a0; --line: #2b3632;
+    --accent: #7fa8ee; --accent-soft: #1d2a40; --green: #6cc38f; --green-soft: #183126; --amber: #e6a84a; --amber-soft: #3a2b13; --grey-soft: #232d29;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #101513; --surface: #182019; --ink: #e6ece9; --muted: #98a6a0; --line: #2b3632;
+  --accent: #7fa8ee; --accent-soft: #1d2a40; --green: #6cc38f; --green-soft: #183126; --amber: #e6a84a; --amber-soft: #3a2b13; --grey-soft: #232d29;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--ink); font-family: var(--body); font-size: 15px; line-height: 1.55;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+.wrap { max-width: 720px; margin: 0 auto; padding-block: 24px 56px; display: flex; flex-direction: column; gap: 22px; }
+h1, h2, h3 { font-family: var(--display); margin: 0; text-wrap: balance; }
+h1 { font-size: 34px; line-height: 1.05; }
+h2 { font-size: 22px; font-weight: 600; }
+h3 { font-size: 18px; font-weight: 600; }
+p { margin: 0; max-width: 65ch; }
+.eyebrow { font-family: var(--mono); font-size: 12px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.04em; }
+.lead { color: var(--muted); }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 16px; display: flex; flex-direction: column; gap: 10px; }
+ul { margin: 0; padding-left: 18px; display: flex; flex-direction: column; gap: 4px; }
+.row { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 16px; display: flex; flex-direction: column; gap: 10px; }
+.row-head { display: flex; justify-content: space-between; align-items: baseline; gap: 10px; flex-wrap: wrap; }
+.chip { font-family: var(--display); font-weight: 600; font-size: 13px; text-transform: uppercase; letter-spacing: 0.08em; padding: 2px 9px; border-radius: 4px; }
+.adopt { background: var(--green-soft); color: var(--green); }
+.discuss { background: var(--amber-soft); color: var(--amber); }
+.keep { background: var(--grey-soft); color: var(--muted); }
+.cols { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+.cols > div { min-width: 0; display: flex; flex-direction: column; gap: 4px; }
+.lbl { font-family: var(--mono); font-size: 11px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); }
+.take { border-top: 1px dashed var(--line); padding-top: 8px; font-size: 14.5px; }
+.take b { font-family: var(--display); font-size: 15px; letter-spacing: 0.02em; }
+.agree li::marker { color: var(--green); }
+.week { width: 100%; border-collapse: collapse; font-size: 14px; }
+.week td, .week th { text-align: left; padding: 7px 8px; border-bottom: 1px solid var(--line); vertical-align: top; }
+.week th { font-family: var(--mono); font-size: 12px; color: var(--muted); font-weight: 500; width: 54px; }
+.scroll { overflow-x: auto; }
+.foot { font-size: 13px; color: var(--muted); }
+@media (max-width: 520px) { .cols { grid-template-columns: 1fr; } }
+</style>
+
+<div class="wrap">
+  <header style="display:flex;flex-direction:column;gap:8px">
+    <span class="eyebrow">Independent review · 24 Oct 2026</span>
+    <h1>Your plan vs. a blind second opinion</h1>
+    <p class="lead">A separate agent designed a program from your history, equipment, time budget and a summary of how you've reacted to things. It never saw your current plan or schedule. Below: where it agrees with your plan, where it differs, and my take on each. Nothing changes in your plan until you say so.</p>
+  </header>
+
+  <section class="card">
+    <h2>Where both agree</h2>
+    <ul class="agree">
+      <li>Hip and quad work together in every session, with hip work placed before the knee work it supports.</li>
+      <li>Wedge squats are a heavy stimulus and need their own small dose.</li>
+      <li>Progress in small steps. Raising several exercises at once caused the "workouts feel heavy" drag.</li>
+      <li>Space loaded days 48–72h apart because of the delayed reaction. No hard cycling on sore legs.</li>
+      <li>Soft knees and even weight on both legs in daily life. Supportive footwear. Break up sitting.</li>
+      <li>Padel and running stay gated until capacity is there. Taping isn't a long-term tool.</li>
+    </ul>
+  </section>
+
+  <section class="card">
+    <h2>The proposed week</h2>
+    <p class="lead">Three different sessions instead of one repeated template. The daily page would schedule them dynamically, keeping this order and 48h+ spacing.</p>
+    <div class="scroll">
+      <table class="week">
+        <tr><th>A</th><td><b>Hip strength + quad isometrics</b> · side-lying abduction, side plank, single-leg bridge, 8 kg KB deadlift, Spanish squat holds (15 kg band), calf raises, dead bug</td></tr>
+        <tr><th>B</th><td><b>Single-leg control + slow quad</b> · banded walks, hip hikes, slow step-downs, split squats to ~70°, single-leg balance, banded TKEs to soft-straight</td></tr>
+        <tr><th>C</th><td><b>Multi-planar + low plyos</b> · clamshell/fire hydrant, lateral lunge, reverse lunge, KB swing, pogo hops on carpet, Copenhagen plank, tibialis raise</td></tr>
+        <tr><th>Off</th><td>Easy bike or walk, mobility, scar work, nerve glides, posture habits</td></tr>
+      </table>
+    </div>
+  </section>
+
+  <h2>Where they differ</h2>
+
+  <div class="row">
+    <div class="row-head"><h3>1. Check the nerve symptoms</h3><span class="chip adopt">Adopt</span></div>
+    <div class="cols">
+      <div><span class="lbl">Current plan</span><p>Tingling is treated as part of the knee picture (PFPS, scar). Magnesium for restless legs.</p></div>
+      <div><span class="lbl">Review</span><p>Tingling that spreads to the quads and calves, plus restless legs, suggests a nerve part. A one-off GP check: lower back/nerve exam, and bloods for ferritin, B12 and vitamin D.</p></div>
+    </div>
+    <p class="take"><b>My take:</b> This is the review's most valuable point. It's a cheap, non-invasive check that could explain the restless legs, since low iron is a common cause. The training itself doesn't change.</p>
+  </div>
+
+  <div class="row">
+    <div class="row-head"><h3>2. Three different sessions</h3><span class="chip adopt">Adopt</span></div>
+    <div class="cols">
+      <div><span class="lbl">Current plan</span><p>One template repeated 3×/week, with step-ups and step-downs alternating. The 8 kg kettlebell isn't used.</p></div>
+      <div><span class="lbl">Review</span><p>A/B/C sessions, each with a different emphasis. Uses the kettlebell. Hip volume is about equal to quad volume.</p></div>
+    </div>
+    <p class="take"><b>My take:</b> This fits your 45+ min budget and fixes the quad-heavy imbalance you noticed on 10/12 and 10/14. More variety also matches your log: varied, multi-planar movement is what your knees tolerate best.</p>
+  </div>
+
+  <div class="row">
+    <div class="row-head"><h3>3. Main quad exercise</h3><span class="chip adopt">Adopt</span></div>
+    <div class="cols">
+      <div><span class="lbl">Current plan</span><p>Wedge VMO squats are the main quad exercise every session, building toward 3×10 with tempo and lockout squeeze.</p></div>
+      <div><span class="lbl">Review</span><p>Phase 1: Spanish squat holds with the 15 kg band, plus slow step-downs and split squats. Wedge squats only once a week from Phase 2, partial range.</p></div>
+    </div>
+    <p class="take"><b>My take:</b> Your log backs this. Even a half session with wedge squats gave "extreme" quad soreness. Isometric holds load the quads hard with little knee irritation.</p>
+  </div>
+
+  <div class="row">
+    <div class="row-head"><h3>4. Lockout squeeze and VMO focus</h3><span class="chip discuss">Discuss</span></div>
+    <div class="cols">
+      <div><span class="lbl">Current plan</span><p>Built around VMO activation: a hard quad squeeze at lockout on squats, and TKEs to full straight.</p></div>
+      <div><span class="lbl">Review</span><p>The VMO can't really be trained in isolation. Drop hard lockouts and finish at soft-straight instead, because hyperextension feeds right-knee overload and fat pad irritation.</p></div>
+    </div>
+    <p class="take"><b>My take:</b> The review fits your own diagnosis framework (mechanisms 2 and 3). But you tolerated the squeeze well on 9/12. Fair test: finish everything at soft-straight for 3 weeks and compare your scores.</p>
+  </div>
+
+  <div class="row">
+    <div class="row-head"><h3>5. When to progress</h3><span class="chip discuss">Discuss</span></div>
+    <div class="cols">
+      <div><span class="lbl">Current plan</span><p>Since 10/23: progress whenever pain ≤3/10, and regress at ≥4. No limit on how many exercises go up at once.</p></div>
+      <div><span class="lbl">Review</span><p>Green ≤2 → progress one thing. Amber 3–4 → hold. Red ≥5 → cut 30–50%. At most two exercises a week, never two quad-heavy ones.</p></div>
+    </div>
+    <p class="take"><b>My take:</b> Keep your ≤3 gate, since that was your call and it's reasonable. Add one limit: at most one quad-heavy progression per week. Twice now (9/12 and 10/23), several increases in one session came right before a heavy or amber stretch.</p>
+  </div>
+
+  <div class="row">
+    <div class="row-head"><h3>6. A route back to padel</h3><span class="chip adopt">Adopt</span></div>
+    <div class="cols">
+      <div><span class="lbl">Current plan</span><p>Padel is "high risk, avoid or limit." There are no criteria for bringing it back.</p></div>
+      <div><span class="lbl">Review</span><p>Criteria first: green weeks, hop tests within 10% left vs. right, and padel drills at home. Then a 4-week ladder from 30 min of rallying to full matches. Easy day after padel, and 48h before the next strength session.</p></div>
+    </div>
+    <p class="take"><b>My take:</b> Take the ladder as is. The review's entry criteria are strict ("3+ weeks at 0–1 in daily life"), so I'd use them as a target, not a hard gate. Step 1 of the ladder (30 min of rallying) is small enough to try sooner.</p>
+  </div>
+
+  <div class="row">
+    <div class="row-head"><h3>7. Coming back after a layoff</h3><span class="chip adopt">Adopt</span></div>
+    <div class="cols">
+      <div><span class="lbl">Current plan</span><p>After a one-week break, resume at the same load.</p></div>
+      <div><span class="lbl">Review</span><p>After 7+ days off: 60% of the volume in week 1, 80% in week 2, then full.</p></div>
+    </div>
+    <p class="take"><b>My take:</b> Use the ramp after illness or a longer break. You did this by instinct on 10/9 and it went well. A holiday week of surfing can stay "resume as is."</p>
+  </div>
+
+  <div class="row">
+    <div class="row-head"><h3>8. New recovery tools</h3><span class="chip adopt">Adopt</span></div>
+    <div class="cols">
+      <div><span class="lbl">Current plan</span><p>Cooldown stretches (figure-4, hip flexor). Nothing structured for off days.</p></div>
+      <div><span class="lbl">Review</span><p>Nerve glides (never into tingling), scar mobilisation plus desensitisation, gentle kneecap glides (go easy on the left lateral glide), 90/90 hips, couch stretch.</p></div>
+    </div>
+    <p class="take"><b>My take:</b> These become the off-day menu on your daily page.</p>
+  </div>
+
+  <div class="row">
+    <div class="row-head"><h3>9. L-Sit and the ankle warm-up</h3><span class="chip keep">Keep current</span></div>
+    <div class="cols">
+      <div><span class="lbl">Current plan</span><p>Tibialis raise and KOT calf raise to open. L-Sit for the front-of-hip tightness, with a review due around 25 Oct.</p></div>
+      <div><span class="lbl">Review</span><p>Opens with a 5-min easy bike and hip mobility. No L-Sit.</p></div>
+    </div>
+    <p class="take"><b>My take:</b> Keep both. They're tolerated, quick, and target your specific issues. Add the 90/90 hips and glute bridge from the review's warm-up. The L-Sit stays until its review.</p>
+  </div>
+
+  <section class="card">
+    <h2>What you need to decide</h2>
+    <ul>
+      <li><b>Adopt</b> items 1, 2, 3, 6, 7 and 8 as a new plan?</li>
+      <li><b>Lockout squeeze (4):</b> try 3 weeks at soft-straight?</li>
+      <li><b>Progression (5):</b> keep ≤3 and add "max one quad-heavy progression a week"?</li>
+    </ul>
+    <p class="foot">Tell me in chat. I'll then rewrite 01_Rehab_Plan.MD and the daily page will use the new sessions from the next morning.</p>
+  </section>
+</div>
