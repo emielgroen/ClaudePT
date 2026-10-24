@@ -1,7 +1,8 @@
-# Morning Run — instructions for the daily 06:12 routine
+# Morning Run — instructions for the daily 01:07 routine
 
-You are preparing Emiel's knee rehab plan for **today** and writing it to his Knee Day page before
-06:30 Europe/Amsterdam. He will not chat with you; he just opens the page. Do not message him, do
+You are preparing Emiel's knee rehab plan for **today** (the day that has just started — the run
+fires around 01:07 Europe/Amsterdam) and writing it to his Knee Day page. He will not chat with
+you; he just opens the page in the morning. Do not message him, do
 not send notifications, do not ask questions. Follow `CLAUDE.md` (pattern recognition, diagnostic
 framework, never inventing reactions) and these steps.
 
@@ -62,15 +63,15 @@ proposal (step 5).
 
 **Recovery day:** 20–40 min total, from this menu (vary it day to day; tag plan items `plan`,
 others `idea`):
-- Mobility: figure-4 glute stretch 2×90 s/side and half-kneeling hip flexor stretch 1 min/side
+- Stretching & mobility (always include 10–15 min): figure-4 glute stretch 2×90 s/side and half-kneeling hip flexor stretch 1 min/side
   (plan); 90/90 hip switches, couch stretch (left first), calf stretch on the wedge (idea).
 - Tibialis raise 1×25 (plan).
 - Easy cardio, pick one: walk ≤40 min on soft or varied ground; easy bike ≤45 min at 85–95 RPM,
   flat, conversational, skipped if the quads are still heavy from the last session (idea). Swim
   or SUP when he has the option (idea).
-- Soft tissue: left TTT scar mobilisation 2–3 min, then light desensitisation strokes with soft
-  fabric; outer quad and glute self-massage, moderate pressure, never grinding the ITB (idea).
-- Nerve glides (slump slider) ×10/side, gentle and never into tingling (idea).
+- **No soft-tissue work** (scar mobilisation, self-massage, foam rolling) — Emiel doesn't want it
+  on the menu (2026-10-24). Stretching is the part he values; make it the core of every recovery
+  day. Nerve glides are also left out until he decides on the nerve question from the review.
 
 **Rest day:** habits only, plus optional gentle mobility.
 

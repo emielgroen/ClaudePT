@@ -73,9 +73,9 @@ been logged for 7 days.** If he tells you a reaction in chat anyway, log it as b
   `daily/knee_day.html`). It shows today's plan and has the response score and a Done/Skipped
   button. Data lives in the artifact's database: `days/<YYYY-MM-DD>` (the day's plan, written by
   Claude) and `log/<YYYY-MM-DD>` (`score`, `session`, written by Emiel on the page).
-- **Morning run:** a scheduled routine runs every day at 06:12 Europe/Amsterdam and follows
-  `daily/MORNING_RUN.md`. It writes the day's plan before 06:30. No notification; Emiel opens the
-  page himself.
+- **Night run:** a scheduled routine runs every day at 01:07 Europe/Amsterdam and follows
+  `daily/MORNING_RUN.md`, writing the plan for the day that has just started. No notification;
+  Emiel opens the page himself.
 - **Don't adjust a day's plan based on how he feels that day.** Changes are made on trends, in a
   weekly proposal that he approves in chat. He adjusts on the day himself.
 - **Independent review (2026-10-24):** `daily/independent_review.md` (blind-designed program) and
