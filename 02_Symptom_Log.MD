@@ -574,6 +574,6 @@ Log Instructions for Antigravity:
 
 > 💡 *Antigravity Note: Right-leg balance being harder on the Pallof press matches the 8/27 finding that the right glute med tires first — right side goes first on hip and balance work, and the left matches. Two technique fixes came out of this: kickstand deadlift, and a lower anchor / band over the shoe for the leg extension. The lateral lunge and land-and-hold both read as "heavy" — new frontal-plane and landing load, which is the point of Session C. Any reaction in the next days has three equally possible contributors: this practice run, the Fri 10/23 session, and the padel on Mon 10/19.*
 
-> **Later the same day — calf stretch (straight knee, on the wedge):** stretch felt **much stronger in the right calf** than the left. Confirmed as muscle tightness, not a sharp, tingly or behind-the-knee sensation. Fits the right-side overload pattern (mechanism 2). A tight calf limits ankle bend and pushes more load into the knee. Right side now gets an extra hold.
+> **Later the same day — calf stretch (straight knee, on the wedge):** stretch felt **much stronger in the right calf** than the left. Confirmed as muscle tightness, not a sharp, tingly or behind-the-knee sensation. Fits the right-side overload pattern (mechanism 2). A tight calf limits ankle bend and pushes more load into the knee. Stretch dose stays the same on both legs (Emiel's call).
 
 ---
