@@ -30,6 +30,8 @@ All strength and activation exercises should be performed at the gym (or with ap
 
 **Session dose until the quads settle** *(overrides the standing doses below for these exercises only)*:
 
+> **2026-10-24 (Emiel):** every main exercise runs at **3 sets from the start** — no 2-set ramp-ins; he doesn't want to be too conservative with load. Warm-up items keep their own doses, and pogohops keep their own dose steps.
+
 | Exercise | Tonight's dose | Standing dose |
 |---|---|---|
 | Z1 Tibialis Raise | 2x25 | 2x25 |
@@ -37,9 +39,9 @@ All strength and activation exercises should be performed at the gym (or with ap
 | Glute Bridges | 1x8, feet farther out | 1x8 |
 | B Banded Crab Walks | 3x10 steps each way (held) | 3x10 |
 | A Clamshells | 3x12/side (held) | 3x12 |
-| **D VMO Squats (on wedges)** | **2x6, normal tempo, no lockout squeeze** | 3x10 with tempo (no lockout squeeze — dropped 2026-10-24) |
-| **E Lateral Step-Ups** *(rotation)* | **2x8/leg — skip if quads still heavy** | 3x10/leg |
-| Banded TKEs (15 kg band) | 2x15 | 3x15 |
+| **D VMO Squats (on wedges)** | **3x6, normal tempo, no lockout squeeze** | 3x10 with tempo (no lockout squeeze — dropped 2026-10-24) |
+| **E Lateral Step-Ups** *(rotation)* | **3x8/leg** | 3x10/leg |
+| Banded TKEs (15 kg band) | 3x15 | 3x15 |
 | **F Pogohops (NEW)** | **2x10, low amplitude, see Section 3** | — |
 | L-Sit Level 1 | 60 s | 60 s |
 
@@ -123,20 +125,20 @@ unchanged, it does not. Report what happens.
 ### Session A — Knee strength (~45–50 min)
 *   Superset ×3: **A** Clamshells **[PT/plan]** ↔ **D** VMO Squats on wedges **[PT]** — rebalance dose, **no lockout squeeze** (Emiel, 2026-10-24: the PT never prescribed it for VMO squats; it was our own 9/12 progression).
 *   **E** Lateral Step-Ups on the yoga block **[PT]** — rebalance dose.
-*   **G** Single-Leg Band Leg Extension **[PT]** — 2×12/leg.
+*   **G** Single-Leg Band Leg Extension **[PT]** — 3×12/leg.
 *   Cooldown stretches (Section 4).
 
 ### Session B — Hip & trunk control (~45–50 min)
 *   Superset ×3: **B** Banded Crab Walks **[plan]** ↔ **C** Poliquin Step-Downs **[plan]**.
-*   Superset ×2: **H** Side Plank Ladder (current step) **[PT goal]** ↔ **I** Single-Leg Pallof Press **[PT]**.
-*   **J** Single-Leg KB Romanian Deadlift **[Suggestion — review]** — 2×8/leg.
+*   Superset ×3: **H** Side Plank Ladder (current step) **[PT goal]** ↔ **I** Single-Leg Pallof Press **[PT]**.
+*   **J** Single-Leg KB Romanian Deadlift **[Suggestion — review]** — 3×8/leg.
 *   **3B** L-Sit Level 1, 60 s **[KOT]**.
 *   Cooldown stretches (Section 4).
 
 ### Session C — Padel prep (~45 min) — *started at the lowest level, 2026-10-24*
 *   **F** Pogohops **[PT]** — current dose step (Section 3). Do them right after the warm-up, while fresh.
 *   **K** Single-Leg Land-and-Hold **[PT]** — 3×5/leg.
-*   **L** Lateral Lunge, bodyweight **[Suggestion — review]** — 2×8/side.
+*   **L** Lateral Lunge, bodyweight **[Suggestion — review]** — 3×8/side.
 *   **M** Kettlebell Swing, 8 kg **[Suggestion — review]** — 3×12.
 *   **A** Clamshells **[PT/plan]** — same dose as Session A.
 *   Cooldown stretches (Section 4).
@@ -148,23 +150,23 @@ unchanged, it does not. Report what happens.
 ### New exercises (2026-10-24)
 
 *   **Exercise G: Single-Leg Band Leg Extension [PT]** *(home version of the PT's machine "leg extension één")*
-    *   **Dose:** 2×12/leg, 2-second hard squeeze at the end. Progress reps to 15, then add a set (to 3).
+    *   **Dose:** 3×12/leg, 2-second hard squeeze at the end. Progress reps to 15.
     *   **Setup & cues:** Sit on a chair, 15 kg band looped around the ankle and anchored low behind the chair leg. Straighten the knee against the band; **"focus op hard aanspannen laatste deel beweging"** (PT) — squeeze the quad hard over the last part, but stop at straight. Lower over 2–3 s.
 
 *   **Exercise H: Side Plank Ladder [PT goal]** — Emiel found the PT's side plank (top knee pulled up) far too heavy and it caused issues, so it is built up in steps. **Current step: 1.**
-    1. Side-lying hip abduction (top leg slightly behind the body, toes slightly down) — 2×12/side, 2 s hold at top.
-    2. Side plank on knees — 2×20–30 s/side.
-    3. Side plank on knees + top-leg lift — 2×8/side.
-    4. Full side plank — 2×20–30 s/side.
+    1. Side-lying hip abduction (top leg slightly behind the body, toes slightly down) — 3×12/side, 2 s hold at top.
+    2. Side plank on knees — 3×20–30 s/side.
+    3. Side plank on knees + top-leg lift — 3×8/side.
+    4. Full side plank — 3×20–30 s/side.
     5. **PT's version:** full side plank with the top knee pulled up — 3 × as many reps as possible.
     *   Move up one step when the current step reaches the top of its range with the score ≤3. Right side first (weaker glute med).
 
 *   **Exercise I: Single-Leg Pallof Press [PT]**
-    *   **Dose:** 2×10/side to start (PT target: 3×10–12, later **with rotation**).
+    *   **Dose:** 3×10/side (PT: 3×10–12, later **with rotation**).
     *   **Setup & cues:** 15 kg band anchored at chest height to the side. Stand on the inside leg with a soft knee, press the band straight out from the chest and hold 1–2 s without letting the trunk rotate. Anti-rotation trunk and hip control — the base for padel strokes.
 
 *   **Exercise J: Single-Leg KB Romanian Deadlift [Suggestion — review]**
-    *   **Dose:** 2×8/leg, 8 kg kettlebell, fingertip support on a wall or chair. 3 s down, 1 s up.
+    *   **Dose:** 3×8/leg, 8 kg kettlebell, fingertip support on a wall or chair. 3 s down, 1 s up.
     *   **Cues:** Soft standing knee, hips back, long spine. Right leg first. Hamstring/glute strength and single-leg balance without much knee load.
 
 *   **Exercise K: Single-Leg Land-and-Hold [PT]**
@@ -173,7 +175,7 @@ unchanged, it does not. Report what happens.
     *   **Progressions, in order:** (1) the PT's plate press-out on landing → with the 8 kg kettlebell pressed out in front; (2) hop forward / sideways; (3) land-and-hold stepping off the yoga block; (4) **SL step-off** from the yoga block, 3×10–15 (PT); (5) **SL drop jump**, 3×6 (PT) — only once a higher step is available and landings are solid.
 
 *   **Exercise L: Lateral Lunge [Suggestion — review]**
-    *   **Dose:** 2×8/side, bodyweight → later the 8 kg kettlebell held as a goblet. 3 s down, push back.
+    *   **Dose:** 3×8/side, bodyweight → later the 8 kg kettlebell held as a goblet. 3 s down, push back.
     *   **Cues:** Step wide, sit back into the moving hip; the bending knee may travel forward over the toes. Left first. Trains the sideways lunges padel needs.
 
 *   **Exercise M: Kettlebell Swing [Suggestion — review]**
