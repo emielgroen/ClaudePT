@@ -48,6 +48,7 @@ Commit, push and fast-forward `origin/main` (per `CLAUDE.md`). Skip the commit i
     lowest knee load), not A; otherwise recovery. **Tue 10/27** (the day after): recovery only.
     The next session after that is ≥48h after the padel, so Wed 10/28 at the earliest. Rotation
     continues from there (A next if Sunday was B).
+- **Warm-ups before padel or other sport:** ~5 min, no equipment, done on site (e.g. tibialis raise against a wall, leg swings, easy shuffles). Emiel found a 12-min banded warm-up too long and heavy (2026-10-24).
 - General rule for any known high-risk event (padel, long ride, long hike): no quad-heavy session
   (A or C) the day before, recovery the day after, the next session ≥48h after the event.
 
