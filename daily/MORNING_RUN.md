@@ -37,6 +37,22 @@ Commit, push and fast-forward `origin/main` (per `CLAUDE.md`). Skip the commit i
 
 ## 3. Decide today: train or recovery
 
+### 3a. Pre-planned days and known events — check first
+
+- If `days/<today>` already exists with `"locked": true`, it was planned together with Emiel in chat.
+  **Don't overwrite it.** Still do step 2 (sync) and step 5 (Sunday proposal: `update` only the
+  `proposal` field), then finish.
+- **Known upcoming events** (added from chat; remove them once they're past):
+  - **Mon 2026-10-26: padel, 60 min, very low-key with colleagues** (High Risk list). That day is
+    locked. **Sun 10/25** (the day before): if it qualifies for training, it's **Session B** (hip & trunk,
+    lowest knee load), not A; otherwise recovery. **Tue 10/27** (the day after): recovery only.
+    The next session after that is ≥48h after the padel, so Wed 10/28 at the earliest. Rotation
+    continues from there (A next if Sunday was B).
+- General rule for any known high-risk event (padel, long ride, long hike): no quad-heavy session
+  (A or C) the day before, recovery the day after, the next session ≥48h after the event.
+
+### 3b. Normal days
+
 Use **facts only**: the schedule, completed sessions, logged activities, and the trend of scores.
 **Never change today's plan because of a single score or how he might feel today.** He adjusts
 on the day himself.
