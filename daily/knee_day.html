@@ -333,7 +333,8 @@ button:disabled { cursor: not-allowed; opacity: 0.5; }
       if (user && typeof user.can === "function") { const w = await user.can("data.write"); if (w === false) canWrite = false; }
     } catch (e) {}
 
-    db.collection("days").orderBy("date", "desc").limit(1).onSnapshot((snap) => {
+    // Plans can be written ahead of time, so never show a future day.
+    db.collection("days").where("date", "<=", TODAY).orderBy("date", "desc").limit(1).onSnapshot((snap) => {
       // Show today's plan, or the latest one if today's hasn't been written yet.
       plan = snap.empty ? null : snap.docs[0].data();
       if (plan) renderPlan();
