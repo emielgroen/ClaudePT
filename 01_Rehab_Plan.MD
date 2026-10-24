@@ -37,7 +37,7 @@ All strength and activation exercises should be performed at the gym (or with ap
 | Glute Bridges | 1x8, feet farther out | 1x8 |
 | B Banded Crab Walks | 3x10 steps each way (held) | 3x10 |
 | A Clamshells | 3x12/side (held) | 3x12 |
-| **D VMO Squats (on wedges)** | **2x6, normal tempo, no lockout squeeze** | 3x10 with tempo + squeeze |
+| **D VMO Squats (on wedges)** | **2x6, normal tempo, no lockout squeeze** | 3x10 with tempo (no lockout squeeze — dropped 2026-10-24) |
 | **E Lateral Step-Ups** *(rotation)* | **2x8/leg — skip if quads still heavy** | 3x10/leg |
 | Banded TKEs (15 kg band) | 2x15 | 3x15 |
 | **F Pogohops (NEW)** | **2x10, low amplitude, see Section 3** | — |
@@ -100,40 +100,87 @@ unchanged, it does not. Report what happens.
 
 ---
 
-## Session Structure (Hip/Quad Supersets) — *adopted 2026-09-12*
+## Weekly Structure: Sessions A / B / C — *adopted 2026-10-24 (Emiel's call)*
 
-> The exercises below are grouped into blocks rather than run straight down the list. This changes
-> **order only — no exercise, dose or progression is altered by it.** Sections 0–4 remain the
-> reference for what each exercise is and how to perform it.
+> **Replaces** the single repeated session template (Hip/Quad Supersets, 2026-09-12). Three sessions a
+> week, each with its own focus, keeps it interesting and spreads the load. Built from Emiel's PT's
+> two exercise sets (the base), the Knees Over Toes tools already in this plan, and a few items from
+> the blind review (`daily/independent_review.md`). **Source tags:** **[PT]** = prescribed by Emiel's
+> physiotherapist · **[KOT]** = Knees Over Toes, added 2026-09-12 · **[Suggestion]** = Claude's or
+> the review's suggestion.
+>
+> **Scheduling:** the nightly run (`daily/MORNING_RUN.md`) picks the next session in rotation
+> **A → B → C**, at least ~48h apart, 3 per week. **Progression:** the pain-gated rule at the top of
+> this file applies per exercise, against that exercise's own last outing. Since each main exercise
+> now comes once a week, progress will look slower per exercise.
 
-**Block A — Prime** *(low fatigue, always first)*
-1. **Z1** Tibialis Raise
-2. **Z2** KOT Calf Raise
-3. **Glute Bridges** *(1x8 as of 2026-09-18 — see Section 1 for why)*
+### Warm-up — every session (~10 min)
+1. **Z1** Tibialis Raise 2×25 **[KOT]**
+2. **Z2** KOT Calf Raise (standing dose 2×25; 1×25 during the rebalance) **[KOT]**
+3. **Glute Bridges** 1×8, feet farther out **[Suggestion]**
+4. **Banded TKE** (15 kg band): current dose in the rebalance table · **hard quad squeeze at the end, stop at straight, never snap back past it** **[PT — his warm-up exercise, "bovenbeen goed aanspannen"]**
 
-**Block B — Superset × 3 rounds**
-*   **B** Banded Crab Walks ↔ **C** Poliquin Step-Downs
+### Session A — Knee strength (~45–50 min)
+*   Superset ×3: **A** Clamshells **[PT/plan]** ↔ **D** VMO Squats on wedges **[PT]** — rebalance dose, **no lockout squeeze** (Emiel, 2026-10-24: the PT never prescribed it for VMO squats; it was our own 9/12 progression).
+*   **E** Lateral Step-Ups on the yoga block **[PT]** — rebalance dose.
+*   **G** Single-Leg Band Leg Extension **[PT]** — 2×12/leg.
+*   Cooldown stretches (Section 4).
 
-**Block C — Superset × 3 rounds**
-*   **A** Clamshells ↔ **D** Heel-Elevated VMO Squats
+### Session B — Hip & trunk control (~45–50 min)
+*   Superset ×3: **B** Banded Crab Walks **[plan]** ↔ **C** Poliquin Step-Downs **[plan]**.
+*   Superset ×2: **H** Side Plank Ladder (current step) **[PT goal]** ↔ **I** Single-Leg Pallof Press **[PT]**.
+*   **J** Single-Leg KB Romanian Deadlift **[Suggestion — review]** — 2×8/leg.
+*   **3B** L-Sit Level 1, 60 s **[KOT]**.
+*   Cooldown stretches (Section 4).
 
-**Block D — Finish**
-*   **3B** L-Sit Level 1
-*   Section 4 cooldown: Figure-4, half-kneeling hip flexor
+### Session C — Padel prep (~45 min) — *started at the lowest level, 2026-10-24*
+*   **F** Pogohops **[PT]** — current dose step (Section 3). Do them right after the warm-up, while fresh.
+*   **K** Single-Leg Land-and-Hold **[PT]** — 3×5/leg.
+*   **L** Lateral Lunge, bodyweight **[Suggestion — review]** — 2×8/side.
+*   **M** Kettlebell Swing, 8 kg **[Suggestion — review]** — 3×12.
+*   **A** Clamshells **[PT/plan]** — same dose as Session A.
+*   Cooldown stretches (Section 4).
 
-*(**E** Lateral Step-Ups swaps in for **C** on alternating sessions — see the alternation note in Section 2.)*
+### Why the order inside each session
+*   **Hip immediately before knee** (supersets): the glutes are freshly activated while the knee is loaded, which is what the hip work is for (patellar tracking, mechanism 1). Alternating tissues also gives each a full exercise's rest. Take a real breath between the two exercises; don't turn a superset into a circuit.
+*   **Warm-up fixed at the front:** ground-up sequencing (ankle → lower leg → knee → hip), glutes firing first.
 
-### Why this order
+### New exercises (2026-10-24)
 
-1.  **Hip immediately before knee, not hip-block then knee-block.** Pairing a hip exercise directly before a knee exercise means the glutes are **freshly activated while the knee is loaded** — which is the entire mechanism the hip work exists for (controlling femoral rotation so the patella tracks properly, mechanism 1 in `00_Master_Context.MD`). Running all hip work first lets that activation decay before the knee loading it was meant to support.
-2.  **Longer local recovery at zero time cost.** Previously A→B ran two glute-medius exercises back-to-back, and C→D ran two quad/VMO exercises back-to-back. Alternating tissue gives each group a full exercise's worth of rest between its own sets — relevant to the systemic fatigue/energy drain reported on 2026-09-12, and to form quality on single-leg work where knee tracking matters most.
-3.  **Block A stays fixed at the front.** Z1/Z2 implement the ground-up sequencing (ankle → lower leg → knee → hip). Glute bridges must come before everything else for the reciprocal-inhibition effect they were added for on 2026-09-09 — that only works if the glutes fire *first*.
-4.  **Splits the glute-medius double-dip** — clamshells and crab walks now sit in different blocks.
+*   **Exercise G: Single-Leg Band Leg Extension [PT]** *(home version of the PT's machine "leg extension één")*
+    *   **Dose:** 2×12/leg, 2-second hard squeeze at the end. Progress reps to 15, then add a set (to 3).
+    *   **Setup & cues:** Sit on a chair, 15 kg band looped around the ankle and anchored low behind the chair leg. Straighten the knee against the band; **"focus op hard aanspannen laatste deel beweging"** (PT) — squeeze the quad hard over the last part, but stop at straight. Lower over 2–3 s.
 
-> **⚠️ Execution caveat:** the benefit is **local muscle rest, not reduced total work**. Take a genuine
-> breath between the two exercises in a superset. Compressing a superset into a continuous circuit
-> turns this into conditioning, and systemic fatigue will break form on the step-downs — precisely
-> where knee tracking matters most.
+*   **Exercise H: Side Plank Ladder [PT goal]** — Emiel found the PT's side plank (top knee pulled up) far too heavy and it caused issues, so it is built up in steps. **Current step: 1.**
+    1. Side-lying hip abduction (top leg slightly behind the body, toes slightly down) — 2×12/side, 2 s hold at top.
+    2. Side plank on knees — 2×20–30 s/side.
+    3. Side plank on knees + top-leg lift — 2×8/side.
+    4. Full side plank — 2×20–30 s/side.
+    5. **PT's version:** full side plank with the top knee pulled up — 3 × as many reps as possible.
+    *   Move up one step when the current step reaches the top of its range with the score ≤3. Right side first (weaker glute med).
+
+*   **Exercise I: Single-Leg Pallof Press [PT]**
+    *   **Dose:** 2×10/side to start (PT target: 3×10–12, later **with rotation**).
+    *   **Setup & cues:** 15 kg band anchored at chest height to the side. Stand on the inside leg with a soft knee, press the band straight out from the chest and hold 1–2 s without letting the trunk rotate. Anti-rotation trunk and hip control — the base for padel strokes.
+
+*   **Exercise J: Single-Leg KB Romanian Deadlift [Suggestion — review]**
+    *   **Dose:** 2×8/leg, 8 kg kettlebell, fingertip support on a wall or chair. 3 s down, 1 s up.
+    *   **Cues:** Soft standing knee, hips back, long spine. Right leg first. Hamstring/glute strength and single-leg balance without much knee load.
+
+*   **Exercise K: Single-Leg Land-and-Hold [PT]**
+    *   **Dose:** 3×5/leg (PT range 5–8).
+    *   **Level now (no box at home):** a small hop in place onto one leg, land quietly with the knee over the 2nd toe, **stick 2 s**. Left leg first.
+    *   **Progressions, in order:** (1) the PT's plate press-out on landing → with the 8 kg kettlebell pressed out in front; (2) hop forward / sideways; (3) land-and-hold stepping off the yoga block; (4) **SL step-off** from the yoga block, 3×10–15 (PT); (5) **SL drop jump**, 3×6 (PT) — only once a higher step is available and landings are solid.
+
+*   **Exercise L: Lateral Lunge [Suggestion — review]**
+    *   **Dose:** 2×8/side, bodyweight → later the 8 kg kettlebell held as a goblet. 3 s down, push back.
+    *   **Cues:** Step wide, sit back into the moving hip; the bending knee may travel forward over the toes. Left first. Trains the sideways lunges padel needs.
+
+*   **Exercise M: Kettlebell Swing [Suggestion — review]**
+    *   **Dose:** 3×12, 8 kg.
+    *   **Cues:** Hip hinge, not a squat. Snap the hips forward, knees soft throughout. Posterior-chain power with low knee load.
+
+*   **Banded TKE [PT]** — dose in the rebalance table (standing 3×15). 15 kg band behind the knee, anchored in front. Bend slightly, then straighten against the band with the thigh fully tensed; hold 1–2 s at straight. Never push back past straight.
 
 ---
 
@@ -176,6 +223,7 @@ the ground-up sequencing (ankle → lower leg → knee → hip) is the core orga
 
 ### 2. Main Quad & Knee Strength Circuit (Bodyweight & Home Gear)
 
+> *Superseded 2026-10-24: step-downs are now in Session B and step-ups in Session A, so both come once a week. Kept for history.*
 > **Session alternation (added 2026-09-12, suggested):** Exercises **C (Poliquin Step-Downs)** and
 > **E (Lateral Step-Ups)** now **alternate** — do one per session, not both every session. Both are
 > single-leg step movements with a 3-second eccentric and overlap substantially. This halves per-session
@@ -189,10 +237,10 @@ the ground-up sequencing (ankle → lower leg → knee → hip) is the core orga
     *   **Execution Cues:** Stand on a yoga block or bottom stair with the working leg. Keep torso perfectly upright. Lower the opposite heel straight down toward the floor by pushing the working knee forward over the 2nd toe (heel can lift slightly). Lightly tap the floor with the free heel (no bouncing!) and push back up, squeezing the VMO hard at lockout.
 
 *   **Exercise D: Heel-Elevated VMO Squats (Bodyweight)**
-    *   **Dose:** 3 sets x 10 reps, 4-second descent + 2-second bottom pause + a hard 1–2 second quad squeeze/hold at lockout. *(Tempo added 2026-09-09; lockout squeeze added 2026-09-12. Bodyweight only, by preference as of 2026-09-08 — Emiel doesn't always have a backpack/weight on hand, so external loading was dropped rather than relying on inconsistent equipment.)*
+    *   **Dose:** 3 sets x 10 reps, 4-second descent + 2-second bottom pause. **No lockout squeeze** — dropped 2026-10-24 by Emiel: the PT never prescribed it for this exercise (the squeeze belongs on TKEs and leg extensions). *(Tempo added 2026-09-09; lockout squeeze added 2026-09-12, removed 2026-10-24. Bodyweight only, by preference as of 2026-09-08 — Emiel doesn't always have a backpack/weight on hand, so external loading was dropped rather than relying on inconsistent equipment.)*
     *   **Clinical Rationale (Patellofemoral Tracking & Anterior Unloading):** Elevating heels (on yoga blocks angled against wall or a 2–3 cm book/plank) allows the knees to travel forward without leaning the torso forward, maximizing quad engagement while removing lumbar strain.
     *   **Execution Cues:** Place heels on elevation, feet hip-width. Stay upright. Descend under control (3 seconds down) keeping knees aligned over 2nd toes. Actively push knees outward to prevent valgus collapse.
-    *   **Future progression (no added weight needed):** increase reps/sets, slow the descent further (4–5 seconds), add a 2–3 second pause at the bottom, or add a deliberate hard quad squeeze/hold at lockout — all load the VMO harder without depending on having a weight available.
+    *   **Future progression (no added weight needed):** increase reps/sets, slow the descent further (4–5 seconds), add a 2–3 second pause at the bottom — all load the VMO harder without depending on having a weight available.
 
 *   **Exercise E: Lateral Box / Stair Step-Ups (Bodyweight)**
     *   **Dose:** 3 sets x 10 reps per leg. *(Progressed 2→3 sets on 2026-09-08, 8→10 reps on 2026-09-12.)*
@@ -202,7 +250,7 @@ the ground-up sequencing (ankle → lower leg → knee → hip) is the core orga
 ### 3. Plyometrics & Impact Conditioning
 *   **Resumed 2026-10-21** (previously paused since 2026-09-02) — Emiel asked to start rebuilding impact tolerance.
 *   **Exercise F: Double-Leg Pogohops (Bodyweight on Yoga Mat / Carpet)**
-    *   **Setup:** Stand on your **yoga mat** (folded in half if needed) for joint cushioning. Do them **after Block A, while fresh** — not at the end of a fatigued session.
+    *   **Setup:** Stand on your **yoga mat** (folded in half if needed) for joint cushioning. Do them **right after the warm-up in Session C, while fresh** — not at the end of a fatigued session.
     *   **Dose (starting):** **2 sets x 10 quick hops, low amplitude.** Repeat this dose for the first two sessions, then add **5 hops per set** at a time up to the long-term target of 1–2 sets of 20–30 continuous hops.
     *   **Stop / skip rules:** Skip on any day tingling is climbing or the knees are in a flare. Stop the set on any sharp or joint-level pain.
     *   **Clinical Rationale (Elastic Recoil & Tendon Stiffness):** Reconditions the Achilles and patellar tendons to absorb ground impact smoothly, restoring the natural spring mechanism experienced during festival dancing.
@@ -210,7 +258,7 @@ the ground-up sequencing (ankle → lower leg → knee → hip) is the core orga
 
 ### 3B. Hip Flexor Strength (L-Sit Level 1) — *former experiment, now a regular exercise*
 
-> **Status: ENDED 2026-10-21 by Emiel — no conclusion drawn; L-Sit stays as a regular Block D finisher (Level 1, 60 s), no review date, no stop conditions.** *(Previously: review deferred to ~2026-10-25.)* *Data to date: Wed 9/16 and Fri 9/18 confirmed; Fri 10/9 "leg raises 60s" assumed to be the L-Sit; Mon 10/12 not done. Rule from Emiel: if an L-Sit isn't mentioned in a session report, it wasn't done.* *(Original header: 1 session logged, first performed 2026-09-16, review date 2026-10-03.)*
+> **Status: ENDED 2026-10-21 by Emiel — no conclusion drawn; L-Sit stays as a regular Session B finisher (Level 1, 60 s), no review date, no stop conditions.** *(Previously: review deferred to ~2026-10-25.)* *Data to date: Wed 9/16 and Fri 9/18 confirmed; Fri 10/9 "leg raises 60s" assumed to be the L-Sit; Mon 10/12 not done. Rule from Emiel: if an L-Sit isn't mentioned in a session report, it wasn't done.* *(Original header: 1 session logged, first performed 2026-09-16, review date 2026-10-03.)*
 > *Session 1 read: no aggravation, bilateral/symmetrical "worked" sensation, no pain. **Leans hypothesis 1
 > (hip flexor under-strength), does not confirm it.** Between-session symptom now described as tightness
 > rather than a pinch, provoked by walking after sitting/sleeping — a start-up stiffness pattern that

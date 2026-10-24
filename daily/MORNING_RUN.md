@@ -54,7 +54,9 @@ on the day himself.
 
 ## 4. Build the day
 
-**Training day:** the session exactly as `01_Rehab_Plan.MD` currently prescribes it (current
+**Training day:** the next session in the **A → B → C** rotation (see "Weekly Structure" in
+`01_Rehab_Plan.MD`; find the last one done from the log and the `days/*` docs — the first one after
+2026-10-24 is **A**). Put the session letter and focus in the headline. Build it exactly as `01_Rehab_Plan.MD` currently prescribes it (current
 doses, the current overrides such as a temporary rebalance table, and rotation and alternation rules,
 working out from the log which variant is next). Order: the plan's block structure. Every plan
 item has `source: "plan"`. You may add a short warm-up or cooldown item of your own only as
