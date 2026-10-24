@@ -153,7 +153,7 @@ unchanged, it does not. Report what happens.
     *   **Dose:** 3×12/leg, 2-second hard squeeze at the end. Progress reps to 15.
     *   **Setup & cues:** Sit on a chair, 15 kg band looped around the ankle and anchored low behind the chair leg. Straighten the knee against the band; **"focus op hard aanspannen laatste deel beweging"** (PT) — squeeze the quad hard over the last part, but stop at straight. Lower over 2–3 s.
 
-*   **Exercise H: Side Plank Ladder [PT goal]** — Emiel found the PT's side plank (top knee pulled up) far too heavy and it caused issues, so it is built up in steps. **Current step: 3** *(Emiel's estimate, 2026-10-24 — confirm in practice)*.
+*   **Exercise H: Side Plank Ladder [PT goal]** — Emiel found the PT's side plank (top knee pulled up) far too heavy and it caused issues, so it is built up in steps. **Current step: 3** *(confirmed in practice 2026-10-24: bottom knee bent, top leg straight and lifting — "perfect level"; step 4 felt clearly harder)*.
     1. Side-lying hip abduction (top leg slightly behind the body, toes slightly down) — 3×12/side, 2 s hold at top.
     2. Side plank on knees — 3×20–30 s/side.
     3. Side plank on knees + top-leg lift — 3×8/side.
