@@ -83,7 +83,7 @@ proposal (step 5).
 **Recovery day:** 20–40 min total, from this menu (vary it day to day; tag plan items `plan`,
 others `idea`):
 - Stretching & mobility (always include 10–15 min): figure-4 glute stretch 2×90 s/side and half-kneeling hip flexor stretch 1 min/side
-  (plan); 90/90 hip switches, couch stretch (left first), calf stretch on the wedge (idea).
+  (plan); 90/90 hip switches, couch stretch (left first), calf stretch on the wedge (idea). **Calf stretch: right side gets 2×45 s, left 1×45 s** (right calf clearly tighter, 2026-10-24)
 - Tibialis raise 1×25 (plan).
 - Easy cardio, pick one: walk ≤40 min on soft or varied ground; easy bike ≤45 min at 85–95 RPM,
   flat, conversational, skipped if the quads are still heavy from the last session (idea). Swim
