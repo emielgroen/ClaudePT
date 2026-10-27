@@ -154,6 +154,16 @@ textarea:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; 
     <div class="meta" id="meta"></div>
   </header>
 
+  <details class="next" id="next" hidden>
+    <summary>
+      <div class="row1"><span class="eyebrow" id="next-date">Tomorrow · projected</span><span class="more">details</span></div>
+      <span class="verdict v-rest" id="next-verdict"></span>
+      <h2 id="next-headline"></h2>
+      <p class="help" id="next-why"></p>
+    </summary>
+    <div class="next-body" id="next-body"></div>
+  </details>
+
   <div class="banner" id="reminder" hidden>
     <strong>No score for a week</strong>
     <span id="reminder-text">Add a response score below so the weekly review has something to go on.</span>
@@ -168,16 +178,6 @@ textarea:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; 
   <section class="card" id="plan">
     <p class="empty">Today's exercises and recovery work will show here once the morning plan is in.</p>
   </section>
-
-  <details class="next" id="next" hidden>
-    <summary>
-      <div class="row1"><span class="eyebrow" id="next-date">Tomorrow · projected</span><span class="more">details</span></div>
-      <span class="verdict v-rest" id="next-verdict"></span>
-      <h2 id="next-headline"></h2>
-      <p class="help" id="next-why"></p>
-    </summary>
-    <div class="next-body" id="next-body"></div>
-  </details>
 
   <section class="card" id="report">
     <div class="block-head"><h2>Report</h2><span id="report-day">today</span></div>
