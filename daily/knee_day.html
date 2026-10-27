@@ -119,6 +119,7 @@ details.next h2 { font-size: 18px; }
 .next-block h3 { font-size: 13px; padding-bottom: 4px; }
 .next-block ul { margin: 0; padding-left: 18px; display: flex; flex-direction: column; gap: 2px; font-size: 14px; }
 .next-block .dose { font-size: 12px; }
+.daybar { display: flex; flex-direction: column; gap: 6px; }
 .days { display: flex; flex-wrap: wrap; gap: 6px; }
 .days button { font-family: var(--mono); font-size: 12.5px; padding: 6px 9px; border-radius: 6px; border: 1px solid var(--line); background: var(--bg); color: var(--muted); display: inline-flex; align-items: center; gap: 5px; }
 .days button[aria-pressed="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
@@ -140,6 +141,11 @@ textarea:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; 
 </style>
 
 <div class="wrap">
+  <nav class="daybar" aria-label="Choose a day">
+    <span class="eyebrow">Showing</span>
+    <div class="days" id="days" role="group" aria-label="Which day to show"></div>
+  </nav>
+
   <header class="top">
     <span class="eyebrow" id="dateline">Today</span>
     <span class="verdict v-rest" id="verdict">Loading</span>
@@ -175,8 +181,7 @@ textarea:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; 
 
   <section class="card" id="report">
     <div class="block-head"><h2>Report</h2><span id="report-day">today</span></div>
-    <p class="help">Pick a day (up to 7 days back), then fill in any of the three. Each saves on its own.</p>
-    <div class="days" id="days" role="group" aria-label="Which day to report"></div>
+    <p class="help">For the day chosen at the top (up to 7 days back). Each part saves on its own.</p>
 
     <div class="field">
       <span class="field-label">Session</span>
@@ -232,6 +237,8 @@ textarea:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; 
   const drafts = {};   // date -> unsaved note text, so a score tap or day switch never loses it
   let plan = null;     // the day document being shown
   let tomorrowDoc = null; // a plan already written for tomorrow (e.g. a pre-planned padel day)
+  let daysMap = {};       // date -> day document, today + 7 back + tomorrow
+  let loaded = false;
 
   const store = {
     get(k) { try { return JSON.parse(localStorage.getItem(k) || "null"); } catch (e) { return null; } },
@@ -244,11 +251,31 @@ textarea:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; 
   }
 
   // ---------- plan ----------
+  function pickPlan() {
+    plan = daysMap[day] || null;
+    if (!plan && day === TODAY) {
+      // Today's plan isn't in yet: fall back to the most recent earlier one.
+      const prev = Object.keys(daysMap).filter((k) => k < TODAY).sort().pop();
+      plan = prev ? daysMap[prev] : null;
+    }
+  }
+
   function renderPlan() {
     const el = $("plan");
-    if (!plan) return;
-    const stale = plan.date !== TODAY;
-    $("dateline").textContent = fmtDate(plan.date) + (stale ? " · latest plan, today's isn't in yet" : "");
+    if (!plan) {
+      $("dateline").textContent = fmtDate(day);
+      const v = $("verdict"); v.className = "verdict v-rest"; v.textContent = loaded ? "No plan" : "Loading";
+      $("headline").textContent = loaded ? "No plan saved for this day" : "Loading the plan";
+      $("why").textContent = loaded ? "There's no plan on record for " + fmtDate(day) + ". You can still report the day below." : "";
+      $("meta").textContent = ""; $("proposal").hidden = true;
+      el.textContent = "";
+      const p = document.createElement("p"); p.className = "empty";
+      p.textContent = loaded ? "Nothing planned was saved for this day." : "Loading…";
+      el.appendChild(p);
+      return;
+    }
+    const stale = plan.date !== day;
+    $("dateline").textContent = fmtDate(plan.date) + (stale ? " · latest plan, today's isn't in yet" : (day === TODAY ? "" : " · past day"));
     const v = $("verdict");
     const type = ["train", "recovery", "rest"].includes(plan.type) ? plan.type : "rest";
     v.className = "verdict v-" + type;
@@ -305,7 +332,7 @@ textarea:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; 
   // ---------- tomorrow (projected) ----------
   function renderNext() {
     // A plan already written for tomorrow wins; otherwise today's plan carries a projection.
-    const t = tomorrowDoc || (plan && plan.date === TODAY ? plan.tomorrow : null);
+    const t = day !== TODAY ? null : (tomorrowDoc || (plan && plan.date === TODAY ? plan.tomorrow : null));
     $("next").hidden = !t;
     if (!t) return;
     $("next-date").textContent = fmtDate(TOMORROW) + (tomorrowDoc && tomorrowDoc.locked ? " · planned" : " · projected, can change");
@@ -346,7 +373,7 @@ textarea:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; 
       const dot = document.createElement("i");
       if (typeof e.score === "number" || e.session || e.note) dot.className = "has";
       b.append(dot, document.createTextNode(dayLabel(k)));
-      b.addEventListener("click", () => { day = k; $("status").textContent = ""; renderReport(true); });
+      b.addEventListener("click", () => { day = k; $("status").textContent = ""; pickPlan(); renderPlan(); renderNext(); renderReport(true); });
       wrap.appendChild(b);
     });
     $("report-day").textContent = day === TODAY ? "today" : fmtDate(day);
@@ -446,24 +473,14 @@ textarea:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; 
       if (user && typeof user.can === "function") { const w = await user.can("data.write"); if (w === false) canWrite = false; }
     } catch (e) {}
 
-    // Plans can be written ahead of time, so never show a future day.
-    db.collection("days").where("date", "<=", TODAY).orderBy("date", "desc").limit(1).onSnapshot((snap) => {
-      // Show today's plan, or the latest one if today's hasn't been written yet.
-      plan = snap.empty ? null : snap.docs[0].data();
-      if (plan) renderPlan();
-      else {
-        $("verdict").textContent = "Waiting";
-        $("headline").textContent = "No plan yet";
-        $("why").textContent = "The first plan will appear here after the next nightly run.";
-      }
-      renderNext();
-      renderTrend();
+    // Plans for the pickable days, plus tomorrow (a plan can be written ahead of time).
+    db.collection("days").where("date", ">=", DAYS[DAYS.length - 1]).where("date", "<=", TOMORROW).onSnapshot((snap) => {
+      const next = {};
+      snap.docs.forEach((d) => { const x = d.data(); if (x && x.date) next[x.date] = x; });
+      daysMap = next; loaded = true;
+      tomorrowDoc = daysMap[TOMORROW] || null;
+      pickPlan(); renderPlan(); renderNext(); renderTrend();
     }, () => { $("status").textContent = "Lost the live connection. Reload the page."; });
-
-    db.doc("days/" + TOMORROW).onSnapshot((snap) => {
-      tomorrowDoc = snap.exists ? snap.data() : null;
-      renderNext();
-    }, () => {});
 
     db.collection("log").orderBy("date", "desc").limit(60).onSnapshot((snap) => {
       const next = {};
