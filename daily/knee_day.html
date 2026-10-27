@@ -107,6 +107,18 @@ button:disabled { cursor: not-allowed; opacity: 0.5; }
 .bar.today b { color: var(--ink); font-weight: 500; }
 .trend-days { display: grid; grid-template-columns: repeat(14, minmax(0, 1fr)); gap: 3px; font-family: var(--mono); font-size: 10px; color: var(--muted); text-align: center; }
 .trend-days span.s { color: var(--accent); }
+details.next { background: var(--surface); border: 1px dashed var(--line); border-radius: 10px; padding: 14px 16px; }
+details.next summary { cursor: pointer; display: flex; flex-direction: column; gap: 6px; list-style: none; }
+details.next summary::-webkit-details-marker { display: none; }
+details.next summary .row1 { display: flex; justify-content: space-between; align-items: center; gap: 10px; }
+details.next summary .more { font-family: var(--mono); font-size: 12px; color: var(--accent); }
+details.next[open] summary .more::after { content: " ▴"; }
+details.next:not([open]) summary .more::after { content: " ▾"; }
+details.next h2 { font-size: 18px; }
+.next-body { display: flex; flex-direction: column; gap: 10px; padding-top: 10px; }
+.next-block h3 { font-size: 13px; padding-bottom: 4px; }
+.next-block ul { margin: 0; padding-left: 18px; display: flex; flex-direction: column; gap: 2px; font-size: 14px; }
+.next-block .dose { font-size: 12px; }
 .days { display: flex; flex-wrap: wrap; gap: 6px; }
 .days button { font-family: var(--mono); font-size: 12.5px; padding: 6px 9px; border-radius: 6px; border: 1px solid var(--line); background: var(--bg); color: var(--muted); display: inline-flex; align-items: center; gap: 5px; }
 .days button[aria-pressed="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
@@ -150,6 +162,16 @@ textarea:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; 
   <section class="card" id="plan">
     <p class="empty">Today's exercises and recovery work will show here once the morning plan is in.</p>
   </section>
+
+  <details class="next" id="next" hidden>
+    <summary>
+      <div class="row1"><span class="eyebrow" id="next-date">Tomorrow · projected</span><span class="more">details</span></div>
+      <span class="verdict v-rest" id="next-verdict"></span>
+      <h2 id="next-headline"></h2>
+      <p class="help" id="next-why"></p>
+    </summary>
+    <div class="next-body" id="next-body"></div>
+  </details>
 
   <section class="card" id="report">
     <div class="block-head"><h2>Report</h2><span id="report-day">today</span></div>
@@ -201,7 +223,7 @@ textarea:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; 
   const iso = (d) => d.getFullYear() + "-" + pad(d.getMonth() + 1) + "-" + pad(d.getDate());
   const addDays = (d, n) => { const x = new Date(d); x.setDate(x.getDate() + n); return x; };
   const now = new Date();
-  const TODAY = iso(now);
+  const TODAY = iso(now), TOMORROW = iso(addDays(now, 1));
   const DAYS = Array.from({ length: 8 }, (_, i) => iso(addDays(now, -i)));  // today + 7 back
   const zone = (s) => (s <= 3 ? "g" : s <= 5 ? "a" : "r");
 
@@ -209,6 +231,7 @@ textarea:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; 
   let log = {};        // date -> {score, session, note}
   const drafts = {};   // date -> unsaved note text, so a score tap or day switch never loses it
   let plan = null;     // the day document being shown
+  let tomorrowDoc = null; // a plan already written for tomorrow (e.g. a pre-planned padel day)
 
   const store = {
     get(k) { try { return JSON.parse(localStorage.getItem(k) || "null"); } catch (e) { return null; } },
@@ -277,6 +300,33 @@ textarea:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; 
     $("proposal").hidden = !prop.length;
     const pl = $("proposal-list"); pl.textContent = "";
     prop.forEach((x) => { const li = document.createElement("li"); li.textContent = x; pl.appendChild(li); });
+  }
+
+  // ---------- tomorrow (projected) ----------
+  function renderNext() {
+    // A plan already written for tomorrow wins; otherwise today's plan carries a projection.
+    const t = tomorrowDoc || (plan && plan.date === TODAY ? plan.tomorrow : null);
+    $("next").hidden = !t;
+    if (!t) return;
+    $("next-date").textContent = fmtDate(TOMORROW) + (tomorrowDoc && tomorrowDoc.locked ? " · planned" : " · projected, can change");
+    const type = ["train", "recovery", "rest"].includes(t.type) ? t.type : "rest";
+    const v = $("next-verdict"); v.className = "verdict v-" + type;
+    v.textContent = t.typeLabel || { train: "Training day", recovery: "Recovery day", rest: "Rest day" }[type];
+    $("next-headline").textContent = t.headline || "";
+    $("next-why").textContent = t.why || "";
+    const body = $("next-body"); body.textContent = "";
+    (t.blocks || []).forEach((b) => {
+      const wrap = document.createElement("div"); wrap.className = "next-block";
+      const h = document.createElement("h3"); h.textContent = (b.title || "") + (b.time ? " · " + b.time : "");
+      const ul = document.createElement("ul");
+      (b.items || []).forEach((it) => {
+        const li = document.createElement("li"); li.textContent = (it.name || "") + (it.dose ? " " : "");
+        if (it.dose) { const d = document.createElement("span"); d.className = "dose"; d.textContent = it.dose; li.appendChild(d); }
+        ul.appendChild(li);
+      });
+      wrap.append(h, ul); body.appendChild(wrap);
+    });
+    if (!body.childNodes.length) { const p = document.createElement("p"); p.className = "help"; p.textContent = "No exercises listed yet."; body.appendChild(p); }
   }
 
   // ---------- session + score ----------
@@ -406,8 +456,14 @@ textarea:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; 
         $("headline").textContent = "No plan yet";
         $("why").textContent = "The first plan will appear here after the next nightly run.";
       }
+      renderNext();
       renderTrend();
     }, () => { $("status").textContent = "Lost the live connection. Reload the page."; });
+
+    db.doc("days/" + TOMORROW).onSnapshot((snap) => {
+      tomorrowDoc = snap.exists ? snap.data() : null;
+      renderNext();
+    }, () => {});
 
     db.collection("log").orderBy("date", "desc").limit(60).onSnapshot((snap) => {
       const next = {};

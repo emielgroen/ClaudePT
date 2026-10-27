@@ -130,6 +130,8 @@ holding.
   ],
   "habits": ["..."],
   "proposal": ["only on Sun/Mon, otherwise omit"],
+  "tomorrow": {"type": "...", "typeLabel": "optional", "headline": "...", "why": "1 sentence",
+               "blocks": [{"title": "...", "time": "~10 min", "items": [{"name": "...", "dose": "..."}]}]},
   "remind": true,
   "generatedAt": "ISO timestamp"
 }
@@ -137,6 +139,10 @@ holding.
 
 - `remind: true` only when no `log` doc has a score in the last 7 days (and at least one score was
   ever logged, or 7+ days have passed since 2026-10-24). Otherwise omit it.
+- **`tomorrow`** = a projection of the next day, using the same rules and assuming today goes as
+  planned (a planned session counts as done). Names and doses only, no cues. Skip it if
+  `days/<tomorrow>` already exists (e.g. a locked pre-planned day); the page shows that one instead.
+  It's a preview; tomorrow's run decides the real plan and may differ.
 - Language: English, short sentences, practical cues, no walls of text.
 - Keep docs lean. Delete `days/*` docs older than 60 days.
 
