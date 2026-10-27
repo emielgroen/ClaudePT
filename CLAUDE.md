@@ -21,6 +21,11 @@ switches between devices/sessions, also `git fetch`/check against `origin/main` 
 commits you don't have locally before relying on the log's contents — a stale local checkout can
 otherwise look like a missing entry that was actually already logged elsewhere.
 
+Then **sync the Knee Day page into the log**: read the page's `log` collection and copy every day
+not yet marked `"synced": true` into `02_Symptom_Log.MD`, following "Syncing page data into
+`02_Symptom_Log.MD`" at the end of `daily/MORNING_RUN.md`. The nightly run can't push, so this is the
+only place that copy happens.
+
 ## Workout Check-In Questions (for reference)
 
 Logging is triggered by **workouts**, not the calendar — there is no daily check-in anymore, and
@@ -75,8 +80,10 @@ been logged for 7 days.** If he tells you a reaction in chat anyway, log it as b
   Claude) and `log/<YYYY-MM-DD>` (`score`, `session` = done/skipped/none, `note` = free text; written by
   Emiel on the page, for today or up to 7 days back). A `note` counts as Emiel reporting in chat.
 - **Night run:** a scheduled routine runs every day at 01:07 Europe/Amsterdam and follows
-  `daily/MORNING_RUN.md`, writing the plan for the day that has just started. No notification;
-  Emiel opens the page himself.
+  `daily/MORNING_RUN.md`, writing the plan for the day that has just started (plus a projection for
+  tomorrow). It reads the repo and the page but **can't push**, so it never commits; the page's
+  database is the record until a chat session syncs it into the log. No notification; Emiel opens
+  the page himself.
 - **Don't adjust a day's plan based on how he feels that day.** Changes are made on trends, in a
   weekly proposal that he approves in chat. He adjusts on the day himself.
 - **Independent review (2026-10-24):** `daily/independent_review.md` (blind-designed program) and

@@ -12,6 +12,20 @@
 
 ---
 
+## Response Scores
+
+*From the Knee Day page: one 0–10 "how did my knees respond" score per day (muscle soreness doesn't
+count), the session status, and Emiel's notes. 0–3 green · 4–5 amber · 6+ red.*
+
+| date | score | session | note |
+|---|---|---|---|
+| 2026-10-24 (Sat) | 2 | — | — |
+| 2026-10-25 (Sun) | 2 | skipped (Session B was planned) | — |
+| 2026-10-26 (Mon) | 3 | — | — |
+| 2026-10-27 (Tue) | 2 | — | — |
+
+---
+
 ## Log Entries
 
 <!--
@@ -552,7 +566,7 @@ Log Instructions for Antigravity:
    - **Banded TKEs 3×12** — added as a superset (partner exercise not stated). Band not stated (plan band: 15 kg). Prescribed today: 1×15.
    - **Clamshells 3×13** (was 3×12; +1 rep. Side not stated).
    - **VMO Squats 3×6 with lockout squeeze** (was 2×6, normal tempo, no lockout).
-2. **Reaction:** *(Pending — not yet reported.)*
+2. **Reaction:** *(From Knee Day response scores)* Sat 10/24: **2** · Sun 10/25: **2** · Mon 10/26: **3**. All in the green band (≤3). No details beyond the scores.
 3. **Anything Else:** Before the session, the Mon 10/19 padel residual was still an ache in both knees, mostly right, not sharp, tingling not really present (see padel entry). Pain during or after the session not stated.
 
 > ⚠️ *Antigravity Note: Three exercises progressed in one session — TKEs (new set and superset), clamshells (+1 rep), VMO squats (new set and lockout squeeze). Under the Progression Budget that is over the limit: max 2 exercises per session, and an added set spends the whole session's budget. This was also the second pogohop session, which freezes everything else. It ran on top of a padel residual still in the amber band. Same stacking as Sat 9/12, which produced the Sun 9/13 "heavy" report. Reaction pending; the 24h settle check decides what happens next.*
@@ -569,7 +583,7 @@ Log Instructions for Antigravity:
    - **SL band leg extension (15 kg band):** felt awkward; the band slid up the leg over the last part of the extension. "Felt okay," just awkward.
    - **Lateral lunge:** very heavy even at a slight bend (knee just past the toes); heart rate spiked immediately.
    - **SL land-and-hold:** liked it, "felt good," quite heavy. Lost balance once.
-2. **Reaction:** During the practice: no pain reported on any exercise (descriptions were "heavy," "awkward," "felt good"). After-effect: **pending** — via the Knee Day response score.
+2. **Reaction:** During the practice: no pain reported on any exercise (descriptions were "heavy," "awkward," "felt good"). After-effect *(from Knee Day response scores)*: Sun 10/25: **2** · Mon 10/26: **3**. Green band.
 3. **Anything Else:** Practice run on a planned recovery day, ~24h after the Fri 10/23 session, which progressed three exercises and is itself still pending.
 
 > 💡 *Antigravity Note: Right-leg balance being harder on the Pallof press matches the 8/27 finding that the right glute med tires first — right side goes first on hip and balance work, and the left matches. Two technique fixes came out of this: kickstand deadlift, and a lower anchor / band over the shoe for the leg extension. The lateral lunge and land-and-hold both read as "heavy" — new frontal-plane and landing load, which is the point of Session C. Any reaction in the next days has three equally possible contributors: this practice run, the Fri 10/23 session, and the padel on Mon 10/19.*

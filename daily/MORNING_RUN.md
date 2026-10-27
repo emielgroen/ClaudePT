@@ -11,36 +11,20 @@ it with ToolSearch) on that URL. Do not republish the page itself.
 
 ## 1. Get current
 
-1. Repo: `emielgroen/ClaudePT`. If it isn't already checked out, clone it. `git fetch origin main`
+1. Repo: `emielgroen/ClaudePT`. If it isn't already checked out, clone it (read-only is enough). `git fetch origin main`
    and work on an up-to-date `main`.
 2. Today's date in **Europe/Amsterdam** (`TZ=Europe/Amsterdam date +%F`, weekday too).
 3. Read `00_Master_Context.MD`, `01_Rehab_Plan.MD` and `02_Symptom_Log.MD`.
 4. Read the page's data: `list` on `log` and on `days` (last ~30 docs is enough).
 
-## 2. Sync the page's data into the log
+## 2. Read the page's data (don't write the repo)
 
-For every `log/<date>` doc that is new **or changed** since the last sync (compare `updatedAt`; Emiel
-can back-fill or edit any of the last 7 days):
-
-- Add or update its row in the `## Response Scores` table (create the table just above
-  `## Log Entries` if it doesn't exist): `| date | score | session | note |`. Use "—" for missing values.
-- `session: "done"` with no workout entry for that date → add a short workout entry: heading
-  `### <Weekday> <date> — PT Session (from daily page)`, Workout = the exercises from that day's
-  `days/<date>` plan ("done as planned per the daily page; item-by-item not confirmed"),
-  Reaction = the response score(s) logged that day and the next 1–3 days, or **pending** if none yet.
-- Update the reaction of any **pending** entry with the scores logged in the 1–3 days after it.
-  State the scores and dates; don't interpret a score as more than he said. A score ≥4 is pain
-  worth flagging: apply the Pattern Recognition rule (list every activity in the prior ~72h as an
-  equally possible contributor) in the entry's note.
-- `session: "skipped"` or `"none"` → no entry needed; it only affects scheduling.
-- **`note`** (free text) is Emiel's own report for that date, **equivalent to him telling you in chat**.
-  Parse it the way `CLAUDE.md` says to parse a chat report: a described workout or activity becomes
-  or updates an entry; a reaction updates the relevant entry (only the entry it is about); pain gets
-  the Pattern Recognition treatment. Quote or closely paraphrase; don't add what he didn't say. If a
-  note mentions an upcoming event (e.g. padel on a date), add it to "Known upcoming events" in this file.
-  Put a short version in a `note` column of the `## Response Scores` table too.
-
-Commit, push and fast-forward `origin/main` (per `CLAUDE.md`). Skip the commit if nothing changed.
+The nightly run **cannot push** to the repo (routine sessions have no repo push access), so it
+**never commits**. Read `log` docs (score, session, note) from the page for the last ~14 days and use
+them **together with** `02_Symptom_Log.MD` as the record: a `session: "done"` counts as a session, a
+`note` counts as Emiel's own report (a described workout, activity or upcoming event counts, e.g.
+padel). Copying page data into the log is done by interactive chat sessions — see the section at the
+end of this file.
 
 ## 3. Decide today: train or recovery
 
@@ -148,5 +132,33 @@ holding.
 
 ## 7. Finish
 
-Commit and merge any repo changes to `main`. End the session with a two-line summary (today's
-type, anything flagged). Don't contact Emiel.
+No commits. End the session with a two-line summary (today's type, anything flagged). Don't contact
+Emiel.
+
+---
+
+## Syncing page data into `02_Symptom_Log.MD` (interactive sessions only)
+
+For every `log/<date>` doc that is new **or changed** since the last sync (compare `updatedAt`; Emiel
+can back-fill or edit any of the last 7 days):
+
+- Add or update its row in the `## Response Scores` table (create the table just above
+  `## Log Entries` if it doesn't exist): `| date | score | session | note |`. Use "—" for missing values.
+- `session: "done"` with no workout entry for that date → add a short workout entry: heading
+  `### <Weekday> <date> — PT Session (from daily page)`, Workout = the exercises from that day's
+  `days/<date>` plan ("done as planned per the daily page; item-by-item not confirmed"),
+  Reaction = the response score(s) logged that day and the next 1–3 days, or **pending** if none yet.
+- Update the reaction of any **pending** entry with the scores logged in the 1–3 days after it.
+  State the scores and dates; don't interpret a score as more than he said. A score ≥4 is pain
+  worth flagging: apply the Pattern Recognition rule (list every activity in the prior ~72h as an
+  equally possible contributor) in the entry's note.
+- `session: "skipped"` or `"none"` → no entry needed; it only affects scheduling.
+- **`note`** (free text) is Emiel's own report for that date, **equivalent to him telling you in chat**.
+  Parse it the way `CLAUDE.md` says to parse a chat report: a described workout or activity becomes
+  or updates an entry; a reaction updates the relevant entry (only the entry it is about); pain gets
+  the Pattern Recognition treatment. Quote or closely paraphrase; don't add what he didn't say. If a
+  note mentions an upcoming event (e.g. padel on a date), add it to "Known upcoming events" in this file.
+  Put a short version in a `note` column of the `## Response Scores` table too.
+
+Commit, push and fast-forward `origin/main` (per `CLAUDE.md`). Skip the commit if nothing changed.
+After syncing, set `"synced": true` on each synced `log/<date>` doc (`update`) so the next session can see what's done; a later page edit rewrites the doc without the flag, which marks it for re-sync.
