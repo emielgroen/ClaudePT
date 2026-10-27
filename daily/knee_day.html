@@ -333,8 +333,15 @@ textarea:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; 
   function renderNext() {
     // A plan already written for tomorrow wins; otherwise today's plan carries a projection.
     const t = day !== TODAY ? null : (tomorrowDoc || (plan && plan.date === TODAY ? plan.tomorrow : null));
-    $("next").hidden = !t;
-    if (!t) return;
+    $("next").hidden = day !== TODAY;
+    if (!t) {
+      $("next-date").textContent = fmtDate(TOMORROW) + " · tomorrow";
+      const v = $("next-verdict"); v.className = "verdict v-rest"; v.textContent = loaded ? "Not in yet" : "Loading";
+      $("next-headline").textContent = "";
+      $("next-why").textContent = loaded ? "Tomorrow's preview is written by the nightly run and will show here." : "";
+      $("next-body").textContent = "";
+      return;
+    }
     $("next-date").textContent = fmtDate(TOMORROW) + (tomorrowDoc && tomorrowDoc.locked ? " · planned" : " · projected, can change");
     const type = ["train", "recovery", "rest"].includes(t.type) ? t.type : "rest";
     const v = $("next-verdict"); v.className = "verdict v-" + type;
@@ -474,13 +481,14 @@ textarea:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; 
     } catch (e) {}
 
     // Plans for the pickable days, plus tomorrow (a plan can be written ahead of time).
-    db.collection("days").where("date", ">=", DAYS[DAYS.length - 1]).where("date", "<=", TOMORROW).onSnapshot((snap) => {
+    // Simple ordered query (no range filters), then keep the days we need here.
+    db.collection("days").orderBy("date", "desc").limit(15).onSnapshot((snap) => {
       const next = {};
-      snap.docs.forEach((d) => { const x = d.data(); if (x && x.date) next[x.date] = x; });
+      snap.docs.forEach((d) => { const x = d.data(); if (x && x.date && x.date >= DAYS[DAYS.length - 1] && x.date <= TOMORROW) next[x.date] = x; });
       daysMap = next; loaded = true;
       tomorrowDoc = daysMap[TOMORROW] || null;
       pickPlan(); renderPlan(); renderNext(); renderTrend();
-    }, () => { $("status").textContent = "Lost the live connection. Reload the page."; });
+    }, (e) => { loaded = true; $("status").textContent = "Couldn't load the plans (" + ((e && e.code) || "error") + "). Reload the page."; renderNext(); });
 
     db.collection("log").orderBy("date", "desc").limit(60).onSnapshot((snap) => {
       const next = {};
