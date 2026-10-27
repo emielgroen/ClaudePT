@@ -72,7 +72,8 @@ been logged for 7 days.** If he tells you a reaction in chat anyway, log it as b
 - **Knee Day page:** https://claude.ai/artifact/Up8CmDYn1xURDfx7N5g1EJ (source:
   `daily/knee_day.html`). It shows today's plan and has the response score and a Done/Skipped
   button. Data lives in the artifact's database: `days/<YYYY-MM-DD>` (the day's plan, written by
-  Claude) and `log/<YYYY-MM-DD>` (`score`, `session`, written by Emiel on the page).
+  Claude) and `log/<YYYY-MM-DD>` (`score`, `session` = done/skipped/none, `note` = free text; written by
+  Emiel on the page, for today or up to 7 days back). A `note` counts as Emiel reporting in chat.
 - **Night run:** a scheduled routine runs every day at 01:07 Europe/Amsterdam and follows
   `daily/MORNING_RUN.md`, writing the plan for the day that has just started. No notification;
   Emiel opens the page himself.

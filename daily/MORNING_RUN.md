@@ -19,10 +19,11 @@ it with ToolSearch) on that URL. Do not republish the page itself.
 
 ## 2. Sync the page's data into the log
 
-For every `log/<date>` doc not yet in `02_Symptom_Log.MD`:
+For every `log/<date>` doc that is new **or changed** since the last sync (compare `updatedAt`; Emiel
+can back-fill or edit any of the last 7 days):
 
 - Add or update its row in the `## Response Scores` table (create the table just above
-  `## Log Entries` if it doesn't exist): `| date | score | session |`. Use "—" for missing values.
+  `## Log Entries` if it doesn't exist): `| date | score | session | note |`. Use "—" for missing values.
 - `session: "done"` with no workout entry for that date → add a short workout entry: heading
   `### <Weekday> <date> — PT Session (from daily page)`, Workout = the exercises from that day's
   `days/<date>` plan ("done as planned per the daily page; item-by-item not confirmed"),
@@ -31,7 +32,13 @@ For every `log/<date>` doc not yet in `02_Symptom_Log.MD`:
   State the scores and dates; don't interpret a score as more than he said. A score ≥4 is pain
   worth flagging: apply the Pattern Recognition rule (list every activity in the prior ~72h as an
   equally possible contributor) in the entry's note.
-- `session: "skipped"` → no entry needed; it only affects scheduling.
+- `session: "skipped"` or `"none"` → no entry needed; it only affects scheduling.
+- **`note`** (free text) is Emiel's own report for that date, **equivalent to him telling you in chat**.
+  Parse it the way `CLAUDE.md` says to parse a chat report: a described workout or activity becomes
+  or updates an entry; a reaction updates the relevant entry (only the entry it is about); pain gets
+  the Pattern Recognition treatment. Quote or closely paraphrase; don't add what he didn't say. If a
+  note mentions an upcoming event (e.g. padel on a date), add it to "Known upcoming events" in this file.
+  Put a short version in a `note` column of the `## Response Scores` table too.
 
 Commit, push and fast-forward `origin/main` (per `CLAUDE.md`). Skip the commit if nothing changed.
 

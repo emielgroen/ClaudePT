@@ -107,6 +107,20 @@ button:disabled { cursor: not-allowed; opacity: 0.5; }
 .bar.today b { color: var(--ink); font-weight: 500; }
 .trend-days { display: grid; grid-template-columns: repeat(14, minmax(0, 1fr)); gap: 3px; font-family: var(--mono); font-size: 10px; color: var(--muted); text-align: center; }
 .trend-days span.s { color: var(--accent); }
+.days { display: flex; flex-wrap: wrap; gap: 6px; }
+.days button { font-family: var(--mono); font-size: 12.5px; padding: 6px 9px; border-radius: 6px; border: 1px solid var(--line); background: var(--bg); color: var(--muted); display: inline-flex; align-items: center; gap: 5px; }
+.days button[aria-pressed="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+.days button i { width: 6px; height: 6px; border-radius: 50%; background: transparent; }
+.days button i.has { background: var(--accent); }
+.field { display: flex; flex-direction: column; gap: 6px; }
+.field-label { font-family: var(--display); font-weight: 600; font-size: 15px; text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted); }
+.btn-row.three { grid-template-columns: 1fr 1fr 1fr; }
+.btn.small { font-size: 15px; padding: 9px; }
+.btn[aria-pressed="true"].none { background: var(--line); border-color: var(--line); }
+textarea { width: 100%; min-height: 96px; resize: vertical; font: inherit; font-size: 15px; line-height: 1.45; color: var(--ink); background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: 10px 12px; }
+textarea:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+.note-row { display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap; }
+.btn.save { background: var(--accent); border-color: var(--accent); color: var(--surface); padding: 9px 18px; font-size: 15px; }
 .status { font-size: 13px; color: var(--muted); min-height: 1.2em; }
 .empty { color: var(--muted); }
 .foot { font-size: 12px; color: var(--muted); text-align: center; }
@@ -118,7 +132,7 @@ button:disabled { cursor: not-allowed; opacity: 0.5; }
     <span class="eyebrow" id="dateline">Today</span>
     <span class="verdict v-rest" id="verdict">Loading</span>
     <h1 id="headline">Today's knee plan</h1>
-    <p class="why" id="why">The day's plan is written here every morning before 6:30. It's loading now.</p>
+    <p class="why" id="why">The day's plan is written here every night. It's loading now.</p>
     <div class="meta" id="meta"></div>
   </header>
 
@@ -137,25 +151,41 @@ button:disabled { cursor: not-allowed; opacity: 0.5; }
     <p class="empty">Today's exercises and recovery work will show here once the morning plan is in.</p>
   </section>
 
-  <section class="card" id="session-card">
-    <div class="block-head"><h2>Today's session</h2><span id="session-note">tap one</span></div>
-    <div class="btn-row">
-      <button class="btn done" id="btn-done" aria-pressed="false">Done</button>
-      <button class="btn skip" id="btn-skip" aria-pressed="false">Skipped</button>
+  <section class="card" id="report">
+    <div class="block-head"><h2>Report</h2><span id="report-day">today</span></div>
+    <p class="help">Pick a day (up to 7 days back), then fill in any of the three. Each saves on its own.</p>
+    <div class="days" id="days" role="group" aria-label="Which day to report"></div>
+
+    <div class="field">
+      <span class="field-label">Session</span>
+      <div class="btn-row three">
+        <button class="btn small done" id="btn-done" aria-pressed="false">Done</button>
+        <button class="btn small skip" id="btn-skip" aria-pressed="false">Skipped</button>
+        <button class="btn small none" id="btn-none" aria-pressed="false">No session</button>
+      </div>
     </div>
+
+    <div class="field">
+      <span class="field-label">Knee response score · 0–10</span>
+      <p class="help">How your knees responded to the training and activity of the last day or two. Muscle soreness doesn't count. 0 means nothing beyond normal, 10 the worst it gets.</p>
+      <div class="scale" id="scale" role="group" aria-label="Score 0 to 10"></div>
+      <div class="legend"><span>0–3 green · keep going</span><span>4–5 amber</span><span>6+ red</span></div>
+    </div>
+
+    <div class="field">
+      <label class="field-label" for="note">Notes</label>
+      <textarea id="note" placeholder="Anything worth knowing: what you did, how it felt, where in the knee, sleep, illness…"></textarea>
+      <div class="note-row">
+        <span class="help" id="note-state"></span>
+        <button class="btn save" id="btn-note">Save note</button>
+      </div>
+    </div>
+
+    <p class="status" id="status" aria-live="polite"></p>
   </section>
 
-  <section class="card" id="score-card">
-    <div class="block-head"><h2>Knee response score</h2><span>0–10</span></div>
-    <p class="help">One number for how your knees responded to the training and activity in the last day or two. Muscle soreness doesn't count. 0 means nothing beyond normal, 10 means the worst it gets.</p>
-    <div class="seg" role="group" aria-label="Which day">
-      <button id="day-today" aria-pressed="true">Today</button>
-      <button id="day-yday" aria-pressed="false">Yesterday</button>
-    </div>
-    <div class="scale" id="scale" role="group" aria-label="Score 0 to 10"></div>
-    <div class="legend"><span>0–3 green · keep going</span><span>4–5 amber</span><span>6+ red</span></div>
-    <p class="status" id="status" aria-live="polite"></p>
-    <h3>Last 14 days</h3>
+  <section class="card" id="trend-card">
+    <div class="block-head"><h2>Last 14 days</h2><span>score</span></div>
     <div class="trend" id="trend" aria-label="Scores for the last 14 days"></div>
     <div class="trend-days" id="trend-days"></div>
     <p class="help">A blue day letter marks a completed session.</p>
@@ -171,11 +201,13 @@ button:disabled { cursor: not-allowed; opacity: 0.5; }
   const iso = (d) => d.getFullYear() + "-" + pad(d.getMonth() + 1) + "-" + pad(d.getDate());
   const addDays = (d, n) => { const x = new Date(d); x.setDate(x.getDate() + n); return x; };
   const now = new Date();
-  const TODAY = iso(now), YDAY = iso(addDays(now, -1));
+  const TODAY = iso(now);
+  const DAYS = Array.from({ length: 8 }, (_, i) => iso(addDays(now, -i)));  // today + 7 back
   const zone = (s) => (s <= 3 ? "g" : s <= 5 ? "a" : "r");
 
-  let db = null, canWrite = true, scoreDay = TODAY;
-  let log = {};        // date -> {score, session}
+  let db = null, canWrite = true, day = TODAY;
+  let log = {};        // date -> {score, session, note}
+  const drafts = {};   // date -> unsaved note text, so a score tap or day switch never loses it
   let plan = null;     // the day document being shown
 
   const store = {
@@ -202,8 +234,6 @@ button:disabled { cursor: not-allowed; opacity: 0.5; }
     $("why").textContent = plan.why || "";
     const meta = $("meta"); meta.textContent = "";
     (plan.meta || []).forEach((m) => { const s = document.createElement("span"); s.textContent = m; meta.appendChild(s); });
-
-    $("session-card").hidden = type !== "train";
 
     const checks = store.get("checks:" + plan.date) || {};
     el.textContent = "";
@@ -250,18 +280,44 @@ button:disabled { cursor: not-allowed; opacity: 0.5; }
   }
 
   // ---------- session + score ----------
-  function renderSession() {
-    const s = (log[TODAY] || {}).session;
-    $("btn-done").setAttribute("aria-pressed", String(s === "done"));
-    $("btn-skip").setAttribute("aria-pressed", String(s === "skipped"));
-    $("session-note").textContent = s ? (s === "done" ? "logged as done" : "logged as skipped") : "tap one";
+  function dayLabel(k) {
+    if (k === TODAY) return "Today";
+    if (k === DAYS[1]) return "Yesterday";
+    const d = new Date(k + "T12:00:00");
+    return d.toLocaleDateString("en-GB", { weekday: "short", day: "numeric" });
   }
 
-  function renderScale() {
-    const cur = (log[scoreDay] || {}).score;
-    [...$("scale").children].forEach((b, i) => b.setAttribute("aria-pressed", String(cur === i)));
-    $("day-today").setAttribute("aria-pressed", String(scoreDay === TODAY));
-    $("day-yday").setAttribute("aria-pressed", String(scoreDay === YDAY));
+  function renderDays() {
+    const wrap = $("days"); wrap.textContent = "";
+    DAYS.forEach((k) => {
+      const b = document.createElement("button");
+      b.id = "day-" + k; b.setAttribute("aria-pressed", String(k === day));
+      const e = log[k] || {};
+      const dot = document.createElement("i");
+      if (typeof e.score === "number" || e.session || e.note) dot.className = "has";
+      b.append(dot, document.createTextNode(dayLabel(k)));
+      b.addEventListener("click", () => { day = k; $("status").textContent = ""; renderReport(true); });
+      wrap.appendChild(b);
+    });
+    $("report-day").textContent = day === TODAY ? "today" : fmtDate(day);
+  }
+
+  function renderReport(loadNote) {
+    renderDays();
+    const e = log[day] || {};
+    $("btn-done").setAttribute("aria-pressed", String(e.session === "done"));
+    $("btn-skip").setAttribute("aria-pressed", String(e.session === "skipped"));
+    $("btn-none").setAttribute("aria-pressed", String(e.session === "none"));
+    [...$("scale").children].forEach((b, i) => b.setAttribute("aria-pressed", String(e.score === i)));
+    const ta = $("note");
+    if (loadNote || document.activeElement !== ta) ta.value = day in drafts ? drafts[day] : (e.note || "");
+    noteState();
+  }
+
+  function noteState() {
+    const saved = (log[day] || {}).note || "";
+    const cur = $("note").value;
+    $("note-state").textContent = cur === saved ? (saved ? "Saved" : "") : "Not saved yet";
   }
 
   function renderTrend() {
@@ -288,9 +344,10 @@ button:disabled { cursor: not-allowed; opacity: 0.5; }
       : "Add a response score below so the weekly review has something to go on.";
   }
 
-  function renderAll() { renderSession(); renderScale(); renderTrend(); }
+  function renderAll() { renderReport(false); renderTrend(); }
 
   async function writeLog(day, patch) {
+    const label = day === TODAY ? "today" : fmtDate(day);
     if (!db) { $("status").textContent = "Saving isn't available in this view. Open the page in Claude while signed in."; return; }
     if (!canWrite) { $("status").textContent = "You can view this page but not save to it."; return; }
     const prev = log[day];
@@ -299,7 +356,7 @@ button:disabled { cursor: not-allowed; opacity: 0.5; }
     $("status").textContent = "Saving…";
     try {
       await db.doc("log/" + day).set(Object.assign({ date: day }, log[day], { updatedAt: new Date().toISOString() }));
-      $("status").textContent = "Saved for " + (day === TODAY ? "today" : "yesterday") + ".";
+      $("status").textContent = "Saved for " + label + ".";
     } catch (e) {
       log[day] = prev; if (!prev) delete log[day]; renderAll();
       if (e && e.code === "invalid_argument") { canWrite = false; $("status").textContent = "You can view this page but not save to it."; }
@@ -310,13 +367,19 @@ button:disabled { cursor: not-allowed; opacity: 0.5; }
   for (let i = 0; i <= 10; i++) {
     const b = document.createElement("button");
     b.textContent = i; b.className = "z-" + zone(i); b.id = "score-" + i; b.setAttribute("aria-pressed", "false");
-    b.addEventListener("click", () => writeLog(scoreDay, { score: i }));
+    b.addEventListener("click", () => writeLog(day, { score: i }));
     $("scale").appendChild(b);
   }
-  $("day-today").addEventListener("click", () => { scoreDay = TODAY; renderScale(); $("status").textContent = ""; });
-  $("day-yday").addEventListener("click", () => { scoreDay = YDAY; renderScale(); $("status").textContent = ""; });
-  $("btn-done").addEventListener("click", () => writeLog(TODAY, { session: "done" }));
-  $("btn-skip").addEventListener("click", () => writeLog(TODAY, { session: "skipped" }));
+  $("btn-done").addEventListener("click", () => writeLog(day, { session: "done" }));
+  $("btn-skip").addEventListener("click", () => writeLog(day, { session: "skipped" }));
+  $("btn-none").addEventListener("click", () => writeLog(day, { session: "none" }));
+  $("note").addEventListener("input", () => { drafts[day] = $("note").value; noteState(); });
+  $("btn-note").addEventListener("click", () => {
+    const v = $("note").value.trim();
+    if (v === ((log[day] || {}).note || "")) { $("note").value = v; noteState(); return; }
+    const d = day;
+    writeLog(d, { note: v }).then(() => { if ((log[d] || {}).note === v) { delete drafts[d]; if (d === day) { $("note").value = v; noteState(); } } });
+  });
   renderAll();
 
   // ---------- data ----------
@@ -341,14 +404,14 @@ button:disabled { cursor: not-allowed; opacity: 0.5; }
       else {
         $("verdict").textContent = "Waiting";
         $("headline").textContent = "No plan yet";
-        $("why").textContent = "The first plan will appear here after the next morning run (before 6:30).";
+        $("why").textContent = "The first plan will appear here after the next nightly run.";
       }
       renderTrend();
     }, () => { $("status").textContent = "Lost the live connection. Reload the page."; });
 
     db.collection("log").orderBy("date", "desc").limit(60).onSnapshot((snap) => {
       const next = {};
-      snap.docs.forEach((d) => { const x = d.data(); if (x && x.date) next[x.date] = { score: x.score, session: x.session }; });
+      snap.docs.forEach((d) => { const x = d.data(); if (x && x.date) next[x.date] = { score: x.score, session: x.session, note: x.note }; });
       log = next; renderAll();
     }, () => { $("status").textContent = "Lost the live connection. Reload the page."; });
   })();
