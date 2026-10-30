@@ -23,7 +23,7 @@ count), the session status, and Emiel's notes. 0–3 green · 4–5 amber · 6+ 
 | 2026-10-25 (Sun) | 2 | skipped (Session B was planned) | — |
 | 2026-10-26 (Mon) | 3 | done (padel day) | Padel 60 min, knees felt decent; one moment of sharp right-knee pain that dissipated |
 | 2026-10-27 (Tue) | 2 | none | Yoga stretching in the morning as recovery |
-| 2026-10-28 (Wed) | 0 | done (Session A) | Clamshell 3×14, VMO squat 3×7, leg extension 15/15/12 |
+| 2026-10-28 (Wed) | 0 | done (Session A) | Clamshell 3×14, VMO squat 3×7, leg extension 15/15/12 per leg |
 | 2026-10-29 (Thu) | 1 | done (recovery day) | Yoga in the morning as recovery |
 
 ---
@@ -621,7 +621,7 @@ Log Instructions for Antigravity:
 1. **Workout:** Session A per the page. From Emiel's note:
    - **Clamshells 3×14** (page plan: 3×12/side; last done 3×13 on 10/23). Side not stated.
    - **VMO Squats 3×7** (page plan: 3×6 on wedges, normal tempo, no squeeze). Wedges and tempo not stated.
-   - **Single-leg band leg extension 15, 15, 12** (page plan: 3×12/leg). Per leg or total not stated.
+   - **Single-leg band leg extension 15, 15, 12 per leg** (page plan: 3×12/leg).
    - Warm-up (tibialis, KOT calf raise, glute bridges, TKEs), lateral step-ups and cooldown: not mentioned in the note.
 2. **Reaction:** *(Knee Day response scores)* Wed 10/28: **0** · Thu 10/29: **1**. Fri 10/30 onward: pending.
 3. **Anything Else:** First PT session since Fri 10/23; ~48h after the Mon 10/26 padel.
