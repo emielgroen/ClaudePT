@@ -21,8 +21,10 @@ count), the session status, and Emiel's notes. 0–3 green · 4–5 amber · 6+ 
 |---|---|---|---|
 | 2026-10-24 (Sat) | 2 | — | — |
 | 2026-10-25 (Sun) | 2 | skipped (Session B was planned) | — |
-| 2026-10-26 (Mon) | 3 | — | — |
-| 2026-10-27 (Tue) | 2 | — | — |
+| 2026-10-26 (Mon) | 3 | done (padel day) | Padel 60 min, knees felt decent; one moment of sharp right-knee pain that dissipated |
+| 2026-10-27 (Tue) | 2 | none | Yoga stretching in the morning as recovery |
+| 2026-10-28 (Wed) | 0 | done (Session A) | Clamshell 3×14, VMO squat 3×7, leg extension 15/15/12 |
+| 2026-10-29 (Thu) | 1 | done (recovery day) | Yoga in the morning as recovery |
 
 ---
 
@@ -583,11 +585,57 @@ Log Instructions for Antigravity:
    - **SL band leg extension (15 kg band):** felt awkward; the band slid up the leg over the last part of the extension. "Felt okay," just awkward.
    - **Lateral lunge:** very heavy even at a slight bend (knee just past the toes); heart rate spiked immediately.
    - **SL land-and-hold:** liked it, "felt good," quite heavy. Lost balance once.
-2. **Reaction:** During the practice: no pain reported on any exercise (descriptions were "heavy," "awkward," "felt good"). After-effect *(from Knee Day response scores)*: Sun 10/25: **2** · Mon 10/26: **3**. Green band.
+2. **Reaction:** During the practice: no pain reported on any exercise (descriptions were "heavy," "awkward," "felt good"). After-effect *(from Knee Day response scores)*: Sun 10/25: **2** · Mon 10/26: **3** · Tue 10/27: **2**. Green band.
 3. **Anything Else:** Practice run on a planned recovery day, ~24h after the Fri 10/23 session, which progressed three exercises and is itself still pending.
 
 > 💡 *Antigravity Note: Right-leg balance being harder on the Pallof press matches the 8/27 finding that the right glute med tires first — right side goes first on hip and balance work, and the left matches. Two technique fixes came out of this: kickstand deadlift, and a lower anchor / band over the shoe for the leg extension. The lateral lunge and land-and-hold both read as "heavy" — new frontal-plane and landing load, which is the point of Session C. Any reaction in the next days has three equally possible contributors: this practice run, the Fri 10/23 session, and the padel on Mon 10/19.*
 
 > **Later the same day — calf stretch (straight knee, on the wedge):** stretch felt **much stronger in the right calf** than the left. Confirmed as muscle tightness, not a sharp, tingly or behind-the-knee sensation. Fits the right-side overload pattern (mechanism 2). A tight calf limits ankle bend and pushes more load into the knee. Stretch dose stays the same on both legs (Emiel's call).
+
+---
+
+### Monday 2026-10-26 — Padel (60 min, from daily page)
+
+1. **Activity:** Padel, **60 min**, low-key with colleagues (High Risk list; pre-planned locked day on the page). Warm-up done or not: not stated.
+2. **Reaction:**
+   - *During:* "Knees felt decent." **One moment of sharp pain in the right knee, which dissipated.** Location in the knee and what movement caused it: not stated.
+   - *Response scores (Knee Day page):* Mon 10/26: **3** · Tue 10/27: **2** · Wed 10/28: **0** · Thu 10/29: **1**. All green; trending down.
+3. **Anything Else:** Second padel in a week (first: Mon 10/19, when the right knee also hurt during play and eased with warm-up).
+
+> ⚠️ *Antigravity Note: A sharp moment is the kind of pain to flag, even though it passed and the scores stayed green. Equally possible contributors in the prior ~72h: **the padel itself**, the **Sat 10/24 practice run** (new lateral lunge and land-and-hold, both "heavy"), and the **Fri 10/23 session** (three exercises progressed). Sun 10/25 was skipped. The 10/19 padel residual sits just before that window and is not ruled out as background. No single cause assigned. Right knee during padel twice now (10/19 and 10/26) is a pattern worth watching: fits mechanism 1 (PFPS) or 3 (fat pad) best; location would help separate them. Scores fell to 0–1 by Day 2–3, so no latency flare showed up.*
+
+---
+
+### Tuesday 2026-10-27 — Recovery: Yoga Stretching (from daily page)
+
+1. **Activity:** Yoga stretching in the morning as recovery. Planned recovery day; which of the page's items were done: not stated.
+2. **Reaction:** Score **2** that day. No pain mentioned.
+3. **Anything Else:** Day after padel.
+
+> 🟢 *Antigravity Note: Recovery day as planned, score down from 3 to 2.*
+
+---
+
+### Wednesday 2026-10-28 — Session A (from daily page)
+
+1. **Workout:** Session A per the page. From Emiel's note:
+   - **Clamshells 3×14** (page plan: 3×12/side; last done 3×13 on 10/23). Side not stated.
+   - **VMO Squats 3×7** (page plan: 3×6 on wedges, normal tempo, no squeeze). Wedges and tempo not stated.
+   - **Single-leg band leg extension 15, 15, 12** (page plan: 3×12/leg). Per leg or total not stated.
+   - Warm-up (tibialis, KOT calf raise, glute bridges, TKEs), lateral step-ups and cooldown: not mentioned in the note.
+2. **Reaction:** *(Knee Day response scores)* Wed 10/28: **0** · Thu 10/29: **1**. Fri 10/30 onward: pending.
+3. **Anything Else:** First PT session since Fri 10/23; ~48h after the Mon 10/26 padel.
+
+> 💡 *Antigravity Note: Three exercises went above the page dose in one session (clamshells +2 reps, VMO squats +1 rep, leg extension +3 reps on two sets). That fits the 10/23 progression rule (pain ≤3 → progress), and the scores so far are the lowest logged (0, then 1). The rebalance table in `01_Rehab_Plan.MD` still says 3×12 / 3×6 "held", so the page will keep prescribing the old doses until the plan is updated. Day-3 window (Sat 10/31) still open.*
+
+---
+
+### Thursday 2026-10-29 — Recovery: Yoga (from daily page)
+
+1. **Activity:** Yoga in the morning as recovery. Page marked the (recovery) day done; which planned items were done: not stated.
+2. **Reaction:** Score **1**. No pain mentioned.
+3. **Anything Else:** Day after Session A.
+
+> 🟢 *Antigravity Note: Clean recovery day after a session that went above the planned doses.*
 
 ---
