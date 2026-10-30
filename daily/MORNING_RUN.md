@@ -68,8 +68,25 @@ on the day himself.
 doses, the current overrides such as a temporary rebalance table, and rotation and alternation rules,
 working out from the log which variant is next). Order: the plan's block structure. Every plan
 item has `source: "plan"`. You may add a short warm-up or cooldown item of your own only as
-`source: "idea"`. **Do not progress or regress doses yourself.** Dose changes go through the weekly
-proposal (step 5).
+`source: "idea"`.
+
+**Progressive overload every workout** *(Emiel, 2026-10-30)*. Each main exercise's dose is built
+from what he **actually did** at its last outing, not from the plan table, then stepped up once:
+
+- **Last actual dose:** from his notes (page `log` notes and `02_Symptom_Log.MD`). If a session was
+  marked done with no numbers for an exercise, assume he did the dose the page prescribed that day.
+  Where he went above the page dose (e.g. clamshells 3×14 when 3×12 was planned), that higher
+  number is the base. The rebalance table's "held" doses don't hold him back.
+- **Gate:** progress if every response score since that outing is ≤3 and he reported no pain ≥4.
+  A score or reported pain ≥4 → regress ~30% (the plan's traffic-light rule). Hold only if he said hold.
+- **Step:** +1 rep on each set that is below the exercise's rep ceiling (ceilings in the plan's
+  Progression Rule; leg extension 15). Uneven sets → bring the lower sets up, e.g. 15/15/12 per
+  leg → 15/15/13 per leg. At the ceiling on every set: drop to the lower rep count and add a set.
+- **Not automatic:** warm-up items (they keep their doses; tibialis and KOT progress by difficulty),
+  side plank ladder steps, pogohop dose steps, tempo or intensity changes, and the first real outing
+  of an exercise (practice runs and anything not done in the last ~4 weeks start at the plan dose).
+  These still go through the weekly proposal (step 5).
+- Put the step in the item's `cue` or the block `note` in a few words ("last time 3×14 → +1").
 
 **Recovery day:** 20–40 min total, from this menu (vary it day to day; tag plan items `plan`,
 others `idea`):
@@ -91,8 +108,9 @@ weight on both legs, footwear, sitting, sleep pillow). Rotate them; keep them sh
 ## 5. Weekly proposal (Sundays only)
 
 On Sunday, review the past 7–14 days of scores, sessions and log entries against the progression
-rule in `01_Rehab_Plan.MD`. Write 1–4 concrete proposed changes (e.g. "Clamshells 3×13 → 3×14:
-all scores ≤3 this week") into the `proposal` array of Sunday's doc. Copy them onto Monday's doc
+rule in `01_Rehab_Plan.MD`. Rep and set steps already happen every workout (step 4), so propose
+only what isn't automatic: ladder steps, tempo or intensity changes, warm-up doses, ending the
+rebalance, new or dropped exercises. Write 1–4 concrete proposed changes into the `proposal` array of Sunday's doc. Copy them onto Monday's doc
 as well. **Never edit `01_Rehab_Plan.MD` yourself.** Emiel approves in chat.
 If there's too little data (fewer than 3 scores in the week), the proposal says so and proposes
 holding.

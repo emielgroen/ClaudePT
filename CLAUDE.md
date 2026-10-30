@@ -84,8 +84,11 @@ been logged for 7 days.** If he tells you a reaction in chat anyway, log it as b
   tomorrow). It reads the repo and the page but **can't push**, so it never commits; the page's
   database is the record until a chat session syncs it into the log. No notification; Emiel opens
   the page himself.
-- **Don't adjust a day's plan based on how he feels that day.** Changes are made on trends, in a
-  weekly proposal that he approves in chat. He adjusts on the day himself.
+- **Don't adjust a day's plan based on how he feels that day.** He adjusts on the day himself.
+- **Progressive overload every workout** *(Emiel, 2026-10-30)*: each main exercise steps up from what
+  he actually did at its last outing (including reps above the page dose), pain-gated. Details in
+  `daily/MORNING_RUN.md` step 4. Other changes (ladder steps, tempo, warm-up, ending the rebalance)
+  still go in the weekly proposal he approves in chat. `01_Rehab_Plan.MD` doses aren't edited for this.
 - **Independent review (2026-10-24):** `daily/independent_review.md` (blind-designed program) and
   the comparison page https://claude.ai/artifact/QRzgBe2y8pppDb3tMR6vb2. Nothing from it is in
   `01_Rehab_Plan.MD` until Emiel decides.
