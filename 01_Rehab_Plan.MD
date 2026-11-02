@@ -21,6 +21,27 @@ All strength and activation exercises should be performed at the gym (or with ap
 
 ---
 
+## Workload Cap: 2 Sets per Main Block — *adopted 2026-11-02 (Emiel approved in chat)*
+
+> **Why:** after Session B on Sat 2026-10-31 Emiel noted: *"This workout is too heavy. I did 2 sets of
+> side plank and Pallof press, 1 set of deadlifts. Progress from this, but reduce overall workload."*
+> The nightly run's proposal on that note was approved in chat on Mon 2026-11-02 (also recorded on the
+> Knee Day page: `log/2026-11-02` and the `approved` field on `days/2026-11-02`).
+
+**Overrides every "×3" / "3 sets" in this file for main exercises until Emiel changes it:**
+
+1.  **Main blocks: max 2 sets** in every session (A, B, C). Progress by **adding reps within the 2 sets**;
+    at the rep ceiling, don't add a third set — hold the reps there and raise it in the weekly proposal
+    (tempo, load, harder variant). **Nothing else is cut:** warm-up items, the cooldown and the exercise list
+    stay as they are. *(Supersedes the 2026-10-24 "3 sets from the start" note in the rebalance section.)*
+2.  **Side Plank Ladder (H): hold at step 3.** Don't step up until **all sets are finished at the top of the
+    range**.
+3.  **Session C restart:** start at **2×10 pogohops** and **2 sets of lateral lunges** — both felt heavy on
+    Sat 2026-10-24, and C has only been done once. Other C items follow the 2-set cap.
+4.  **Rebalance stays in place** for now (table below).
+
+---
+
 ## Quad/Hip Rebalance & Pogohop Start — *adopted 2026-10-21, temporary*
 
 > **Why:** Mon 2026-10-12 (half session) and Wed 2026-10-14 (31 km ride) left the quads "extremely sore,"
@@ -30,7 +51,7 @@ All strength and activation exercises should be performed at the gym (or with ap
 
 **Session dose until the quads settle** *(overrides the standing doses below for these exercises only)*:
 
-> **2026-10-24 (Emiel):** every main exercise runs at **3 sets from the start** — no 2-set ramp-ins; he doesn't want to be too conservative with load. Warm-up items keep their own doses, and pogohops keep their own dose steps.
+> **2026-11-02: superseded by the 2-set Workload Cap above.** ~~**2026-10-24 (Emiel):** every main exercise runs at **3 sets from the start** — no 2-set ramp-ins; he doesn't want to be too conservative with load. Warm-up items keep their own doses, and pogohops keep their own dose steps.~~
 
 | Exercise | Tonight's dose | Standing dose |
 |---|---|---|
@@ -122,6 +143,8 @@ unchanged, it does not. Report what happens.
 3. **Glute Bridges** 1×8, feet farther out **[Suggestion]**
 4. **Banded TKE** (15 kg band): current dose in the rebalance table · **hard quad squeeze at the end, stop at straight, never snap back past it** **[PT — his warm-up exercise, "bovenbeen goed aanspannen"]**
 
+> **Set counts below ("Superset ×3", "3×…") are capped at 2 sets for main blocks since 2026-11-02** — see the Workload Cap section.
+
 ### Session A — Knee strength (~45–50 min)
 *   Superset ×3: **A** Clamshells **[PT/plan]** ↔ **D** VMO Squats on wedges **[PT]** — rebalance dose, **no lockout squeeze** (Emiel, 2026-10-24: the PT never prescribed it for VMO squats; it was our own 9/12 progression).
 *   **E** Lateral Step-Ups on the yoga block **[PT]** — rebalance dose.
@@ -136,9 +159,9 @@ unchanged, it does not. Report what happens.
 *   Cooldown stretches (Section 4).
 
 ### Session C — Padel prep (~45 min) — *started at the lowest level, 2026-10-24*
-*   **F** Pogohops **[PT]** — current dose step (Section 3). Do them right after the warm-up, while fresh.
+*   **F** Pogohops **[PT]** — current dose step (Section 3); **restart at 2×10 (2026-11-02)**. Do them right after the warm-up, while fresh.
 *   **K** Single-Leg Land-and-Hold **[PT]** — 3×5/leg.
-*   **L** Lateral Lunge, bodyweight **[Suggestion — review]** — 3×8/side.
+*   **L** Lateral Lunge, bodyweight **[Suggestion — review]** — 3×8/side → **2 sets from 2026-11-02** (Workload Cap).
 *   **M** Kettlebell Swing, 8 kg **[Suggestion — review]** — 3×12.
 *   **A** Clamshells **[PT/plan]** — same dose as Session A.
 *   Cooldown stretches (Section 4).
@@ -161,6 +184,7 @@ unchanged, it does not. Report what happens.
     5. Full side plank with **hip dips** (lower the hips toward the floor, lift back to a straight line) — 3×8/side.
     6. **PT's version:** side plank with the **feet raised** (on a step/chair; PT note: top knee pulled up) doing **hip dips** — 3 × as many reps as possible.
     *   Move up one step when the current step reaches the top of its range with the score ≤3. Right side first (weaker glute med).
+    *   **2026-11-02 (Emiel approved): hold at step 3**, 2 sets (Workload Cap). Step up only once **all sets are finished at the top of the range**. On Sat 10/31 he did 2 sets.
 
 *   **Exercise I: Single-Leg Pallof Press [PT]**
     *   **Dose:** 3×10/side (PT: 3×10–12, later **with rotation**).

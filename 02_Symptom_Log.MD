@@ -639,3 +639,23 @@ Log Instructions for Antigravity:
 > 🟢 *Antigravity Note: Clean recovery day after a session that went above the planned doses.*
 
 ---
+
+### Sunday 2026-11-01 — Moving Day: Carrying Boxes on Stairs (from chat, 11/02)
+
+1. **Activity:** Helped someone move — carrying boxes up and down stairs all day. Duration/load otherwise not stated.
+2. **Reaction:** **Sore lower back** (reported 11/02). Knees: not mentioned — **pending** (Knee Day scores for 11/01 onward not yet synced into this log).
+3. **Anything Else:** Day after Sat 10/31 Session B, which Emiel noted was too heavy (2 sets of side plank and Pallof press, 1 set of deadlifts) — that note led to the 2-set Workload Cap approved 11/02 (`01_Rehab_Plan.MD`).
+
+> ⚠️ *Antigravity Note: A full day of loaded stair work is a heavy cumulative knee load. **Watch for a Day-3 flare Tue 11/03–Wed 11/04.** If one shows up, the Sat 10/31 session and this day are equally possible contributors.*
+
+---
+
+### Monday 2026-11-02 — Recovery (Back-Friendly), Session C Moved
+
+1. **Workout:** Session C swapped for a back-friendly recovery day: easy cardio for a light sweat + back mobility. Whether/how it was done: —
+2. **Reaction:** **Pending.**
+3. **Anything Else:** Session C moved to **Wed 11/04**, if the back is calm by then. Plan changes approved in chat today (2-set cap, side plank hold at step 3, Session C restart at 2×10 pogohops + 2 sets lateral lunges, rebalance kept) — see `01_Rehab_Plan.MD` → "Workload Cap". Also noted on the Knee Day page (`log/2026-11-02`, `approved` on `days/2026-11-02`).
+
+> 💡 *Antigravity Note: Page data for 10/30–11/02 (incl. the 10/31 Session B) still needs syncing into this log and the Response Scores table.*
+
+---

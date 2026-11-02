@@ -34,6 +34,12 @@ end of this file.
   **Don't overwrite it.** Still do step 2 (sync) and step 5 (Sunday proposal: `update` only the
   `proposal` field), then finish.
 - **Known upcoming events** (added from chat; remove them once they're past):
+  - **Mon 2026-11-02: Session C swapped for a back-friendly recovery day** (easy cardio for a light sweat
+    + back mobility) after Sun 11/01 carrying boxes up and down stairs all day while helping someone move
+    (sore lower back). **Session C moves to Wed 2026-11-04**, if the back is calm by then — Emiel decides
+    on the day; plan it as C (Workload Cap doses: 2×10 pogohops, 2 sets of lateral lunges). Treat Sun 11/01
+    as a heavily loaded day; **watch for a Day-3 knee flare Tue 11/03–Wed 11/04** after the stair load
+    (flag it in `why` if a score ≥4 shows up; don't change the plan on a single score).
   - **Mon 2026-10-26: padel, 60 min, very low-key with colleagues** (High Risk list). That day is
     locked. **Sun 10/25** (the day before): if it qualifies for training, it's **Session B** (hip & trunk,
     lowest knee load), not A; otherwise recovery. **Tue 10/27** (the day after): recovery only.
@@ -79,9 +85,13 @@ from what he **actually did** at its last outing, not from the plan table, then 
   number is the base. The rebalance table's "held" doses don't hold him back.
 - **Gate:** progress if every response score since that outing is ≤3 and he reported no pain ≥4.
   A score or reported pain ≥4 → regress ~30% (the plan's traffic-light rule). Hold only if he said hold.
+- **Set cap (2026-11-02, Emiel):** main exercises run **max 2 sets** — see "Workload Cap" in
+  `01_Rehab_Plan.MD`. If the last outing had fewer sets than 2 (e.g. 1 set of deadlifts on 10/31),
+  build from that toward 2. Side plank ladder holds at step 3.
 - **Step:** +1 rep on each set that is below the exercise's rep ceiling (ceilings in the plan's
   Progression Rule; leg extension 15). Uneven sets → bring the lower sets up, e.g. 15/15/12 per
-  leg → 15/15/13 per leg. At the ceiling on every set: drop to the lower rep count and add a set.
+  leg → 15/15/13 per leg. At the ceiling on every set: ~~drop to the lower rep count and add a set~~ hold there (2-set cap) and
+  raise it in the weekly proposal.
 - **Not automatic:** warm-up items (they keep their doses; tibialis and KOT progress by difficulty),
   side plank ladder steps, pogohop dose steps, tempo or intensity changes, and the first real outing
   of an exercise (practice runs and anything not done in the last ~4 weeks start at the plan dose).
